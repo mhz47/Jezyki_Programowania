@@ -30,9 +30,9 @@
  
  
  
-### [Wprowadzenie do środowiska Scratch - Zintegrowana Platforma Edukacyjna](https://zpe.gov.pl/a/wprowadzenie-do-srodowiska-scratch/DUVRjOY3C) 
+### [Scratch - nauka online programowania. Dostęp po polsku!](https://e-pasje.pl/scratch-nauka-online-programowania-dostep-po-polsku/) 
  
- > Opanujesz dodawanie nowych duszków, modyfikowanie ich wyglądu, wybieranie dźwięków, edytowanie tła sceny oraz tworzenie własnych animacji, symulacji, a nawet gier. Poniżej znajdziesz linki do materiałów, które pomogą Ci w zgłębieniu tych tematów: Materiał stanowi wprowadzenie do środowiska Scratch oraz zawiera ilustracje.
+ > Scratch - co to jest? Scratch to interpretowany wizualny język programowania.Co to znaczy? To, że Scratch jest narzędziem online stanowiącym środowisko programistyczne, w którym programowanie odbywa się za pomocą graficznych bloków, a kod jest interpretowany w czasie rzeczywistym, co pozwala użytkownikom eksperymentować i tworzyć projekty bez konieczności pisania tradycyjnego ...
  
  
  

@@ -43,13 +43,6 @@
  
 ### Wyniki wyszukiwania: "SQL kurs programowania" 
  
-### [Najpopularniejsze kursy online na temat SQL - Zaktualizowano ... - Udemy](https://www.udemy.com/pl/topic/sql/) 
- 
- > 17 min wideo. Wyświetl kursy typu free na temat SQL. Naucz się języka SQL od najwyżej ocenianych instruktorów. Znajdź najlepsze kursy SQL dopasowane do Twoich potrzeb i umiejętności, od najczęstszych zapytań SQL do analizy danych i nie tylko. Podnieś swój zestaw umiejętności SQL i przenieś umiejętności analizy danych na wyższy ...
- 
- 
- 
- 
 ### [Kursy SQL Server i szkolenia z baz danych online - KursySQL](https://www.kursysql.pl/) 
  
  > Darmowy kurs SQLw 120min. Zapraszamy do skorzystania z bezpłatnego, dwugodzinnego szkolenia dotyczącego najważniejszych elementów języka SQL. Dowiesz się jak zainstalować SQL Server, poznasz podstawy składni, sortowania i filtrowania danych, a także podstawy grupowania i łączenia tabel. Czas trwania: 120min. Rodzaj: Online.
@@ -57,9 +50,16 @@
  
  
  
-### [Kurs SQL od podstaw | MySQL | Udemy](https://www.udemy.com/course/kurs-sql-od-podstaw/) 
+### [Najpopularniejsze kursy online na temat SQL - Zaktualizowano ... - Udemy](https://www.udemy.com/pl/topic/sql/) 
  
- > Stworzony przeze mnie kurs SQL jest prowadzony od podstaw i nakierowany głównie dla osób chcących nauczyć się jego podstaw. ... regularnie tworzy treści związane z testowaniem i programowaniem na kanale YouTube Technika Programowania. Uczmy się! Pokaż więcej Pokaż mniej. Najlepsze firmy wybierają Udemy Business, ...
+ > 17 min wideo. Wyświetl kursy typu free na temat SQL. Naucz się języka SQL od najwyżej ocenianych instruktorów. Znajdź najlepsze kursy SQL dopasowane do Twoich potrzeb i umiejętności, od najczęstszych zapytań SQL do analizy danych i nie tylko. Podnieś swój zestaw umiejętności SQL i przenieś umiejętności analizy danych na wyższy ...
+ 
+ 
+ 
+ 
+### [Kurs SQL - Analiza Danych - Coders Lab](https://coderslab.pl/pl/sql-analiza-danych) 
+ 
+ > Skoro masz za sobą zakończony sukcesem kurs Python - Analiza Danych, to wiesz, że w jego programie umieściliśmy podstawy języka SQL.To Twoja baza informacji. Z kolei kurs SQL - Analiza Danych jest naturalną kontynuacją nauki tego języka programowania.. Rozbudowujesz zdobytą wcześniej wiedzę i - co dla nas bardzo ważne - wykorzystujesz ją od razu w praktyce!
  
  
  

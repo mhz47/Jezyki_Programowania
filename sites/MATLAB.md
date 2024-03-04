@@ -23,16 +23,16 @@
  
  
  
-### [Programming with MATLAB - MATLAB & Simulink - MathWorks](https://www.mathworks.com/products/matlab/programming-with-matlab.html) 
- 
- > Programming with MATLAB. MATLAB is a high-level programming language designed for engineers and scientists that expresses matrix and array mathematics directly. You can use MATLAB for everything, from running simple interactive commands to developing large-scale applications.
- 
- 
- 
- 
 ### [Czym jest MATLAB i czy warto się go uczyć? deep learning](https://www.deeptechnology.ai/czym-jest-matlab-i-czy-warto-sie-go-uczyc/) 
  
  > MATLAB (Matrix Laboratory) to środowisko obliczeniowe i język programowania, który jest szeroko stosowany w nauce, inżynierii i analizie danych. MATLAB oferuje narzędzia do tworzenia interaktywnych aplikacji, wizualizacji i analizy danych, a także do tworzenia algorytmów i aplikacji. Jest to jeden z najpopularniejszych języków ...
+ 
+ 
+ 
+ 
+### [Programming with MATLAB - MATLAB & Simulink - MathWorks](https://www.mathworks.com/products/matlab/programming-with-matlab.html) 
+ 
+ > Programming with MATLAB. MATLAB is a high-level programming language designed for engineers and scientists that expresses matrix and array mathematics directly. You can use MATLAB for everything, from running simple interactive commands to developing large-scale applications.
  
  
  

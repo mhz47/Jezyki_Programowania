@@ -30,9 +30,9 @@
  
  
  
-### [Python Tutorial | Learn Python Programming - GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/) 
+### [Introduction to Python - W3Schools](https://www.w3schools.com/python/python_intro.asp) 
  
- > This Python tutorial is well-suited for beginners as well as professionals, covering basic to advanced concepts of the Python programming language. This free Python tutorial includes various topics such as loops, strings, lists, dictionaries, and arrays, along with examples. #Python Tutorial, #Free Python Programming Tutorial.
+ > Python has a simple syntax similar to the English language. Python has syntax that allows developers to write programs with fewer lines than some other programming languages. Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
  
  
  

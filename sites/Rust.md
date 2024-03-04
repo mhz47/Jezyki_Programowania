@@ -9,9 +9,9 @@
  
  
  
-### [Język programowania Rust](https://prev.rust-lang.org/pl-PL/) 
+### [Rust (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language)) 
  
- > Rust to systemowy język programowania, który jest niesamowicie szybki, zapobiega naruszeniom pamięci oraz gwarantuje bezpieczeństwo wątków. Zobacz, kto używa Rusta, zainstaluj go i sprawdź przykłady kodu.
+ > Rust is a multi-paradigm, general-purpose programming language that emphasizes performance, type safety, and concurrency.It enforces memory safety—meaning that all references point to valid memory—without a garbage collector.To simultaneously enforce memory safety and prevent data races, its "borrow checker" tracks the object lifetime of all references in a program during compilation.
  
  
  
@@ -23,16 +23,16 @@
  
  
  
-### [Rust (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language)) 
+### [The Rust Programming Language - The Rust Programming Language - Learn Rust](https://doc.rust-lang.org/stable/book/) 
  
- > Rust is a multi-paradigm, general-purpose programming language that emphasizes performance, type safety, and concurrency.It enforces memory safety—meaning that all references point to valid memory—without a garbage collector.To simultaneously enforce memory safety and prevent data races, its "borrow checker" tracks the object lifetime of all references in a program during compilation.
- 
- 
+ > The Rust Programming Language. by Steve Klabnik and Carol Nichols, with contributions from the Rust Community. This version of the text assumes you're using Rust 1.67.1 (released 2023-02-09) or later. See the "Installation" section of Chapter 1 to install or update Rust. The HTML format is available online at https://doc.rust-lang.org ...
  
  
-### [Dokumentacja Rusta · Język programowania Rust](https://prev.rust-lang.org/pl-PL/documentation.html) 
  
- > Znajdź informacje o Rustie, systemowym języku programowania, który jest szybki, bezpieczny i łatwy w użyciu. Przeczytaj wprowadzenie, przykłady, dokumentację biblioteki, błędy, polityki i więcej.
+ 
+### [Język programowania Rust](https://prev.rust-lang.org/pl-PL/) 
+ 
+ > Język programowania Rust. Rust to systemowy język programowania, który jest niesamowicie szybki, zapobiega naruszeniom pamięci oraz gwarantuje bezpieczeństwo wątków. Zobacz, kto używa Rusta. Zainstaluj Rust 1.31.0.
  
  
  
@@ -57,9 +57,9 @@
  
  
  
-### [Rust Programming | Coursera](https://www.coursera.org/specializations/rust-programming) 
+### [Rust - zastosowanie, przyszłość, najlepsze, polecane kursy](https://jaki-jezyk-programowania.pl/technologie/rust/) 
  
- > This comprehensive Rust Specialization from Coursera and Duke University, a top Data Science and AI program, provides software engineers, data scientists, and technical professionals with applied skills to leverage Rust's speed, safety, and versatility for robust systems programming. Over five courses spanning foundational syntax to advanced ...
+ > Zastosowanie. Rust jest relatywnie świeżym, wieloparadygmatowym językiem programowania obecnie rozwijanym przez Mozillę. Został zaprojektowany by być bezpiecznym, szczególnie pod względem współbieżności. Rust składniowo jest podobny do C++. Oferuje automatyczne zarządzanie pamięcią, jednak w odróżnieniu do typowych rozwiązań ...
  
  
  

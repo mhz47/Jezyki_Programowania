@@ -23,16 +23,16 @@
  
  
  
-### [Dokumentacja języka C — wprowadzenie, samouczki i dokumentacja.](https://learn.microsoft.com/pl-pl/cpp/c-language/?view=msvc-170) 
+### [Samouczek C dla początkujących: Naucz się podstaw języka programowania C](https://www.guru99.com/pl/c-programming-tutorial.html) 
  
- > Dokumentacja programowania w języku C dla użytkowników programów Microsoft C/C++ i Visual Studio. Przejdź do głównej zawartości. Ta przeglądarka nie jest już obsługiwana. ... Język. Przeczytaj w języku angielskim. Spis treści Przeczytaj w języku angielskim Edytuj. Twitter LinkedIn Facebook E-mail. Spis treści.
- 
- 
+ > C to język programowania ogólnego przeznaczenia, który jest niezwykle popularny, prosty i elastyczny. Jest to niezależny od maszyny, ustrukturyzowany język programowania, szeroko stosowany w różnych zastosowaniach. Ten samouczek języka C dla początkujących uczy podstawowych i zaawansowanych koncepcji programowania C, dzięki którym ...
  
  
-### [The C Programming Language - Wikipedia](https://en.wikipedia.org/wiki/The_C_Programming_Language) 
  
- > The C Programming Language (sometimes termed K&R, after its authors' initials) is a computer programming book written by Brian Kernighan and Dennis Ritchie, the latter of whom originally designed and implemented the C programming language, as well as co-designed the Unix operating system with which development of the language was closely intertwined. The book was central to the development and ...
+ 
+### [1. Kurs języka C - Wstęp do programowania, instalacja środowiska IDE](https://www.youtube.com/watch?v=o9zn6XQKjgU) 
+ 
+ > Wsparcie kanału - https://patronite.pl/KoWCały kurs C - https://www.youtube.com/watch?v=o9zn6XQKjgU&list=PL6aekdNhY7DBvSnK0HUUBb-OH4y41HoZw--- Chcesz wiedzie...
  
  
  
@@ -57,9 +57,9 @@
  
  
  
-### [ATNEL Kurs języka C](https://kursc.atnel.pl/) 
+### [Najpopularniejsze kursy online na temat C (język programowania ... - Udemy](https://www.udemy.com/pl/topic/c-programming/) 
  
- > Kurs Atnel Online. w najlepszym wydaniu! Bluebook i Greenbook w pigułce wideo! Pierwszy w Polsce i jedyny kompleksowy kurs języka C dla mikrokontrolerów. Nie jest to jednak typowy kurs jakich powstało bez liku w ostatnich latach w internecie. Tylko TUTAJ poznasz TECHNIKI PROGRAMOWANIA w C nie zaś sam suchy język i sprzęt.
+ > Dowiedz się, jak używać języka programowania C dzięki wykładom prowadzonym przez najwyżej ocenianych instruktorów programowania. Niezależnie od tego, czy interesujesz się podstawami czy zaawansowanymi zastosowaniami języka programowania C, Udemy z pewnością ma kurs, który pomoże Ci stać się lepszym programistą.
  
  
  

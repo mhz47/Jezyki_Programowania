@@ -30,9 +30,9 @@
  
  
  
-### [Assembly language - CodeDocs](https://codedocs.org/what-is/assembly-language) 
+### [Assembly](https://assembly-lang.org/app/) 
  
- > Assembly language syntax. Assembly language uses a mnemonic to represent each low-level machine instruction or opcode, typically also each architectural register, flag, etc.Many operations require one or more operands in order to form a complete instruction. Most assemblers permit named constants, registers, and labels for program and memory locations, and can calculate expressions for operands.
+ > Link do Twojego programu: Zamknij ...
  
  
  

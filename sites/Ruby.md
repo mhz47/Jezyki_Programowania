@@ -23,16 +23,16 @@
  
  
  
-### [Czym jest Ruby i dlaczego warto go się nauczyć?](https://theforcecode.com/help/pl/czym-jest-ruby-i-dlaczego-warto-go-sie-nauczyc/) 
- 
- > Język programowania Ruby to dynamiczny, interpretowany język skryptowy, który zyskał ogromną popularność w świecie programowania. Ruby jest znany z eleganckiej składni, łatwej do zrozumienia i czytania. Warto poświęcić trochę czasu na naukę tego języka, ponieważ może to otworzyć drzwi do wielu fascynujących możliwości ...
- 
- 
- 
- 
 ### [Ruby i Ruby on Rails: wprowadzenie w język i popularne praktyki](https://boringowl.io/blog/podroz-do-swiata-programowania-przewodnik-po-jezyku-ruby) 
  
  > Język programowania Ruby jest nieodłącznym elementem wielu nowoczesnych aplikacji webowych. W tym kontekście, najlepsze praktyki i narzędzia to klucz do produkcji skutecznego, wydajnego oraz łatwego do utrzymania kodu. Zbiór gemów, takich jak Bundler czy Rake, umożliwia zarządzanie zależnościami i automatyzację zadań, co ...
+ 
+ 
+ 
+ 
+### [Czym jest Ruby i dlaczego warto go się nauczyć?](https://theforcecode.com/help/pl/czym-jest-ruby-i-dlaczego-warto-go-sie-nauczyc/) 
+ 
+ > Język programowania Ruby to dynamiczny, interpretowany język skryptowy, który zyskał ogromną popularność w świecie programowania. Ruby jest znany z eleganckiej składni, łatwej do zrozumienia i czytania. Warto poświęcić trochę czasu na naukę tego języka, ponieważ może to otworzyć drzwi do wielu fascynujących możliwości ...
  
  
  

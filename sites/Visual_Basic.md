@@ -23,16 +23,16 @@
  
  
  
+### [Visual Basic for Applications - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Visual_Basic_for_Applications) 
+ 
+ > Visual Basic for Applications. Visual Basic for Applications, VBA - język programowania oparty na Visual Basicu (VB) zaimplementowany w aplikacjach pakietu Microsoft Office oraz kilku innych, jak na przykład AutoCAD i WordPerfect. Ta uproszczona wersja Visual Basica służy przede wszystkim do automatyzacji pracy z dokumentami, na przykład ...
+ 
+ 
+ 
+ 
 ### [Wprowadzenie do kodowania za pomocą języka Visual Basic (VB) - Visual ...](https://learn.microsoft.com/pl-pl/visualstudio/get-started/visual-basic/tutorial-editor?view=vs-2022) 
  
  > Program Visual Studio udostępnia przydatne fragmenty kodu, których można używać do szybkiego i łatwego generowania często używanych bloków kodu. Fragmenty kodu są dostępne dla różnych języków programowania, takich jak Visual Basic, C# i C++. Dodajmy fragment kodu sub języka Visual Basic do naszego pliku.
- 
- 
- 
- 
-### [Przewodnik dla początkujących dotyczący używania języka Visual Basic ...](https://www.greelane.com/pl/nauka-tech-math/informatyka/learn-about-vba-3423992/) 
- 
- > Możesz używać Visual Basic do programowania na komputery stacjonarne i urządzenia mobilne oraz do programowania zdalnego (VB.NET), tworzenia skryptów (VBScript) ... język VBA jest używany przede wszystkim jako sposób uzyskiwania dostępu do obiektów środowiska hosta, takich jak dostęp do akapitów w dokumencie za pomocą obiektu Word ...
  
  
  
@@ -57,9 +57,9 @@
  
  
  
-### [Szkolenia VBA - Kursy Programowania VBA - Comarch](https://www.comarch.pl/szkolenia/aplikacje-biurowe/vba/) 
+### [Samouczek: tworzenie prostych aplikacji konsolowych Visual Basic ...](https://learn.microsoft.com/pl-pl/visualstudio/get-started/visual-basic/tutorial-console?view=vs-2022) 
  
- > Szkolenia z Visual Basic for Aplication w MS Excel są dedykowane właśnie dla Ciebie. VBA kursy i szkolenia - sprawdź i zautomatyzuj swoją pracę! Kurs VBA dla początkujących, szkolenia VBA online, kursy zaawansowane VBA - wybierz coś dla siebie! ... Stworzyliśmy 80-godzinny inensywny kurs programowania, ...
+ > Uwaga. Jeśli nie widzisz szablonu Aplikacja konsolowa, możesz zainstalować go w oknie Tworzenie nowego projektu.W komunikacie Nie można znaleźć tego, czego szukasz? wybierz link Zainstaluj więcej narzędzi i funkcji. Następnie w Instalator programu Visual Studio wybierz obciążenie programowania dla wielu platform .NET Core.. Następnie wybierz przycisk Modyfikuj w Instalator programu ...
  
  
  
