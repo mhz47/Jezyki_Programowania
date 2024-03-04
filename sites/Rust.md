@@ -7,9 +7,13 @@
  Rust - kompilowany język programowania ogólnego przeznaczenia. Stworzony z myślą o „bezpieczeństwie, współbieżności i praktyczności". Historia. Język zaprojektował Graydon Hoare w 2006 roku, w 2009 projekt został przyjęty pod skrzydła Mozilla Foundation. W 2010 Mozilla ...
 
 
+
+
 #### [Rust (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language)) 
 
  Rust is a multi-paradigm, general-purpose programming language that emphasizes performance, type safety, and concurrency.It enforces memory safety—meaning that all references point to valid memory—without a garbage collector.To simultaneously enforce memory safety and prevent data races, its "borrow checker" tracks the object lifetime of all references in a program during compilation.
+
+
 
 
 #### [Rust - zastosowanie, przyszłość, najlepsze, polecane kursy](https://jaki-jezyk-programowania.pl/technologie/rust/) 
@@ -17,14 +21,20 @@
  Według ankiety przeprowadzonej przez StackOverflow Rust był najbardziej polubionym językiem wśród programistów 3 lata z rzędu - w 2016, 2017 i 2018. Oznacza to, że ten język programowania ma naprawdę dobry potencjał. Dodatkowym plusem jest to, że jest rozwijany przez Mozillę.
 
 
-#### [Learn Rust Programming - For Beginners](https://www.programiz.com/rust) 
-
- Learn Rust Programming. Tutorials Online Compiler. Rust is an open-source programming language that is extensively used to build kernels for operating systems, game engines for video games, browser engines for web browsers like Chrome, Firefox, and command-line tools. It is one of the fastest programming languages and requires less memory.
 
 
-#### [Learn Rust - Rust Programming Language](https://www.rust-lang.org/learn) 
+#### [The Rust Programming Language - The Rust Programming Language - Learn Rust](https://doc.rust-lang.org/stable/book/) 
 
- Get started with Rust. Affectionately nicknamed "the book," The Rust Programming Language will give you an overview of the language from first principles. You'll build a few projects along the way, and by the end, you'll have a solid grasp of the language. Read the Book!
+ The Rust Programming Language. by Steve Klabnik and Carol Nichols, with contributions from the Rust Community. This version of the text assumes you're using Rust 1.67.1 (released 2023-02-09) or later. See the "Installation" section of Chapter 1 to install or update Rust. The HTML format is available online at https://doc.rust-lang.org ...
+
+
+
+
+#### [Język programowania Rust](https://prev.rust-lang.org/pl-PL/) 
+
+ Język programowania Rust. Rust to systemowy język programowania, który jest niesamowicie szybki, zapobiega naruszeniom pamięci oraz gwarantuje bezpieczeństwo wątków. Zobacz, kto używa Rusta. Zainstaluj Rust 1.31.0.
+
+
 
 
 
@@ -38,18 +48,24 @@
  Jeśli materiał o programowaniu w języku Rust okazał się pomocny będę bardzo wdzięczny za ocenę filmu oraz zasubskrybowanie kanału! W ramach kursu o programow...
 
 
+
+
 #### [Rust Programming | Coursera](https://www.coursera.org/specializations/rust-programming) 
 
  This comprehensive Rust Specialization from Coursera and Duke University, a top Data Science and AI program, provides software engineers, data scientists, and technical professionals with applied skills to leverage Rust's speed, safety, and versatility for robust systems programming. Over five courses spanning foundational syntax to advanced ...
 
 
-#### [Wykonaj pierwsze kroki za pomocą języka Rust - Training](https://learn.microsoft.com/pl-pl/training/paths/rust-first-steps/) 
 
- Podstawy wiedzy potrzebnej do tworzenia szybkich i skutecznych programów w Rust. Zawartość tej ścieżki szkoleniowej: Zainstaluj narzędzia potrzebne do pisania pierwszych wierszy kodu Rust. Poznaj podstawowe pojęcia w języku Rust. Dowiedz się, jak obsługiwać błędy. Zarządzanie pamięcią w języku Rust. Użyj typów ogólnych i cech.
+
+#### [Seria dla początkujących do rust | Microsoft Learn](https://learn.microsoft.com/pl-pl/shows/beginners-series-to-rust/) 
+
+ Rust został sklasyfikowany jako jeden z najbardziej lubianych języków przez deweloperów. W tej serii poznasz podstawy opracowywania oprogramowania Rust. Zaczniemy od pobrania narzędzi potrzebnych do programowania za pomocą języka Rust, omówimy typowe pojęcia i udostępnimy unikatowe informacje o Rust.&nbsp;Pod koniec tej serii będziesz mieć wystarczającą&nbsp;wiedzę, aby ...
+
+
 
 
 
 
 ---
 
- [Powrót do listy](/home/mhz/Dokumenty/studia/sem4/awww/lab1/website/top20.md)
+ [Powrót do listy](top20.md)

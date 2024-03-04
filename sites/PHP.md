@@ -7,9 +7,13 @@
  PHP - interpretowany, skryptowy język programowania zaprojektowany do generowania stron internetowych i budowania aplikacji webowych w czasie rzeczywistym.. PHP jest najczęściej stosowany do tworzenia skryptów po stronie serwera WWW, ale może być on również używany do przetwarzania danych z poziomu wiersza poleceń, a nawet do pisania programów pracujących w trybie graficznym (np ...
 
 
+
+
 #### [Język programowania PHP - czym jest i jak działa?](https://udigroup.pl/blog/jezyk-programowania-php-czym-jest-i-jak-dziala/) 
 
  Język PHP pozwala na programowanie obiektowe, co umożliwia ponowne wykorzystanie kodu. Komponenty PHP są przeznaczone do wielokrotnego użytku, dzięki czemu zaoszczędzają programistom dużo czasu i pracy w procesie tworzenia. PHP ma też wiele dobrze znanych i cenionych frameworków, takich jak Laravel, Symfony czy CodeIgniter.
+
+
 
 
 #### [PHP. Co to jest PHP. Najważniejsze informacje i przykłady.](https://webporadnik.pl/php-co-to-jest-php-najwazniejsze-informacje-i-przyklady/) 
@@ -17,14 +21,20 @@
  PHP, zwany inaczej "Hypertext Preprocessor", to język programowania, który odgrywa kluczową rolę w tworzeniu dynamicznych stron internetowych. Jego historia, składniki, a przede wszystkim praktyczne zastosowanie czynią go jednym z najpopularniejszych języków programowania na świecie. W tym artykule przyjrzymy się bliżej PHP - od definicji, przez historię, zalety, do porównania z…
 
 
+
+
 #### [Język PHP - do czego służy i dlaczego warto go poznać](https://blog.strefakursow.pl/jezyk-php-do-czego-sluzy-i-dlaczego-warto-go-poznac/) 
 
  Jest wiele powodów do rozpoczęcia nauki programowania z wykorzystaniem języka PHP. Oto kilka z nich: Popularność - PHP to najczęściej używany język programowania do tworzenia stron internetowych. Wykorzystuje go nawet przeszło 80 proc. stron WWW. Uniwersalność - PHP służy m.in. generowaniu kodu stron internetowych. Oprócz ...
 
 
+
+
 #### [Czym jest język programowania PHP i do czego jest używany? - SMART Agency](https://www.smart-agency.pl/czym-jest-php/) 
 
  Interpretowany skryptowy język programowania - inaczej nazywany PHP, jest specjalnie stworzonym narzędziem do generowania stron internetowych oraz tworzenia aplikacji webowych w czasie rzeczywistym. Obok HTML jest to jeden z najpopularniejszych i najczęściej wykorzystywanych języków m.in. do tworzenia kompleksowych stron internetowych ...
+
+
 
 
 
@@ -38,9 +48,13 @@
  Oczywiście, współczesne wymagania na rynku pracy dla juniora zawierają też inne technologie, np. Laravel czy Symphony (są to frameworki, których zamierzam uczyć w innych kursach) czy GIT (system kontroli wersji, którego możesz uczyć się za darmo w kursie Samuraja Programowania). Kurs oparty jest na PHP 7.4. Zapraszam do wspólnej nauki!
 
 
-#### [Kurs PHP - praktyczny, rzetelny, darmowy i w całości online](https://kursphp.com/) 
 
- Cześć! Odwiedzasz właśnie kurs programowania podzielony na kilka rozdziałów. W skład każdego rozdziału wchodzą lekcje poświęcone wybranej tematyce programowania w PHP. Podstawowy kurs PHP jest już dostępny w całości! Możesz uczyć się go online lub pobrać wszystkie lekcje w formie wygodnego i obszernego e-booka.
+
+#### [Kurs PHP](https://phpkurs.pl/) 
+
+ Kurs programowania w języku PHP. Kurs ten ma za zadanie zaznajomić osobę kompletnie nieobeznaną z tym językiem na tyle, aby sama była w stanie napisać skrypty tworzące dynamiczne strony WWW. Pomaga także osobom wcześniej nieprogramującym na zaznajomienie się z technikami programistycznymi. Kurs jest uniwersalny - można go stosować do dowolnej wersji PHP.
+
+
 
 
 #### [Kurs PHP - naucz się programować w PHP! | PHPDevs](https://www.phpdevs.pl/) 
@@ -50,6 +64,8 @@
 
 
 
+
+
 ---
 
- [Powrót do listy](/home/mhz/Dokumenty/studia/sem4/awww/lab1/website/top20.md)
+ [Powrót do listy](top20.md)

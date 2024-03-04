@@ -67,6 +67,6 @@ with open('top20.md', 'w') as f:
             write_search(site, language + " język programowania", 5)
             site.write(f"\n\n---\n\n")
             write_search(site, language + " kurs programowania", 3)
-            site.write(f"\n\n---\n\n [Powrót do listy]({Path(os.getcwd())}/top20.md)")
+            site.write(f"\n\n---\n\n [Powrót do listy](top20.md)")
 
     f.write(f"\n\n---\n\n [Powrót do strony głównej](index.md)")

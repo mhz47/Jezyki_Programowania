@@ -7,9 +7,13 @@
  Kotlin - statycznie typowany język programowania działający na maszynie wirtualnej Javy, który jest głównie rozwijany przez programistów JetBrains. Nazwa języka pochodzi od wyspy Kotlin niedaleko Petersburga [4]. Kotlin jest zaprojektowany z myślą o pełnej interoperacyjności z językami działającymi na maszynie wirtualnej Javy.
 
 
+
+
 #### [Kotlin Programming Language](https://kotlinlang.org/) 
 
  The Kotlin Foundation has been accepted as a mentor organization for Google Summer of Code 2024! GSoC is a global online program focused on bringing new contributors into open-source software development. Contributors work on a 12-week programming project under the guidance of Kotlin Foundation mentors from Google, Gradle, and JetBrains.
+
+
 
 
 #### [Kotlin dla początkujących - czym jest i jak zacząć?](https://bykowski.pl/kotlin-dla-poczatkujacych-czym-jest-i-jak-zaczac/) 
@@ -17,14 +21,20 @@
  Kotlin - jest to statycznie typowany język programowania ogólnego przeznaczenia, który stawia na wieloplatformowość. Język jest opracowywany przez firmę JetBrains, a nad znakiem handlowym Kotlina pieczę sprawuje Kotlin Foundation. Kotlin został zaprojektowany do współdziałania z Javą. Dlatego w ramach jednego projektu opartego na ...
 
 
+
+
 #### [Język Kotlin - do czego służy i czy warto go poznać?](https://blog.strefakursow.pl/jezyk-kotlin-do-czego-sluzy-i-czy-warto-go-poznac/) 
 
  Kotlin to statycznie typowany i wieloplatformowy język programowania. Działa na maszynie wirtualnej Javy, z którą jest w pełni kompatybilny. Co ważne, za Kotlinem stoi jedna z najbardziej rozpoznawalnych marek w świecie IT, czyli JetBrains (twórcy m.in. IntelliJ IDEA, prawdopodobnie najpopularniejszego IDE dla Javy). Do jakich zastosowań Kotlin sprawdza się
 
 
+
+
 #### [Kotlin - zastosowanie, przyszłość, najlepsze, polecane kursy](https://jaki-jezyk-programowania.pl/technologie/kotlin/) 
 
  Zastosowanie. Kotlin to wieloplatformowy, statycznie typowany język programowania działający na maszynie wirtualnej Javy, który jest głównie rozwijany przez programistów JetBrains - m.in. twórców popularnych IDE jak InteliJ. Kotlin jest zaprojektowany z myślą o pełnej interoperacyjności z językami działającymi na maszynie ...
+
+
 
 
 
@@ -38,9 +48,13 @@
  Ten kurs Kotlin wprowadzi Cię w popularny język programowania. Ten kurs obejmuje podstawowe funkcje Kotlin, parametry funkcji, listy, mapy, tablice, metody klas, interfejsy, obiekty, klasy danych i standardową bibliotekę Kotlin. Samouczek Kotlina dla początkujących: Donn Felker. Jeśli jesteś początkującym i szukasz pełnego kursu do ...
 
 
+
+
 #### [1. Kurs Kotlin - Wstęp, instalacja, pierwszy program - YouTube](https://www.youtube.com/watch?v=RfiY8RKhV3U) 
 
  Wsparcie kanału - https://patronite.pl/KoWZapraszam do subskrybowania mojego kanału:https://www.youtube.com/user/KodeksOnline?sub_confirmation=1Cały kurs Kot...
+
+
 
 
 #### [Najpopularniejsze kursy online na temat Kotlin - Udemy](https://www.udemy.com/pl/topic/kotlin/) 
@@ -50,6 +64,8 @@
 
 
 
+
+
 ---
 
- [Powrót do listy](/home/mhz/Dokumenty/studia/sem4/awww/lab1/website/top20.md)
+ [Powrót do listy](top20.md)
