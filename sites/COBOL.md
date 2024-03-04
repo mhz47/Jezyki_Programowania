@@ -16,9 +16,16 @@
 
 
 
-#### [Cobol - Encyklopedia Zarządzania](https://mfiles.pl/pl/index.php/Cobol) 
+#### [COBOL dla początkujących - Bulldogjob](https://bulldogjob.pl/readme/cobol-dla-poczatkujacych) 
 
- Podgląd. Kod źródłowy. Historia. COBOL (ang. COmmon Business Oriented Language) - język programowania stworzony z głównym przeznaczeniem do prac programistycznych w dziedzinach ekonomii i biznesu. COBOL jest jednym z najpopularniejszych i najczęściej używanych języków programowania na świecie. Według szacunków Gartner Group z ...
+ Common Business-Oriented Language, czyli COBOL, to kompilowany język programowania podobny do języka angielskiego, zaprojektowany do użycia w biznesie. Jest to język imperatywny, proceduralny i, od 2002, zorientowany obiektowo. Jest używany głównie w biznesie, finansach i systemach zarządzających dla dużych firm i rządów. ...
+
+
+
+
+#### [Cobol - co musisz wiedzieć o tym języku programowania?](https://aviary.pl/cobol-jezyk-programowania/) 
+
+ Cobol to jeden z najstarszych języków programowania, który pozostaje istotny w dzisiejszym świecie technologii. Jego nazwa pochodzi od skrótu "COmmon
 
 
 
@@ -30,22 +37,15 @@
 
 
 
-#### [Cobol - Ibm](https://www.ibm.com/docs/pl/i/7.3?topic=languages-cobol) 
-
- Skorowidz zawiera opis język programowania Integrated Language Environment® COBOL (ILE COBOL). Podręcznik programisty ILE COBOL Podręcznik zawiera opis sposobu pisania, kompilowania, konsolidowania, uruchamiania, debugowania i obsługi programów kompilatora ILE (Integrated Language Environment®) COBOL dla systemu IBM® i.
-
-
-
-
 
 
 ---
 
 ### Wyniki wyszukiwania: "COBOL kurs programowania" 
 
-#### [Free course: Announcing Learning COBOL Programming with VSCode](https://www.ibm.com/blogs/ibm-training/free-course-announcing-learning-cobol-programming-with-vscode/) 
+#### [Szkolenia COBOL - NobleProg](https://www.nobleprog.pl/szkolenia-cobol) 
 
- Free course: Announcing Learning COBOL Programming with VSCode. You can take this 16 hour course for free and earn your badge. Get set and dive in for some actual COBOL! This introductory COBOL course helps a novice learn the Structure of COBOL programs, Data types & Variable Handling, Intrinsic Functions, Branching logic and more.
+ COBOL (Common Business-Oriented Language) to starszy język programowania używany w systemach biznesowych i administracyjnych do operacji przedsiębiorstw. COBOL to rozwiązanie programistyczne odpowiadające na wyzwania związane z systemem biznesowym. ... szkolenie wieczorowe COBOL, szkolenie weekendowe COBOL, Kurs COBOL,Kursy COBOL, Trener ...
 
 
 
@@ -57,9 +57,9 @@
 
 
 
-#### [COBOL Programming with VSCode | Coursera](https://www.coursera.org/learn/cobol-programming-vscode) 
+#### [Free course: Announcing Learning COBOL Programming with VSCode](https://www.ibm.com/blogs/ibm-training/free-course-announcing-learning-cobol-programming-with-vscode/) 
 
- This introductory COBOL course helps a novice learn the Structure of COBOL programs, Data types & Variable Handling, Intrinsic Functions, Branching logic and more. The goal of the course is to enable the participant to be able to write basic COBOL programs. This is a fantastic compliment to the IBM z/OS Practitioner path for the IBM Mainframe.
+ Free course: Announcing Learning COBOL Programming with VSCode. You can take this 16 hour course for free and earn your badge. Get set and dive in for some actual COBOL! This introductory COBOL course helps a novice learn the Structure of COBOL programs, Data types & Variable Handling, Intrinsic Functions, Branching logic and more.
 
 
 

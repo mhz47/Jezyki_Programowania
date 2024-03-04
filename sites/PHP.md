@@ -30,9 +30,9 @@
 
 
 
-#### [Programowanie w PHP od podstaw - teoria i praktyka | Udemy](https://www.udemy.com/course/kurs-programowanie-w-php/) 
+#### [PHP: The Right Way. Po polsku.](http://pl.phptherightway.com/) 
 
- W ramach części teoretycznej nauczysz się nie tylko składni języka PHP, ale też poznasz, czym jest programowanie obiektowe i to nie tylko w teorii, ale również w praktyce. Zdobędziesz też podstawową wiedzę na temat baz danych - czym są, z czego się składają i jak ich używać bez oraz z PHP. Do tego uzyskasz kilka prostych, acz ...
+ Paradygmaty programowania w PHP. PHP jest językiem, w którym możesz programować na wiele sposobów. Przez ostatnie lata mocno rozwinął swoje możliwości. W wersji 5.0 ... ale może być również użyteczny jako język skryptowy, uruchamiany z poziomu konsoli. Dzięki temu można łatwo automatyzować typowe zadania, jak testowanie ...
 
 
 

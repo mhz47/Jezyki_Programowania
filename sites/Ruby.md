@@ -16,16 +16,16 @@
 
 
 
-#### [About Ruby - Ruby Programming Language](https://www.ruby-lang.org/en/about/) 
-
- About Ruby's Growth. Since its public release in 1995, Ruby has drawn devoted coders worldwide. In 2006, Ruby achieved mass acceptance. With active user groups formed in the world's major cities and Ruby-related conferences filled to capacity. Ruby-Talk, the primary mailing list for discussion of the Ruby language, climbed to an average of ...
-
-
-
-
 #### [O języku Ruby - Ruby Programming Language](https://www.ruby-lang.org/pl/about/) 
 
  Ruby jest językiem starannie dobranej równowagi. Jego twórca, Yukihiro "Matz" Matsumoto, połączył części jego ulubionych języków (Perla, Smalltalka, Eiffel, Ady i Lispa) by uformować nowy język, który zbalansował programowanie funkcjonalne wraz z programowanie imperatywnym. Matz często mówi, że chce uczynić ten język ...
+
+
+
+
+#### [Czym jest Ruby i dlaczego warto go się nauczyć?](https://theforcecode.com/help/pl/czym-jest-ruby-i-dlaczego-warto-go-sie-nauczyc/) 
+
+ Język programowania Ruby to dynamiczny, interpretowany język skryptowy, który zyskał ogromną popularność w świecie programowania. Ruby jest znany z eleganckiej składni, łatwej do zrozumienia i czytania. Warto poświęcić trochę czasu na naukę tego języka, ponieważ może to otworzyć drzwi do wielu fascynujących możliwości ...
 
 
 

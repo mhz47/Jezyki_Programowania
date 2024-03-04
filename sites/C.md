@@ -57,9 +57,9 @@
 
 
 
-#### [1. Kurs Programowania w C - Pierwszy program - YouTube](https://www.youtube.com/watch?v=XmCmJ94kZUU) 
+#### [Najpopularniejsze kursy online na temat C (język programowania ... - Udemy](https://www.udemy.com/pl/topic/c-programming/) 
 
- Kolejna lekcja: http://www.youtube.com/watch?v=Ik6JDCy6-Tg&list=PL_k1YAvuKxVhkY2q5A-_a6niBWRR0_oz7Instalacja Code::Blocks http://www.youtube.com/watch?v=gXxe...
+ Dowiedz się, jak używać języka programowania C dzięki wykładom prowadzonym przez najwyżej ocenianych instruktorów programowania. Niezależnie od tego, czy interesujesz się podstawami czy zaawansowanymi zastosowaniami języka programowania C, Udemy z pewnością ma kurs, który pomoże Ci stać się lepszym programistą.
 
 
 

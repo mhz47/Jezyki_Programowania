@@ -16,16 +16,16 @@
 
 
 
+#### [What is JavaScript? - Learn web development | MDN - MDN Web Docs](https://developer.mozilla.org/pl/docs/Learn/JavaScript/First_steps/What_is_JavaScript) 
+
+ JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.) The three layers build on top of one another nicely.
+
+
+
+
 #### [JavaScript basics - Learn web development | MDN - MDN Web Docs](https://developer.mozilla.org/pl/docs/Learn/Getting_started_with_the_web/JavaScript_basics) 
 
  Learn JavaScript. This is an excellent resource for aspiring web developers! Learn JavaScript in an interactive environment, with short lessons and interactive tests, guided by an automated assessment. The first 40 lessons are free. The complete course is available for a small one-time payment.
-
-
-
-
-#### [JavaScript - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/javascript/) 
-
- Zastosowanie. JavaScript to dynamicznie typowany język wysokiego poziomu. Najczęściej jest używany przy tworzeniu stron WWW, zapewniając interaktywność stron oraz obsługę zdarzeń, walidacji formularzy czy budowanie elementów nawigacyjnych. Takie wykorzystanie języka JavaScript ułatwia zastosowanie biblioteki, takiej jak jQuery.
 
 
 
@@ -43,9 +43,16 @@
 
 ### Wyniki wyszukiwania: "JavaScript kurs programowania" 
 
-#### [[2024] Programowanie w JavaScript od Zera do Mastera | Udemy](https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera/) 
+#### [Darmowy Kurs JavaScript — PodstawyJS?](https://podstawyjs.pl/) 
 
- Aplikacje w JavaScript od od podstaw: pogodową na bazie geolokalizacji, quiz, kursy walut, kalkulator, lista książek, Tic Tac Toe etc. Dynamicznie zmieniać oraz dodawać treści do witryny oraz zmieniać jej wygląd. Programowania po stronie serwera dzięki NodeJs, czyli JavaScript na backendzie generujący kod html, odczytujący formularze ...
+ Witaj w darmowym kursie JavaScript dla początkujących! JavaScript to język programowania, który jest jednym z najpopularniejszych i najważniejszych języków na świecie. Jest on używany do tworzenia interaktywnych elementów stron internetowych, takich jak: animacje. gry. aplikacje internetowe.
+
+
+
+
+#### [Podstawy programowania w JavaScript w 60 MINUT - YouTube](https://www.youtube.com/watch?v=udxqsJXJM5Q) 
+
+ Poznaj podstawy programowania w JavaScript w ciągu 60 minut, bez względu na to czy masz już doświadczenie z programowaniem czy też zaczynasz całkowicie od ze...
 
 
 
@@ -53,13 +60,6 @@
 #### [Kurs JavaScript - online, od podstaw, programowania, nauka - Kodilla](https://kodilla.com/pl/kurs-javascript) 
 
  Praca samodzielna W ciągu tygodnia uczysz się podstaw języka JavaScript co stanowi wstęp do nauki prawdziwego programowania. Język JavaScript 4 tygodnie 80 godzin. Nauka programowania w JavaScript, który jest obecnie jednym z popularniejszych języków do tworzenia aplikacji internetowych. Projekt samodzielny 2 tygodnie 40 godzin
-
-
-
-
-#### [Darmowy Kurs JavaScript — PodstawyJS?](https://podstawyjs.pl/) 
-
- Witaj w darmowym kursie JavaScript dla początkujących! JavaScript to język programowania, który jest jednym z najpopularniejszych i najważniejszych języków na świecie. Jest on używany do tworzenia interaktywnych elementów stron internetowych, takich jak: animacje. gry. aplikacje internetowe.
 
 
 

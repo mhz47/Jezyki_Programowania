@@ -30,9 +30,9 @@
 
 
 
-#### [Programowanie w GO dla początkujących - Programistki są super!](https://programistkisasuper.pl/programowanie-w-go-dla-poczatkujacych/) 
+#### [Samouczek Golang: Naucz się języka programowania Go dla ... - Guru99](https://www.guru99.com/pl/google-go-tutorial.html) 
 
- GO - co go wyróżnia? Golang to open-sourcowy język programowania, który charakteryzuje się prostotą składni (co mocno ułatwia jego naukę), ale też dużą wydajnością (dzięki czemu programy pisane w GO mają szerokie zastosowanie na tzw. 'backendzie'). Jego wersja 1.0 miała swoją publiczną premierę w 2012.
+ Język programowania Go pozwala nam organizować kod w różnych pakietach. Zwiększa to czytelność kodu i możliwość jego ponownego użycia. Wykonywalny program Go powinien zawierać pakiet o nazwie main, a wykonywanie programu rozpoczyna się od funkcji o nazwie main. Możesz zaimportować inne pakiety w naszym programie za pomocą składni
 
 
 
@@ -42,6 +42,13 @@
 ---
 
 ### Wyniki wyszukiwania: "Go kurs programowania" 
+
+#### [Szkolenia Go - Kursy Programowania w Języku Go](https://www.comarch.pl/szkolenia/programowanie/go/) 
+
+ Let's Go - poznaj już dziś język, który podbija programistyczny świat! Język Go to narzędzie nowej generacji powstałe w 2009 roku. Wg badań umieszczonych na portalu golang.org 92% użytkowników jest zadowolonych z używania Go, a 66% twierdzi, że Go ma kluczowe znaczenie dla sukcesu ich firmy. Dołącz do nich i przekonaj się o zaletach języka Go dzięki naszym szkoleniom.
+
+
+
 
 #### [Kursy programowania online z certyfikatem. Kursy IT Warszawa | GoIT Polska](https://goit.global/pl/) 
 
@@ -53,13 +60,6 @@
 #### [Programowanie w GO dla początkujących - Programistki są super!](https://programistkisasuper.pl/programowanie-w-go-dla-poczatkujacych/) 
 
  Programowanie w GO dla początkujących - Programistki są super! Golang, czy też GO to stosunkowo młody (na rynku obecny około 10 lat) język programowania, który podbija serca inżynierów w Dolinie Krzemowej. Ja zawodowo piszę w GO od ponad 2 lat i bardzo szybko stał się on moim ulubionym językiem programowania!
-
-
-
-
-#### [Darmowe kursy programowania. Kursy IT online za darmo z certyfikatem ...](https://goit.global/pl/newcomers/) 
-
- Darmowe kursy programowania: od czego zacząć w IT. Prawie każdy, kto marzy o zmianie zawodu i pracy w firmie IT, stara się znaleźć darmowe kursy programowania w Internecie. Aby mieć pewność, że otrzymasz certyfikat i możliwość zatrudnienia… Wierzymy, że nie warto pochopnie kupować nawet najtańszych kursów i marnować cennego ...
 
 
 
