@@ -4,7 +4,7 @@
 
 #### [Scratch - Imagine, Program, Share](https://scratch.mit.edu/) 
 
- Scratch is a programming language and online platform where you can create stories, games, and animations. Learn from featured projects, studios, and remixes, or share your own creations with others around the world.
+ Scratch is a programming language and online platform where you can create your own stories, games, and animations. Learn how to use Scratch, share your projects with others, and explore featured projects and studios.
 
 
 
@@ -16,16 +16,16 @@
 
 
 
-#### [Scratch - Join Scratch](https://scratch.mit.edu/join) 
-
- Join Scratch. Create projects, share ideas, make friends. It's free! Create a username. Don't use your real name. Create a password. Show password. Next. Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.
-
-
-
-
 #### [Scratch (język programowania) - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Scratch_(język_programowania)) 
 
  O Scratchu. Scratch to edukacyjny język obiektowy, stworzony jako środek do nauczania dzieci i młodzieży (od 8 lat wzwyż) podstaw programowania komputerów oraz środowisko programistyczne służące do tworzenia i uruchamiania programów w tym języku. Scratch umożliwia tworzenie interaktywnych historyjek, animacji, gier, muzyki.
+
+
+
+
+#### [Nauka programowania w Scratch: Praktyczny przewodnik dla początkujących](https://boringowl.io/blog/scratch-pierwsze-kroki-w-fascynujacym-swiecie-kodowania) 
+
+ Wprowadzenie do podstawowych pojęć programowania w Scratch. Scratch to interaktywna platforma do uczenia się programowania, stworzona z myślą o młodych adeptach nauki kodowania. ... ActionScript, język skryptowy zaprojektowany do tworzenia animacji, interaktywnych aplikacji i gier online, niesie ze sobą wiele unikalnych funkcji ...
 
 
 
@@ -57,9 +57,9 @@
 
 
 
-#### [Programowanie dla dzieci Scratch - lekcja 1 - pierwsze kroki](https://www.youtube.com/watch?v=T-l4n4p7g6I) 
+#### [Kurs programowania w Scratch od 8 do 15 lat | Udemy](https://www.udemy.com/course/kurs-programowania-w-scratch-od-8-do-15-lat/) 
 
- Darmowy kurs video Scratch - twórz własne gry ZAPISY ️ ️ ️ http://bit.ly/kurs-scratchKurs podstaw programowania dla dzieci w Scratch. W pierwszej lekcji d...
+ Opis. Kurs, to prawie 6 godzin świetnej zabawy zarówno dla dziecka, jak i dla rodzica. A to dopiero początek …. Kurs Scratch pozwala zainteresować najmłodszych dziedziną programowania. Ucząc się wspólnie ze swoim dzieckiem, możecie razem poznawać tajniki programowania. Możesz także, przy pomocy kursu, zdobyć wiedzę potrzebną ...
 
 
 

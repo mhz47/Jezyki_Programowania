@@ -16,9 +16,9 @@
 
 
 
-#### [Assembly language - CodeDocs](https://codedocs.org/what-is/assembly-language) 
+#### [Assembly Programming Tutorial - Online Tutorials Library](https://www.tutorialspoint.com/assembly_programming/index.htm) 
 
- Assembly language syntax. Assembly language uses a mnemonic to represent each low-level machine instruction or opcode, typically also each architectural register, flag, etc.Many operations require one or more operands in order to form a complete instruction. Most assemblers permit named constants, registers, and labels for program and memory locations, and can calculate expressions for operands.
+ Assembly Programming Tutorial. Assembly language is a low-level programming language for a computer or other programmable device specific to a particular computer architecture in contrast to most high-level programming languages, which are generally portable across multiple systems. Assembly language is converted into executable machine code by ...
 
 
 
@@ -30,9 +30,9 @@
 
 
 
-#### [What Is Assembly Language? Working, Features, and Advantages - Spiceworks](https://www.spiceworks.com/tech/tech-general/articles/what-is-assembly-language/) 
+#### [Introduction to Assembly Language | Baeldung on Computer Science](https://www.baeldung.com/cs/assembly-language) 
 
- 1. Display flexibility. Assembly language provides a high degree of flexibility in displaying data on the screen, thanks to its data-stream commands, wide screens, and cursor-dependent functions. Data-stream commands are used to write data to the screen in real-time.
+ 2.1. Programming Languages. Considering the level of abstraction and programming languages, machine code has the lowest possible level of abstraction. This is the sequence of 0's and 1's that we mentioned in the introduction. We, as humans, cannot take a quick look and understand what is going on.
 
 
 

@@ -57,9 +57,9 @@
 
 
 
-#### [Training - Courses in MATLAB, Simulink, and Stateflow](https://www.mathworks.com/learn/training.html) 
+#### [Kurs MATLAB - podstawy programowania, zmienne i funkcje](https://www.cognity.pl/kurs-matlab-podstawy-programowania) 
 
- Our training covers the basics of working with MATLAB and Simulink as well as intermediate and advanced techniques that address complex workflows and niche applications. Learn more about partnering with MathWorks. 2:40 Video length is 2:40. Download course catalog Contact Training.
+ Kurs MATLAB - podstawy programowania, zmienne i funkcje - poznaj potencjał programu do dokonywania inżynierskich obliczeń i symulacji komputerowych. AŻ 20 godzin szkolenia, TYLKO W COGNITY. WYBIERZ TERMIN SZKOLENIA. 04-05 mar. 2 dni szkoleniowe. Online. 3900 zł netto + VAT.
 
 
 

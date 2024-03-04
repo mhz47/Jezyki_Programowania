@@ -30,9 +30,9 @@
 
 
 
-#### [Delphi Coding Language: A Guide for Beginners](https://www.delphisource.com/delphi-coding-language/) 
+#### [Pascal (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Pascal_(programming_language)) 
 
- By Charles Allen 10/27/2023. Delphi incorporates the widely acclaimed Pascal programming language, recognized as one of the most versatile and widely used programming languages in the world. In this comprehensive guide, delve into the essential principles and foundations of Delphi, an environment that seamlessly integrates with Pascal.
+ Pascal is an imperative and procedural programming language, designed by Niklaus Wirth as a small, efficient language intended to encourage good programming practices using structured programming and data structuring.It is named after French mathematician, philosopher and physicist Blaise Pascal.. Pascal was developed on the pattern of the ALGOL 60 language.
 
 
 
@@ -50,16 +50,16 @@
 
 
 
-#### [Turbo Pascal - Kurs WARTO Zobaczyć!](http://www.pascal.kurs-programowania.pl/) 
-
- Kurs Turbo pascala. Kurs programowania jest przeznaczony dla studentów i uczniów szkół średnich. Przykłady i artykuły pomogą Ci przyswoić niezbędną wiedzę, by tworzyć profesjonalne programy. Nauczysz się tworzyć proste obliczenia matematyczne, budować własne bazy danych a także tworzyć gry komputerowe w Pascalu!
-
-
-
-
 #### [Learn To Program with Delphi and Object Pascal - Class Central](https://www.classcentral.com/course/udemy-learn-to-program-with-pascal-110674) 
 
  A 124-page eBook, The Little Book Of Pascal, explains all the topics in depth. Simply the fastest way to learn to program Object Pascal - either with the industry-standard Delphi system on Windows or with the multi-platform Lazarus and Free Pascal. Just drag-and-drop, click and code!
+
+
+
+
+#### [Turbo Pascal - Kurs WARTO Zobaczyć!](http://www.pascal.kurs-programowania.pl/) 
+
+ Kurs Turbo pascala. Kurs programowania jest przeznaczony dla studentów i uczniów szkół średnich. Przykłady i artykuły pomogą Ci przyswoić niezbędną wiedzę, by tworzyć profesjonalne programy. Nauczysz się tworzyć proste obliczenia matematyczne, budować własne bazy danych a także tworzyć gry komputerowe w Pascalu!
 
 
 

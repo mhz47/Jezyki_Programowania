@@ -23,16 +23,16 @@
 
 
 
-#### [Co to jest Java?—Przewodnik po języku Java dla początkujących ...](https://azure.microsoft.com/pl-pl/resources/cloud-computing-dictionary/what-is-java-programming-language/) 
-
- Język Java to: Wieloplatformowy język: Java został opisany sloganem "napisz raz, uruchamiaj w dowolnym miejscu" (lub WORA) i do dnia dzisiejszego jest on nadal aktualny. Kod programowania Java napisany dla jednej platformy, takiej jak system operacyjny Windows, można łatwo przenieść na inną platformę, taką jak system operacyjny ...
-
-
-
-
 #### [Programowanie Java dla początkujących: co robić i od czego zacząć](https://codegym.cc/pl/groups/posts/pl.168.programowanie-java-dla-poczatkujacych-co-robic-i-od-czego-zaczac) 
 
  Jednak obawy pozostają nieporozumieniem. Java to prawie najlepszy język programowania, jaki możesz rozpocząć w swojej programistycznej podróży. Jednak niektórym uczniom trudno jest się uczyć. Powodem jest to, że przyjmują niewłaściwe metody nauki języka Java, które jeszcze bardziej komplikują zadanie.
+
+
+
+
+#### [Java - Podstawy Języka - JavaStart](https://javastart.pl/baza-wiedzy/java-podstawy-jezyka) 
+
+ Jeśli chcesz szybko i sprawnie nauczyć się programowania w języku Java to zapraszamy do zapoznania się z kompletnym kursem Java który przygotowaliśmy z myślą o początkujących. Poprowadzimy Cię w nim od zupełnych podstaw, aż do napisania kompletnych, większych aplikacji krok po kroku. Wpisy: Pierwszy program. Komentarze.
 
 
 
@@ -57,9 +57,9 @@
 
 
 
-#### [Kurs Java Developer - Kurs i bootcamp online programowania od podstaw z ...](https://coderslab.pl/pl/java-developer) 
+#### [Kurs programowania Java online, podstawy, nauka krok po kroku - JavAPPa](https://www.javappa.com/kurs-java) 
 
- Java to też bardzo uniwersalny język, więc, idąc na kurs Java Developer, od razu otwierasz sobie wiele dróg do drzwi potencjalnych pracodawców. Na naszym szkoleniu uczą sami eksperci Java. Podstawy tego języka programowania, a nawet znacznie więcej, opanujesz więc pod okiem praktyków, którzy nie tylko wiedzą, o czym mówią, ale ...
+ Rozpoczynając kurs programowania Java, pokazujemy, jak szybko i sprawnie wyposażyć komputer w niezbędne oprogramowanie. Wskazujemy źródło, z którego można bezpiecznie pobrać plik instalacyjny. Kurs w trybie online zawiera instrukcje wsparte zdjęciami, które pomogą sprawnie przejść przez wszystkie części instalacji.
 
 
 

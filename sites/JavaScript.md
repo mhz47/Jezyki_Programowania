@@ -16,16 +16,16 @@
 
 
 
-#### [What is JavaScript? - Learn web development | MDN - MDN Web Docs](https://developer.mozilla.org/pl/docs/Learn/JavaScript/First_steps/What_is_JavaScript) 
-
- JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.) The three layers build on top of one another nicely.
-
-
-
-
 #### [JavaScript basics - Learn web development | MDN - MDN Web Docs](https://developer.mozilla.org/pl/docs/Learn/Getting_started_with_the_web/JavaScript_basics) 
 
  Learn JavaScript. This is an excellent resource for aspiring web developers! Learn JavaScript in an interactive environment, with short lessons and interactive tests, guided by an automated assessment. The first 40 lessons are free. The complete course is available for a small one-time payment.
+
+
+
+
+#### [JavaScript - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/javascript/) 
+
+ Zastosowanie. JavaScript to dynamicznie typowany język wysokiego poziomu. Najczęściej jest używany przy tworzeniu stron WWW, zapewniając interaktywność stron oraz obsługę zdarzeń, walidacji formularzy czy budowanie elementów nawigacyjnych. Takie wykorzystanie języka JavaScript ułatwia zastosowanie biblioteki, takiej jak jQuery.
 
 
 

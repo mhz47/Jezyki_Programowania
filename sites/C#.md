@@ -57,9 +57,9 @@
 
 
 
-#### [C# od podstaw - intensywny kurs programowania | Udemy](https://www.udemy.com/course/kurs-c-sharp-od-podstaw/) 
+#### [Dokumentacja języka C# — wprowadzenie, samouczki, informacje.](https://learn.microsoft.com/pl-pl/dotnet/csharp/) 
 
- C# od podstaw - intensywny kurs programowania. Naucz się programować aplikacje! Programowanie w praktyce, oparte na przykładach. 4,4 Ocen: 640. 1993 uczestników. Stworzony przez: Mentorzy IT, Patryk Mikulski. Ostatnia aktualizacja 5/2020. Polski.
+ Naucz się programowania w języku C# — dla początkujących deweloperów, nowych deweloperów w języku C# i doświadczonych deweloperów w języku C#/.NET. Przejdź do głównej zawartości. Ta przeglądarka nie jest już obsługiwana. Przejdź na przeglądarkę Microsoft Edge, aby korzystać z najnowszych funkcji, aktualizacji ...
 
 
 

@@ -23,16 +23,16 @@
 
 
 
-#### [The Rust Programming Language - The Rust Programming Language - Learn Rust](https://doc.rust-lang.org/stable/book/) 
-
- The Rust Programming Language. by Steve Klabnik and Carol Nichols, with contributions from the Rust Community. This version of the text assumes you're using Rust 1.67.1 (released 2023-02-09) or later. See the "Installation" section of Chapter 1 to install or update Rust. The HTML format is available online at https://doc.rust-lang.org ...
-
-
-
-
 #### [Język programowania Rust](https://prev.rust-lang.org/pl-PL/) 
 
  Język programowania Rust. Rust to systemowy język programowania, który jest niesamowicie szybki, zapobiega naruszeniom pamięci oraz gwarantuje bezpieczeństwo wątków. Zobacz, kto używa Rusta. Zainstaluj Rust 1.31.0.
+
+
+
+
+#### [Dokumentacja Rusta · Język programowania Rust](https://prev.rust-lang.org/pl-PL/documentation.html) 
+
+ Systemowy język programowania, który jest niesamowicie szybki, zapobiega naruszeniom pamięci oraz gwarantuje bezpieczeństwo wątków. Dokumentacja ... Dotyczy organizacji rust-lang na GitHub, oficjalnego forum, kanałów IRC oraz różnych innych zakątków świata Rusta.
 
 
 
@@ -50,16 +50,16 @@
 
 
 
+#### [Wykonaj pierwsze kroki za pomocą języka Rust - Training](https://learn.microsoft.com/pl-pl/training/paths/rust-first-steps/) 
+
+ Podstawy wiedzy potrzebnej do tworzenia szybkich i skutecznych programów w Rust. Zawartość tej ścieżki szkoleniowej: Zainstaluj narzędzia potrzebne do pisania pierwszych wierszy kodu Rust. Poznaj podstawowe pojęcia w języku Rust. Dowiedz się, jak obsługiwać błędy. Zarządzanie pamięcią w języku Rust. Użyj typów ogólnych i cech.
+
+
+
+
 #### [Rust Programming | Coursera](https://www.coursera.org/specializations/rust-programming) 
 
  This comprehensive Rust Specialization from Coursera and Duke University, a top Data Science and AI program, provides software engineers, data scientists, and technical professionals with applied skills to leverage Rust's speed, safety, and versatility for robust systems programming. Over five courses spanning foundational syntax to advanced ...
-
-
-
-
-#### [Rust Fundamentals | Coursera](https://www.coursera.org/learn/rust-fundamentals) 
-
- This week, you will learn about various data structures and types in Rust. We'll cover defining structs, creating instances, and associated functions. Additionally, you'll explore string manipulation using String and str types. The course will also touch upon vectors, covering value retrieval and element addition.
 
 
 

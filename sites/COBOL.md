@@ -9,16 +9,16 @@
 
 
 
-#### [COBOL (język programowania) - Encyklopedia Zarządzania](https://mfiles.pl/pl/index.php/COBOL_(język_programowania)) 
+#### [COBOL. Co trzeba o nim wiedzieć](https://nofluffjobs.com/pl/log/praca-w-it/cobol-jezyk-programistyczny/) 
 
- COBOL to język programowania wysokiego poziomu, stworzony głównie do pracy w dziedzinie ekonomii i biznesu. Jest używany głównie do utrzymania istniejących aplikacji, a nie do tworzenia nowego oprogramowania. Jego cechy to m.in. programowanie obiektowe, obsługa języków narodowych i sprawdzanie poprawności danych.
-
-
+ Tak w 1959 roku narodził się COBOL - pierwszy powszechnie używany język programowania wysokiego poziomu, który dzięki zaawansowanym możliwościom obsługi plików może obsługiwać ogromne ilości danych. Po poprawkach COBOL szybko stał się preferowanym językiem do tworzenia systemów biznesowych, utrzymując tę pozycję do dziś.
 
 
-#### [COBOL dla początkujących - Bulldogjob](https://bulldogjob.pl/readme/cobol-dla-poczatkujacych) 
 
- Common Business-Oriented Language, czyli COBOL, to kompilowany język programowania podobny do języka angielskiego, zaprojektowany do użycia w biznesie. Jest to język imperatywny, proceduralny i, od 2002, zorientowany obiektowo. Jest używany głównie w biznesie, finansach i systemach zarządzających dla dużych firm i rządów. ...
+
+#### [Cobol - Ibm](https://www.ibm.com/docs/pl/i/7.1?topic=languages-cobol) 
+
+ COBOL. COBOL. Podręczniki te podają informacje dotyczące struktury programu w języku COBOL, instrukcji w Procedure Division i instrukcji sterujących kompilatora. Skorowidz języka ILE COBOL Skorowidz zawiera opis język programowania Integrated Language Environment COBOL (ILE COBOL). Zamieszczono w nim informacje dotyczące struktury ...
 
 
 
@@ -30,9 +30,9 @@
 
 
 
-#### [Cobol - Ibm](https://www.ibm.com/docs/pl/i/7.1?topic=languages-cobol) 
+#### [COBOL (język programowania) - Encyklopedia Zarządzania](https://mfiles.pl/pl/index.php/COBOL_(język_programowania)) 
 
- COBOL. COBOL. Podręczniki te podają informacje dotyczące struktury programu w języku COBOL, instrukcji w Procedure Division i instrukcji sterujących kompilatora. Skorowidz języka ILE COBOL Skorowidz zawiera opis język programowania Integrated Language Environment COBOL (ILE COBOL). Zamieszczono w nim informacje dotyczące struktury ...
+ COBOL to język programowania wysokiego poziomu, stworzony głównie do pracy w dziedzinie ekonomii i biznesu. Jest używany głównie do utrzymania istniejących aplikacji, a nie do tworzenia nowego oprogramowania. Jego cechy to m.in. programowanie obiektowe, obsługa języków narodowych i sprawdzanie poprawności danych.
 
 
 

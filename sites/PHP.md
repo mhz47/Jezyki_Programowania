@@ -23,16 +23,16 @@
 
 
 
-#### [Podstawy języka PHP: Wprowadzenie do programowania w PHP](https://netbe.pl/podstawy-jezyka-php-wprowadzenie-do-programowania-w-php/) 
+#### [PHP - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/php/) 
 
- PHP jest jednym z najpopularniejszych języków programowania używanych do tworzenia dynamicznych stron internetowych i aplikacji webowych. Jeśli dopiero zaczynasz przygodę z PHP, warto zrozumieć podstawy tego języka, aby móc pisać skuteczny i efektywny kod. W tym artykule omówimy podstawowe koncepcje i składnię języka PHP.
-
-
+ PHP jest łatwy do rozpoczęcia nauki. Jest to dynamiczny język programowania, więc jest całkiem elastyczny, jeśli chodzi o pisanie kodu oraz nie jest silnie typowany tzn. można zmieniać typ danych podczas wykonywania programu. Składnia PHP jest relatywnie prosta, lecz niektórzy uważają, że jest to brzydki język.
 
 
-#### [PHP: The Right Way. Po polsku.](http://pl.phptherightway.com/) 
 
- Paradygmaty programowania w PHP. PHP jest językiem, w którym możesz programować na wiele sposobów. Przez ostatnie lata mocno rozwinął swoje możliwości. W wersji 5.0 ... ale może być również użyteczny jako język skryptowy, uruchamiany z poziomu konsoli. Dzięki temu można łatwo automatyzować typowe zadania, jak testowanie ...
+
+#### [Czym jest język programowania PHP i do czego jest używany? - SMART Agency](https://www.smart-agency.pl/czym-jest-php/) 
+
+ Interpretowany skryptowy język programowania - inaczej nazywany PHP, jest specjalnie stworzonym narzędziem do generowania stron internetowych oraz tworzenia aplikacji webowych w czasie rzeczywistym. Obok HTML jest to jeden z najpopularniejszych i najczęściej wykorzystywanych języków m.in. do tworzenia kompleksowych stron internetowych ...
 
 
 
@@ -57,9 +57,9 @@
 
 
 
-#### [Kurs PHP od podstaw | Udemy](https://www.udemy.com/course/php-od-podstaw/) 
+#### [Kurs PHP - naucz się programować w PHP! | PHPDevs](https://www.phpdevs.pl/) 
 
- Krok po kroku zostaniesz wprowadzony w świat programowania w języku PHP i nauczysz się między innymi: - obsługi ciasteczek i mechanizmu sesji - dowiesz się przy okazji, gdzie i po co strony przechowują Twoje dane. - poznasz podstawowe aspekty bezpieczeństwa aplikacji - jak nie dać się hakerom! - dowiesz się gdzie szukać bibliotek ...
+ Naucz się PHP! Szukasz aktualnego kursu programowania od podstaw? Świetnie trafiłeś, kurs dostępny jest dla każdego, za darmo! Rozpocznij naukę. lub zobacz spis treści. Aktualny kurs PHP w języku polskim bazujący na najnowszej wersji PHP. Nauka dla każdego, od podstaw. Naucz się programować w praktyce.
 
 
 

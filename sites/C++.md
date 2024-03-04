@@ -23,16 +23,16 @@
 
 
 
-#### [C++ - Wikipedia](https://en.wikipedia.org/wiki/C++) 
-
- C++ (/ ˈ s iː p l ʌ s p l ʌ s /, pronounced "C plus plus" and sometimes abbreviated as CPP) is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup.First released in 1985 as an extension of the C programming language, it has since expanded significantly over time; as of 1997, C++ has object-oriented, generic, and functional features, in ...
-
-
-
-
 #### [C++ - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/c++/) 
 
  C++ to język dużo bardziej złożony niż inne języki programowania. Jego semantyka może się wydawać nieco mniej przyjazna dla początkujących. Trzeba też zrozumieć dużo więcej aspektów niż w językach o wyższym poziomie abstrakcji. Należy do nich m.in. zarządzanie pamięcią.
+
+
+
+
+#### [C++ - Wikipedia](https://en.wikipedia.org/wiki/C++) 
+
+ C++ (/ ˈ s iː p l ʌ s p l ʌ s /, pronounced "C plus plus" and sometimes abbreviated as CPP) is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup.First released in 1985 as an extension of the C programming language, it has since expanded significantly over time; as of 1997, C++ has object-oriented, generic, and functional features, in ...
 
 
 
@@ -50,16 +50,16 @@
 
 
 
-#### [Podstawy #1 - Kurs C++ (2019) - YouTube](https://www.youtube.com/watch?v=nh-AeItoGac) 
+#### [Kursy na temat C++ (język programowania) - Udemy](https://www.udemy.com/pl/topic/c-plus-plus/) 
 
- 📃 Aktualny kurs na: https://cpp-lang.net/pl/learn/Kurs C++ w 2019 roku, najprościej jak tylko potrafię. Daj znać, jeśli pomogłem :)Edytor kodu online:https:...
-
-
+ Ucz się języka C++ („C plus plus") u najlepiej ocenianych instruktorów. Znajdź najlepsze kursy C++, od podstaw programowania w tym języku po jego najbardziej zaawansowane zastosowania. C++ to zorientowana obiektowo, rozszerzona wersja języka C, pozwalająca na więcej zastosowań. Z C++ najczęściej korzystają programiści na platformie .NET firmy Microsoft i twórcy gier ...
 
 
-#### [Wstęp do programowania | C++ Programming Language](https://cpp-lang.net/pl/learn/) 
 
- Wstęp do programowania. Jesteś w dziale nauki programowania. Znajdziesz tutaj kurs języka C++, oraz inne materiały, których tematyka krąży wokoło programowania w nim. Zanim przejdziesz do kursu, zapoznaj się z tym, czym w ogóle jest programowanie? Czym jest programowanie
+
+#### [Bezpłatne kursy i samouczki na temat C++ (język programowania) - Udemy](https://www.udemy.com/pl/topic/c-plus-plus/free/) 
+
+ Ucz się języka C++ („C plus plus") u najlepiej ocenianych instruktorów. Znajdź najlepsze kursy C++, od podstaw programowania w tym języku po jego najbardziej zaawansowane zastosowania. C++ to zorientowana obiektowo, rozszerzona wersja języka C, pozwalająca na więcej zastosowań. Z C++ najczęściej korzystają programiści na platformie .NET firmy Microsoft i twórcy gier ...
 
 
 

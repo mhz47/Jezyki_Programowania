@@ -9,6 +9,13 @@
 
 
 
+#### [Swift - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/swift/) 
+
+ Zastosowanie. Swift jest językiem programowania ogólnego zastosowania stworzonym przez Apple w 2014 roku, więc jest całkiem świeży. Jest następcą Objective-C. Apple obniżyło barierę wejścia dla programistów. Nowy język jest tym, do czego przyzwyczajeni są młodsi programiści, z wysokopoziomowymi strukturami wbudowanymi w język ...
+
+
+
+
 #### [Początki ze Swift - co musisz wiedzieć o tym języku programowania?](https://android.com.pl/programowanie/382514-poczatki-ze-swift-co-musisz-wiedziec-o-tym-jezyku-programowania/) 
 
  Początki ze Swift nie powinny być trudne. Przede wszystkim jest to język dla zdeterminowanych. Musisz być określony w swoich postanowieniach, ponieważ Swift wykorzystuje się przede wszystkim do programowania aplikacji na sprzęty Apple'a. Dlatego musisz być pewny tego, że chcesz rozwijać się z myślą właśnie o systemie ...
@@ -19,13 +26,6 @@
 #### [Jak nauczyć się programowania w języku Swift: Przewodnik ... - AppMaster](https://appmaster.io/pl/blog/naucz-sie-swifta-krok-po-kroku) 
 
  Dolna linia. Swift to najlepszy język programowania, którego powinieneś się nauczyć i w łatwy sposób stworzyć swoją wymarzoną aplikację. Programowanie Swift to potężny, a zarazem łatwy do nauczenia się język kodowania stworzony przez Apple. Jest często używany do tworzenia aplikacji iOS i macOS, a także aplikacji tvOS i watchOS.
-
-
-
-
-#### [Swift - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/swift/) 
-
- Zastosowanie. Swift jest językiem programowania ogólnego zastosowania stworzonym przez Apple w 2014 roku, więc jest całkiem świeży. Jest następcą Objective-C. Apple obniżyło barierę wejścia dla programistów. Nowy język jest tym, do czego przyzwyczajeni są młodsi programiści, z wysokopoziomowymi strukturami wbudowanymi w język ...
 
 
 

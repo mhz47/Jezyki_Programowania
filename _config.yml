@@ -21,7 +21,7 @@
 #plugins:
   #- jekyll-feed
 
-title: <p align="center">Języki Programowania</p>
+title: <p color="green" align="center">Języki Programowania</p>
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
