@@ -17,7 +17,7 @@
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
+theme: jekyll-theme-architect
 #plugins:
   #- jekyll-feed
 
