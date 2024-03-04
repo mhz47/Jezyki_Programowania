@@ -1,6 +1,6 @@
 ## Top 20 języków programowania: 
  
-# **1. Python** 
+### __1. Python__ 
 
  ![Python image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Python.png) 
  
@@ -10,7 +10,7 @@ Ocena: 15.16%
  
 ---
  
-# **2. C** 
+### __2. C__ 
 
  ![C image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C.png) 
  
@@ -20,7 +20,7 @@ Ocena: 10.97%
  
 ---
  
-# **3. C++** 
+### __3. C++__ 
 
  ![C++ image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C__.png) 
  
@@ -30,7 +30,7 @@ Ocena: 10.53%
  
 ---
  
-# **4. Java** 
+### __4. Java__ 
 
  ![Java image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Java.png) 
  
@@ -40,7 +40,7 @@ Ocena: 8.88%
  
 ---
  
-# **5. C#** 
+### __5. C#__ 
 
  ![C# image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C_.png) 
  
@@ -50,7 +50,7 @@ Ocena: 7.53%
  
 ---
  
-# **6. JavaScript** 
+### __6. JavaScript__ 
 
  ![JavaScript image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/JavaScript.png) 
  
@@ -60,7 +60,7 @@ Ocena: 3.17%
  
 ---
  
-# **7. SQL** 
+### __7. SQL__ 
 
  ![SQL image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/SQL.png) 
  
@@ -70,7 +70,7 @@ Ocena: 1.82%
  
 ---
  
-# **8. Go** 
+### __8. Go__ 
 
  ![Go image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Go.png) 
  
@@ -80,7 +80,7 @@ Ocena: 1.73%
  
 ---
  
-# **9. Visual Basic** 
+### __9. Visual Basic__ 
 
  ![Visual Basic image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Visual_Basic.png) 
  
@@ -90,7 +90,7 @@ Ocena: 1.52%
  
 ---
  
-# **10. PHP** 
+### __10. PHP__ 
 
  ![PHP image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/PHP.png) 
  
@@ -100,7 +100,7 @@ Ocena: 1.51%
  
 ---
  
-# **11. Fortran** 
+### __11. Fortran__ 
 
  ![Fortran image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Fortran.png) 
  
@@ -110,7 +110,7 @@ Ocena: 1.40%
  
 ---
  
-# **12. Delphi/Object Pascal** 
+### __12. Delphi/Object Pascal__ 
 
  ![Delphi/Object Pascal image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png) 
  
@@ -120,7 +120,7 @@ Ocena: 1.40%
  
 ---
  
-# **13. MATLAB** 
+### __13. MATLAB__ 
 
  ![MATLAB image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/MATLAB.png) 
  
@@ -130,7 +130,7 @@ Ocena: 1.26%
  
 ---
  
-# **14. Assembly language** 
+### __14. Assembly language__ 
 
  ![Assembly language image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Assembly_language.png) 
  
@@ -140,7 +140,7 @@ Ocena: 1.19%
  
 ---
  
-# **15. Scratch** 
+### __15. Scratch__ 
 
  ![Scratch image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Scratch.png) 
  
@@ -150,7 +150,7 @@ Ocena: 1.18%
  
 ---
  
-# **16. Swift** 
+### __16. Swift__ 
 
  ![Swift image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Swift.png) 
  
@@ -160,7 +160,7 @@ Ocena: 1.16%
  
 ---
  
-# **17. Kotlin** 
+### __17. Kotlin__ 
 
  ![Kotlin image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Kotlin.png) 
  
@@ -170,7 +170,7 @@ Ocena: 1.07%
  
 ---
  
-# **18. Rust** 
+### __18. Rust__ 
 
  ![Rust image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Rust.png) 
  
@@ -180,7 +180,7 @@ Ocena: 1.05%
  
 ---
  
-# **19. COBOL** 
+### __19. COBOL__ 
 
  ![COBOL image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/COBOL.png) 
  
@@ -190,7 +190,7 @@ Ocena: 1.01%
  
 ---
  
-# **20. Ruby** 
+### __20. Ruby__ 
 
  ![Ruby image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Ruby.png) 
  

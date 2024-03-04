@@ -56,7 +56,7 @@ with open('top20.md', 'w') as f:
             img.write(requests.get(image).content)
 
         # element listy
-        f.write(f"# **{rank}. {language}** \n\n")
+        f.write(f"### __{rank}. {language}__ \n\n")
         f.write(f" ![{language} image]({image}) \n \nOcena: {rating}\n \n")
         subsite = os.path.join("sites", language_name + ".md")
         f.write(f" [Więcej informacji]({subsite})\n \n---\n \n")

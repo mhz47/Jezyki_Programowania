@@ -16,13 +16,6 @@
  
  
  
-### [Introduction - JavaScript | MDN - MDN Web Docs](https://developer.mozilla.org/pl/docs/Web/JavaScript/Guide/Introduction) 
- 
- > The JavaScript documentation on MDN includes the following: Learn Web Development provides information for beginners and introduces basic concepts of programming and the Internet. JavaScript Guide (this guide) provides an overview about the JavaScript language and its objects. JavaScript Reference provides detailed reference material for ...
- 
- 
- 
- 
 ### [JavaScript basics - Learn web development | MDN - MDN Web Docs](https://developer.mozilla.org/pl/docs/Learn/Getting_started_with_the_web/JavaScript_basics) 
  
  > Learn JavaScript. This is an excellent resource for aspiring web developers! Learn JavaScript in an interactive environment, with short lessons and interactive tests, guided by an automated assessment. The first 40 lessons are free. The complete course is available for a small one-time payment.
@@ -30,9 +23,16 @@
  
  
  
-### [What is JavaScript? - Learn web development | MDN - MDN Web Docs](https://developer.mozilla.org/pl/docs/Learn/JavaScript/First_steps/What_is_JavaScript) 
+### [JavaScript - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/javascript/) 
  
- > JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.) The three layers build on top of one another nicely.
+ > Zastosowanie. JavaScript to dynamicznie typowany język wysokiego poziomu. Najczęściej jest używany przy tworzeniu stron WWW, zapewniając interaktywność stron oraz obsługę zdarzeń, walidacji formularzy czy budowanie elementów nawigacyjnych. Takie wykorzystanie języka JavaScript ułatwia zastosowanie biblioteki, takiej jak jQuery.
+ 
+ 
+ 
+ 
+### [Introduction - JavaScript | MDN - MDN Web Docs](https://developer.mozilla.org/pl/docs/Web/JavaScript/Guide/Introduction) 
+ 
+ > The JavaScript documentation on MDN includes the following: Learn Web Development provides information for beginners and introduces basic concepts of programming and the Internet. JavaScript Guide (this guide) provides an overview about the JavaScript language and its objects. JavaScript Reference provides detailed reference material for ...
  
  
  
@@ -57,9 +57,9 @@
  
  
  
-### [[2024] Programowanie w JavaScript od Zera do Mastera | Udemy](https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera/) 
+### [Programowanie w JavaScript - WIELKA AKTUALIZACJA 2023 | Udemy](https://www.udemy.com/course/kurs-programowanie-w-javascript/) 
  
- > Aplikacje w JavaScript od od podstaw: pogodową na bazie geolokalizacji, quiz, kursy walut, kalkulator, lista książek, Tic Tac Toe etc. Dynamicznie zmieniać oraz dodawać treści do witryny oraz zmieniać jej wygląd. Programowania po stronie serwera dzięki NodeJs, czyli JavaScript na backendzie generujący kod html, odczytujący formularze ...
+ > Od podstaw do programowania zorientowanego obiektowo + asynchroniczność + mnóstwo projektów. W trakcie tego kursu nauczysz się programować w JavaScript, co ułatwi Ci pracę ze stroną internetową, ale też późniejsze wejście w świat React czy Node.Oczywiście, będziemy programować w oparciu o najnowsze standardy (także z 2023 roku), poznasz JavaScript w wersji ES6 i nowszych.
  
  
  

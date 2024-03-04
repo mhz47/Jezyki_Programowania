@@ -4,7 +4,7 @@
  
 ### [Scratch - Imagine, Program, Share](https://scratch.mit.edu/) 
  
- > Scratch is a programming language and online platform where you can create stories, games, and animations. Learn from featured projects, studios, and remixes, or share your own creations with others around the world.
+ > Scratch is a programming language and online platform where you can create your own stories, games, and animations. Learn how to use Scratch, share your projects with others, and explore featured projects and studios.
  
  
  
@@ -30,9 +30,9 @@
  
  
  
-### [Scratch - nauka online programowania. Dostęp po polsku!](https://e-pasje.pl/scratch-nauka-online-programowania-dostep-po-polsku/) 
+### [Wprowadzenie do środowiska Scratch - Zintegrowana Platforma Edukacyjna](https://zpe.gov.pl/a/wprowadzenie-do-srodowiska-scratch/DUVRjOY3C) 
  
- > Scratch - co to jest? Scratch to interpretowany wizualny język programowania.Co to znaczy? To, że Scratch jest narzędziem online stanowiącym środowisko programistyczne, w którym programowanie odbywa się za pomocą graficznych bloków, a kod jest interpretowany w czasie rzeczywistym, co pozwala użytkownikom eksperymentować i tworzyć projekty bez konieczności pisania tradycyjnego ...
+ > Opanujesz dodawanie nowych duszków, modyfikowanie ich wyglądu, wybieranie dźwięków, edytowanie tła sceny oraz tworzenie własnych animacji, symulacji, a nawet gier. Poniżej znajdziesz linki do materiałów, które pomogą Ci w zgłębieniu tych tematów: Materiał stanowi wprowadzenie do środowiska Scratch oraz zawiera ilustracje.
  
  
  
@@ -57,9 +57,9 @@
  
  
  
-### [Kurs programowania w Scratch od 8 do 15 lat | Udemy](https://www.udemy.com/course/kurs-programowania-w-scratch-od-8-do-15-lat/) 
+### [Programowanie dla dzieci Scratch - lekcja 1 - pierwsze kroki](https://www.youtube.com/watch?v=T-l4n4p7g6I) 
  
- > Opis. Kurs, to prawie 6 godzin świetnej zabawy zarówno dla dziecka, jak i dla rodzica. A to dopiero początek …. Kurs Scratch pozwala zainteresować najmłodszych dziedziną programowania. Ucząc się wspólnie ze swoim dzieckiem, możecie razem poznawać tajniki programowania. Możesz także, przy pomocy kursu, zdobyć wiedzę potrzebną ...
+ > Darmowy kurs video Scratch - twórz własne gry ZAPISY ️ ️ ️ http://bit.ly/kurs-scratchKurs podstaw programowania dla dzieci w Scratch. W pierwszej lekcji d...
  
  
  

@@ -23,9 +23,9 @@
  
  
  
-### [Co to jest Java?—Przewodnik po języku Java dla początkujących ...](https://azure.microsoft.com/pl-pl/resources/cloud-computing-dictionary/what-is-java-programming-language/) 
+### [Programowanie Java dla początkujących: co robić i od czego zacząć](https://codegym.cc/pl/groups/posts/pl.168.programowanie-java-dla-poczatkujacych-co-robic-i-od-czego-zaczac) 
  
- > Język Java to: Wieloplatformowy język: Java został opisany sloganem "napisz raz, uruchamiaj w dowolnym miejscu" (lub WORA) i do dnia dzisiejszego jest on nadal aktualny. Kod programowania Java napisany dla jednej platformy, takiej jak system operacyjny Windows, można łatwo przenieść na inną platformę, taką jak system operacyjny ...
+ > Jednak obawy pozostają nieporozumieniem. Java to prawie najlepszy język programowania, jaki możesz rozpocząć w swojej programistycznej podróży. Jednak niektórym uczniom trudno jest się uczyć. Powodem jest to, że przyjmują niewłaściwe metody nauki języka Java, które jeszcze bardziej komplikują zadanie.
  
  
  
@@ -50,16 +50,16 @@
  
  
  
-### [Samouczek online do nauki języka Java - CodeGym](https://codegym.cc/pl/) 
- 
- > Ćwicz kodowanie już od pierwszej lekcji naszego kursu online Java. Aby nauczyć się programowania w Javie, musisz dużo kodować - i polubisz to! CodeGym to kurs online programowania w Java, składający się w 80% z praktyki i w 20% z istotnej teorii. Skorzystaj z naszego przydatnego narzędzia, aby płynnie rozpocząć kodowanie.
- 
- 
- 
- 
 ### [Java - podstawy w 2h - YouTube](https://www.youtube.com/watch?v=6G19kFcVXTo) 
  
  > 🔥 Sprawdź kurs Java od podstaw - od zera do Junior Developera: https://javaodpodstaw.pl/ 🔥Podstawy programowania w języku Java w 2h.Programowanie obiektowe...
+ 
+ 
+ 
+ 
+### [Samouczek online do nauki języka Java - CodeGym](https://codegym.cc/pl/) 
+ 
+ > Ćwicz kodowanie już od pierwszej lekcji naszego kursu online Java. Aby nauczyć się programowania w Javie, musisz dużo kodować - i polubisz to! CodeGym to kurs online programowania w Java, składający się w 80% z praktyki i w 20% z istotnej teorii. Skorzystaj z naszego przydatnego narzędzia, aby płynnie rozpocząć kodowanie.
  
  
  

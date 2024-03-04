@@ -23,16 +23,16 @@
  
  
  
-### [Czym jest MATLAB i czy warto się go uczyć? deep learning](https://www.deeptechnology.ai/czym-jest-matlab-i-czy-warto-sie-go-uczyc/) 
- 
- > MATLAB (Matrix Laboratory) to środowisko obliczeniowe i język programowania, który jest szeroko stosowany w nauce, inżynierii i analizie danych. MATLAB oferuje narzędzia do tworzenia interaktywnych aplikacji, wizualizacji i analizy danych, a także do tworzenia algorytmów i aplikacji. Jest to jeden z najpopularniejszych języków ...
- 
- 
- 
- 
 ### [Programming with MATLAB - MATLAB & Simulink - MathWorks](https://www.mathworks.com/products/matlab/programming-with-matlab.html) 
  
  > Programming with MATLAB. MATLAB is a high-level programming language designed for engineers and scientists that expresses matrix and array mathematics directly. You can use MATLAB for everything, from running simple interactive commands to developing large-scale applications.
+ 
+ 
+ 
+ 
+### [MATLAB - Szybki przewodnik - Stack](https://isolution.pro/pl/t/matlab/matlab-quick-guide/matlab-szybki-przewodnik) 
+ 
+ > MATLAB (laboratorium macierzowe) to język programowania wysokiego poziomu czwartej generacji i interaktywne środowisko do obliczeń numerycznych, wizualizacji i programowania. MATLAB jest rozwijany przez MathWorks. Pozwala na manipulacje macierzą; wykreślanie funkcji i danych; implementacja algorytmów; tworzenie interfejsów użytkownika; współpraca z programami napisanymi w innych ...
  
  
  
@@ -57,9 +57,9 @@
  
  
  
-### [Training - Courses in MATLAB, Simulink, and Stateflow](https://www.mathworks.com/learn/training.html) 
+### [MATLAB Fundamentals | Self-Paced Online Courses - MATLAB & Simulink](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe) 
  
- > Our training covers the basics of working with MATLAB and Simulink as well as intermediate and advanced techniques that address complex workflows and niche applications. Learn more about partnering with MathWorks. 2:40 Video length is 2:40. Download course catalog Contact Training.
+ > Improve the robustness, flexibility, and efficiency of your MATLAB code. MATLAB Onramp. Get started quickly with the basics of MATLAB. Learn core MATLAB functionality for data analysis, visualization, modeling, and programming. Implement a common data analysis workflow that can be applied to many science and engineering applications.
  
  
  

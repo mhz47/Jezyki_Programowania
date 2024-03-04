@@ -9,9 +9,16 @@
  
  
  
-### [COBOL. Co trzeba o nim wiedzieć](https://nofluffjobs.com/pl/log/praca-w-it/cobol-jezyk-programistyczny/) 
+### [COBOL (język programowania) - Encyklopedia Zarządzania](https://mfiles.pl/pl/index.php/COBOL_(język_programowania)) 
  
- > Tak w 1959 roku narodził się COBOL - pierwszy powszechnie używany język programowania wysokiego poziomu, który dzięki zaawansowanym możliwościom obsługi plików może obsługiwać ogromne ilości danych. Po poprawkach COBOL szybko stał się preferowanym językiem do tworzenia systemów biznesowych, utrzymując tę pozycję do dziś.
+ > COBOL to język programowania wysokiego poziomu, stworzony głównie do pracy w dziedzinie ekonomii i biznesu. Jest używany głównie do utrzymania istniejących aplikacji, a nie do tworzenia nowego oprogramowania. Jego cechy to m.in. programowanie obiektowe, obsługa języków narodowych i sprawdzanie poprawności danych.
+ 
+ 
+ 
+ 
+### [Cobol - Encyklopedia Zarządzania](https://mfiles.pl/pl/index.php/Cobol) 
+ 
+ > Podgląd. Kod źródłowy. Historia. COBOL (ang. COmmon Business Oriented Language) - język programowania stworzony z głównym przeznaczeniem do prac programistycznych w dziedzinach ekonomii i biznesu. COBOL jest jednym z najpopularniejszych i najczęściej używanych języków programowania na świecie. Według szacunków Gartner Group z ...
  
  
  
@@ -26,13 +33,6 @@
 ### [Cobol - Ibm](https://www.ibm.com/docs/pl/i/7.1?topic=languages-cobol) 
  
  > COBOL. COBOL. Podręczniki te podają informacje dotyczące struktury programu w języku COBOL, instrukcji w Procedure Division i instrukcji sterujących kompilatora. Skorowidz języka ILE COBOL Skorowidz zawiera opis język programowania Integrated Language Environment COBOL (ILE COBOL). Zamieszczono w nim informacje dotyczące struktury ...
- 
- 
- 
- 
-### [COBOL (język programowania) - Encyklopedia Zarządzania](https://mfiles.pl/pl/index.php/COBOL_(język_programowania)) 
- 
- > COBOL to język programowania wysokiego poziomu, stworzony głównie do pracy w dziedzinie ekonomii i biznesu. Jest używany głównie do utrzymania istniejących aplikacji, a nie do tworzenia nowego oprogramowania. Jego cechy to m.in. programowanie obiektowe, obsługa języków narodowych i sprawdzanie poprawności danych.
  
  
  
