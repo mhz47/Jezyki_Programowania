@@ -20,7 +20,7 @@ def write_search(file, query, count):
     file.write(f"### Wyniki wyszukiwania: \"{query}\" \n\n")
     results = [r for r in ddgs.text(query, max_results=count)]
     for r in results:
-        site.write(f"### [{r['title']}]({r['href']}) \n\n    {r['body']}\n\n\n\n\n")
+        site.write(f"### [{r['title']}]({r['href']}) \n\n > {r['body']}\n\n\n\n\n")
 
 
 # główna
