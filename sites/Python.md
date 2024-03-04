@@ -30,9 +30,9 @@
  
  
  
-### [Python Tutorial | Learn Python Programming - GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/) 
+### [Co to jest język Python? Do czego służy i jak zacząć w ... - Expose](https://expose.pl/co-to-jest-jezyk-python-do-czego-sluzy-i-jak-zaczac-w-nim-programowac/) 
  
- > This Python tutorial is well-suited for beginners as well as professionals, covering basic to advanced concepts of the Python programming language. This free Python tutorial includes various topics such as loops, strings, lists, dictionaries, and arrays, along with examples. #Python Tutorial, #Free Python Programming Tutorial.
+ > Język Python jest powszechnie znany w świecie informatyków i programistów. Dzięki niemu z łatwością stworzysz różne oprogramowania i wykorzystasz jego funkcję w projektach. Jeśli zastanawiasz się, jak wiele korzyści daje język programowania Python, to zapraszamy do poniższego artykułu. Dzięki niemu dowiesz się, w jakich ...
  
  
  
@@ -42,13 +42,6 @@
 ---
  
 ### Wyniki wyszukiwania: "Python kurs programowania" 
- 
-### [Samouczek Pythona dla początkujących: poznaj podstawy programowania [PDF]](https://www.guru99.com/pl/python-tutorials.html) 
- 
- > Ten kurs języka Python zawiera wszystkie podstawy języka Python, od instalacji po zaawansowane zagadnienia, takie jak nauka o danych w Pythonie. Ten samouczek programowania w języku Python pomoże Ci bezpłatnie nauczyć się języka Python, korzystając z notatek i samouczka w formacie PDF w języku Python.
- 
- 
- 
  
 ### [Kurs PythON: Academy - Najbardziej rozbudowany kurs online Pythona w Polsce](https://www.pythonacademy.pl/) 
  
@@ -60,6 +53,13 @@
 ### [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/pl/) 
  
  > learnpython.org is a free interactive Python tutorial for people who want to learn Python, fast. learnpython.org Home (current) About; Certify; ... kto chce nauczyć się języka programowania Python. Zapraszamy Cię do dołączenia do naszej grupy Facebooku, gdzie możesz zadać pytanie, dyskutować nad rozwojem strony i proponować ulepszenia.
+ 
+ 
+ 
+ 
+### [Python - podstawy w 2h - YouTube](https://www.youtube.com/watch?v=BBu6ZoAHIwI) 
+ 
+ > 🔥 Dołącz do listy mailingowej Python od podstaw - https://pythonodpodstaw.pl/Nowy, lepszy, bardziej rozbudowany film o podstawach Pythona: https://www.youtu...
  
  
  

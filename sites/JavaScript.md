@@ -16,13 +16,6 @@
  
  
  
-### [JavaScript basics - Learn web development | MDN - MDN Web Docs](https://developer.mozilla.org/pl/docs/Learn/Getting_started_with_the_web/JavaScript_basics) 
- 
- > Learn JavaScript. This is an excellent resource for aspiring web developers! Learn JavaScript in an interactive environment, with short lessons and interactive tests, guided by an automated assessment. The first 40 lessons are free. The complete course is available for a small one-time payment.
- 
- 
- 
- 
 ### [JavaScript - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/javascript/) 
  
  > Zastosowanie. JavaScript to dynamicznie typowany język wysokiego poziomu. Najczęściej jest używany przy tworzeniu stron WWW, zapewniając interaktywność stron oraz obsługę zdarzeń, walidacji formularzy czy budowanie elementów nawigacyjnych. Takie wykorzystanie języka JavaScript ułatwia zastosowanie biblioteki, takiej jak jQuery.
@@ -30,9 +23,16 @@
  
  
  
-### [Introduction - JavaScript | MDN - MDN Web Docs](https://developer.mozilla.org/pl/docs/Web/JavaScript/Guide/Introduction) 
+### [Co to jest JavaScript? Do czego służy ten język programowania?](https://e-pasje.pl/co-to-jest-javascript-do-czego-sluzy-ten-jezyk-programowania/) 
  
- > The JavaScript documentation on MDN includes the following: Learn Web Development provides information for beginners and introduces basic concepts of programming and the Internet. JavaScript Guide (this guide) provides an overview about the JavaScript language and its objects. JavaScript Reference provides detailed reference material for ...
+ > JavaScript (JS) to język programowania (nazywany skryptem ), który pozwala osobie tworzącej stronę internetową projektować na niej złożone funkcje oraz zamieszczać bardziej skomplikowane elementy. Dzięki temu językowi programowania witryna może nie tylko wyświetlać statyczne informacje, ale także dynamicznie dostosowywać treść ...
+ 
+ 
+ 
+ 
+### [JavaScript basics - Learn web development | MDN - MDN Web Docs](https://developer.mozilla.org/pl/docs/Learn/Getting_started_with_the_web/JavaScript_basics) 
+ 
+ > Learn JavaScript. This is an excellent resource for aspiring web developers! Learn JavaScript in an interactive environment, with short lessons and interactive tests, guided by an automated assessment. The first 40 lessons are free. The complete course is available for a small one-time payment.
  
  
  
@@ -43,9 +43,9 @@
  
 ### Wyniki wyszukiwania: "JavaScript kurs programowania" 
  
-### [Darmowy Kurs JavaScript — PodstawyJS?](https://podstawyjs.pl/) 
+### [Podstawy programowania w JavaScript w 60 MINUT - YouTube](https://www.youtube.com/watch?v=udxqsJXJM5Q) 
  
- > Witaj w darmowym kursie JavaScript dla początkujących! JavaScript to język programowania, który jest jednym z najpopularniejszych i najważniejszych języków na świecie. Jest on używany do tworzenia interaktywnych elementów stron internetowych, takich jak: animacje. gry. aplikacje internetowe.
+ > Poznaj podstawy programowania w JavaScript w ciągu 60 minut, bez względu na to czy masz już doświadczenie z programowaniem czy też zaczynasz całkowicie od ze...
  
  
  
@@ -57,9 +57,9 @@
  
  
  
-### [Programowanie w JavaScript - WIELKA AKTUALIZACJA 2023 | Udemy](https://www.udemy.com/course/kurs-programowanie-w-javascript/) 
+### [Kurs JavaScript od podstaw krok po kroku - 7h - YouTube](https://www.youtube.com/watch?v=Jq87JwsbG_E) 
  
- > Od podstaw do programowania zorientowanego obiektowo + asynchroniczność + mnóstwo projektów. W trakcie tego kursu nauczysz się programować w JavaScript, co ułatwi Ci pracę ze stroną internetową, ale też późniejsze wejście w świat React czy Node.Oczywiście, będziemy programować w oparciu o najnowsze standardy (także z 2023 roku), poznasz JavaScript w wersji ES6 i nowszych.
+ > 🚀 👉 Zapraszam na Pełny 38 godzinny kurs jest tutaj: https://kubaw.pl/kurs-vanilla-javascriptSpis treści: 00:00 Start kursu00:01:08 Wstęp oraz Visual St...
  
  
  

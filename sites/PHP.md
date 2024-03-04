@@ -30,9 +30,9 @@
  
  
  
-### [Język PHP - do czego służy i dlaczego warto go poznać](https://blog.strefakursow.pl/jezyk-php-do-czego-sluzy-i-dlaczego-warto-go-poznac/) 
+### [Podstawy języka PHP: Wprowadzenie do programowania w PHP](https://netbe.pl/podstawy-jezyka-php-wprowadzenie-do-programowania-w-php/) 
  
- > Jest wiele powodów do rozpoczęcia nauki programowania z wykorzystaniem języka PHP. Oto kilka z nich: Popularność - PHP to najczęściej używany język programowania do tworzenia stron internetowych. Wykorzystuje go nawet przeszło 80 proc. stron WWW. Uniwersalność - PHP służy m.in. generowaniu kodu stron internetowych. Oprócz ...
+ > PHP jest jednym z najpopularniejszych języków programowania używanych do tworzenia dynamicznych stron internetowych i aplikacji webowych. Jeśli dopiero zaczynasz przygodę z PHP, warto zrozumieć podstawy tego języka, aby móc pisać skuteczny i efektywny kod. W tym artykule omówimy podstawowe koncepcje i składnię języka PHP.
  
  
  

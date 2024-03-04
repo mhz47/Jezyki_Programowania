@@ -23,16 +23,16 @@
  
  
  
+### [Kotlin: przewodnik krok po kroku dla początkujących twórców aplikacji](https://appmaster.io/pl/blog/kotlin-przewodnik-krok-po-kroku) 
+ 
+ > Kotlin służy głównie do tworzenia aplikacji na Androida. Jest to język programowania o typie statycznym, którego można używać do tworzenia natywnych aplikacji na Androida, a także można go kompilować do kodu JavaScript na potrzeby tworzenia stron internetowych lub kodu bajtowego JVM do aplikacji po stronie serwera.
+ 
+ 
+ 
+ 
 ### [Język Kotlin - do czego służy i czy warto go poznać?](https://blog.strefakursow.pl/jezyk-kotlin-do-czego-sluzy-i-czy-warto-go-poznac/) 
  
  > Kotlin to statycznie typowany i wieloplatformowy język programowania. Działa na maszynie wirtualnej Javy, z którą jest w pełni kompatybilny. Co ważne, za Kotlinem stoi jedna z najbardziej rozpoznawalnych marek w świecie IT, czyli JetBrains (twórcy m.in. IntelliJ IDEA, prawdopodobnie najpopularniejszego IDE dla Javy). Do jakich zastosowań Kotlin sprawdza się
- 
- 
- 
- 
-### [Kotlin - zastosowanie, przyszłość, najlepsze, polecane kursy](https://jaki-jezyk-programowania.pl/technologie/kotlin/) 
- 
- > Zastosowanie. Kotlin to wieloplatformowy, statycznie typowany język programowania działający na maszynie wirtualnej Javy, który jest głównie rozwijany przez programistów JetBrains - m.in. twórców popularnych IDE jak InteliJ. Kotlin jest zaprojektowany z myślą o pełnej interoperacyjności z językami działającymi na maszynie ...
  
  
  
@@ -50,16 +50,16 @@
  
  
  
-### [1. Kurs Kotlin - Wstęp, instalacja, pierwszy program - YouTube](https://www.youtube.com/watch?v=RfiY8RKhV3U) 
- 
- > Wsparcie kanału - https://patronite.pl/KoWZapraszam do subskrybowania mojego kanału:https://www.youtube.com/user/KodeksOnline?sub_confirmation=1Cały kurs Kot...
- 
- 
- 
- 
 ### [Najpopularniejsze kursy online na temat Kotlin - Udemy](https://www.udemy.com/pl/topic/kotlin/) 
  
  > Ucz się tworzenia aplikacji za pomocą języka programowania Kotlin u najwyżej ocenianych instruktorów Udemy. Udemy oferuje kursy od podstawowych po zaawansowane, które pomogą Ci szybko nauczyć się języka Kotlin i zacząć tworzyć osiągające sukcesy aplikacje na Androida.
+ 
+ 
+ 
+ 
+### [1. Kurs Kotlin - Wstęp, instalacja, pierwszy program - YouTube](https://www.youtube.com/watch?v=RfiY8RKhV3U) 
+ 
+ > Wsparcie kanału - https://patronite.pl/KoWZapraszam do subskrybowania mojego kanału:https://www.youtube.com/user/KodeksOnline?sub_confirmation=1Cały kurs Kot...
  
  
  

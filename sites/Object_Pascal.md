@@ -43,16 +43,16 @@
  
 ### Wyniki wyszukiwania: "Delphi/Object Pascal kurs programowania" 
  
-### [Learn To Program with Delphi and Object Pascal | Udemy](https://www.udemy.com/course/learn-to-program-with-pascal/) 
- 
- > This is for you! Cross-platform developers - with Lazarus and Free Pascal, write on one OS, compile on a different one! Huw Collingbourne has programmed in Object Pascal since the first release of Delphi in 1995. For over 10 years he was the Delphi programming columnist for PC Plus magazine in the UK. This course gives you in-depth ...
- 
- 
- 
- 
 ### [Turbo Pascal - Kurs WARTO Zobaczyć!](http://www.pascal.kurs-programowania.pl/) 
  
  > Kurs Turbo pascala. Kurs programowania jest przeznaczony dla studentów i uczniów szkół średnich. Przykłady i artykuły pomogą Ci przyswoić niezbędną wiedzę, by tworzyć profesjonalne programy. Nauczysz się tworzyć proste obliczenia matematyczne, budować własne bazy danych a także tworzyć gry komputerowe w Pascalu!
+ 
+ 
+ 
+ 
+### [Learn To Program with Delphi and Object Pascal | Udemy](https://www.udemy.com/course/learn-to-program-with-pascal/) 
+ 
+ > This is for you! Cross-platform developers - with Lazarus and Free Pascal, write on one OS, compile on a different one! Huw Collingbourne has programmed in Object Pascal since the first release of Delphi in 1995. For over 10 years he was the Delphi programming columnist for PC Plus magazine in the UK. This course gives you in-depth ...
  
  
  

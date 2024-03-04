@@ -30,9 +30,9 @@
  
  
  
-### [The C Programming Language - Wikipedia](https://en.wikipedia.org/wiki/The_C_Programming_Language) 
+### [1. Kurs języka C - Wstęp do programowania, instalacja środowiska IDE](https://www.youtube.com/watch?v=o9zn6XQKjgU) 
  
- > The C Programming Language (sometimes termed K&R, after its authors' initials) is a computer programming book written by Brian Kernighan and Dennis Ritchie, the latter of whom originally designed and implemented the C programming language, as well as co-designed the Unix operating system with which development of the language was closely intertwined. The book was central to the development and ...
+ > Wsparcie kanału - https://patronite.pl/KoWCały kurs C - https://www.youtube.com/watch?v=o9zn6XQKjgU&list=PL6aekdNhY7DBvSnK0HUUBb-OH4y41HoZw--- Chcesz wiedzie...
  
  
  
@@ -50,16 +50,16 @@
  
  
  
-### [Najpopularniejsze kursy online na temat C (język programowania ... - Udemy](https://www.udemy.com/pl/topic/c-programming/) 
- 
- > Dowiedz się, jak używać języka programowania C dzięki wykładom prowadzonym przez najwyżej ocenianych instruktorów programowania. Niezależnie od tego, czy interesujesz się podstawami czy zaawansowanymi zastosowaniami języka programowania C, Udemy z pewnością ma kurs, który pomoże Ci stać się lepszym programistą.
- 
- 
- 
- 
 ### [Programowanie w języku C - od A do Z | Udemy](https://www.udemy.com/course/programowanie-w-jezyku-c/) 
  
  > OPIS KURSU. - - - - - - - - - -. Zacznij przygodę z programowaniem w języku C już dziś. Dzięki wiedzy zdobytej na tym kursie nauczysz się pisać i kompilować swoje programy komputerowe. Umiejętności związane z językiem C są bardzo dobrze postrzegane na rynku, dlatego warto dołączyć taką umiejętność do swojego CV.
+ 
+ 
+ 
+ 
+### [1. Kurs Programowania w C - Pierwszy program - YouTube](https://www.youtube.com/watch?v=XmCmJ94kZUU) 
+ 
+ > Kolejna lekcja: http://www.youtube.com/watch?v=Ik6JDCy6-Tg&list=PL_k1YAvuKxVhkY2q5A-_a6niBWRR0_oz7Instalacja Code::Blocks http://www.youtube.com/watch?v=gXxe...
  
  
  

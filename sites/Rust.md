@@ -23,16 +23,16 @@
  
  
  
+### [The Rust Programming Language - The Rust Programming Language - Learn Rust](https://doc.rust-lang.org/stable/book/) 
+ 
+ > The Rust Programming Language. by Steve Klabnik and Carol Nichols, with contributions from the Rust Community. This version of the text assumes you're using Rust 1.67.1 (released 2023-02-09) or later. See the "Installation" section of Chapter 1 to install or update Rust. The HTML format is available online at https://doc.rust-lang.org ...
+ 
+ 
+ 
+ 
 ### [Język programowania Rust](https://prev.rust-lang.org/pl-PL/) 
  
  > Język programowania Rust. Rust to systemowy język programowania, który jest niesamowicie szybki, zapobiega naruszeniom pamięci oraz gwarantuje bezpieczeństwo wątków. Zobacz, kto używa Rusta. Zainstaluj Rust 1.31.0.
- 
- 
- 
- 
-### [Dokumentacja Rusta · Język programowania Rust](https://prev.rust-lang.org/pl-PL/documentation.html) 
- 
- > Systemowy język programowania, który jest niesamowicie szybki, zapobiega naruszeniom pamięci oraz gwarantuje bezpieczeństwo wątków. Dokumentacja ... Dotyczy organizacji rust-lang na GitHub, oficjalnego forum, kanałów IRC oraz różnych innych zakątków świata Rusta.
  
  
  
@@ -50,16 +50,16 @@
  
  
  
-### [Learn Rust Programming - For Beginners](https://www.programiz.com/rust) 
+### [Wykonaj pierwsze kroki za pomocą języka Rust - Training](https://learn.microsoft.com/pl-pl/training/paths/rust-first-steps/) 
  
- > Learn Rust Programming. Tutorials Online Compiler. Rust is an open-source programming language that is extensively used to build kernels for operating systems, game engines for video games, browser engines for web browsers like Chrome, Firefox, and command-line tools. It is one of the fastest programming languages and requires less memory.
- 
- 
+ > Podstawy wiedzy potrzebnej do tworzenia szybkich i skutecznych programów w Rust. Zawartość tej ścieżki szkoleniowej: Zainstaluj narzędzia potrzebne do pisania pierwszych wierszy kodu Rust. Poznaj podstawowe pojęcia w języku Rust. Dowiedz się, jak obsługiwać błędy. Zarządzanie pamięcią w języku Rust. Użyj typów ogólnych i cech.
  
  
-### [Learn Rust - Rust Programming Language](https://www.rust-lang.org/learn) 
  
- > Get started with Rust. Affectionately nicknamed "the book," The Rust Programming Language will give you an overview of the language from first principles. You'll build a few projects along the way, and by the end, you'll have a solid grasp of the language. Read the Book!
+ 
+### [Rust - zastosowanie, przyszłość, najlepsze, polecane kursy](https://jaki-jezyk-programowania.pl/technologie/rust/) 
+ 
+ > Zastosowanie. Rust jest relatywnie świeżym, wieloparadygmatowym językiem programowania obecnie rozwijanym przez Mozillę. Został zaprojektowany by być bezpiecznym, szczególnie pod względem współbieżności. Rust składniowo jest podobny do C++. Oferuje automatyczne zarządzanie pamięcią, jednak w odróżnieniu do typowych rozwiązań ...
  
  
  

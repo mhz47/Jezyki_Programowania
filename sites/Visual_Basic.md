@@ -30,9 +30,9 @@
  
  
  
-### [Visual Basic for Applications - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Visual_Basic_for_Applications) 
+### [Visual Basic .NET - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Visual_Basic_.NET) 
  
- > Visual Basic for Applications. Visual Basic for Applications, VBA - język programowania oparty na Visual Basicu (VB) zaimplementowany w aplikacjach pakietu Microsoft Office oraz kilku innych, jak na przykład AutoCAD i WordPerfect. Ta uproszczona wersja Visual Basica służy przede wszystkim do automatyzacji pracy z dokumentami, na przykład ...
+ > Visual Basic .NET (VB.NET) - obiektowy język programowania zaprojektowany przez firmę Microsoft.Program napisany w tym języku kompilowany jest do kodu pośredniego wykonywanego w maszynie wirtualnej zgodnej z .NET.Oznacza to, że do uruchomienia programu napisanego w języku VB.Net w systemie Windows wymagana jest (zwykle bezpłatna) biblioteka uruchomieniowa taka jak .NET Framework lub Mono.
  
  
  
@@ -43,13 +43,6 @@
  
 ### Wyniki wyszukiwania: "Visual Basic kurs programowania" 
  
-### [Best Visual Basic Courses & Certificates Online [2024] | Coursera](https://www.coursera.org/courses?query=visual basic) 
- 
- > In summary, here are 10 of our most popular visual basic courses. Excel/VBA for Creative Problem Solving: University of Colorado Boulder. Introduction to Computer Programming with Visual Basic: LearnQuest. Introduction to Visual Basic Programming: LearnQuest. Excel/VBA for Creative Problem Solving, Part 1: University of Colorado Boulder.
- 
- 
- 
- 
 ### [Dokumentacja języka Visual Basic — wprowadzenie, samouczki i ...](https://learn.microsoft.com/pl-pl/dotnet/visual-basic/) 
  
  > Poznaj programowanie w języku Visual Basic na platformie .NET — dla początkujących deweloperów, ... Dokumentacja języka Visual Basic. Visual Basic to język programowania obiektowego opracowany przez firmę Microsoft. Korzystanie z języka Visual Basic umożliwia szybkie i łatwe tworzenie bezpiecznych dla typów aplikacji .NET.
@@ -57,9 +50,16 @@
  
  
  
-### [Introduction to Visual Basic Programming | Coursera](https://www.coursera.org/learn/visual-basic-programming-introduction) 
+### [Programowanie w Visual Basic (VBA) w Excelu | Udemy](https://www.udemy.com/course/programowanie-w-visual-basic-vba-w-excelu/) 
  
- > In this course, you will be introduced to the five main concepts in procedural programming: user input, console output, variable declaration and assignment, decision branching and iteration. Labs will allow the students to apply the material in the lectures in simple computer programs designed to re-enforce the material in the lesson.
+ > Kurs uczy programowania w Visual Basic (VBA) zanurzonym w Excelu. Visual Basic jest integralną częścią arkusza Excel - warto z niego korzystać. To naprawdę proste. Kurs jest przeznaczony i dla początkujących programistów i dla tych, którzy już mają doświadczenie w programowaniu. Środowisko programistyczne tzw.
+ 
+ 
+ 
+ 
+### [Best Visual Basic Courses & Certificates Online [2024] | Coursera](https://www.coursera.org/courses?query=visual basic) 
+ 
+ > In summary, here are 10 of our most popular visual basic courses. Excel/VBA for Creative Problem Solving: University of Colorado Boulder. Introduction to Computer Programming with Visual Basic: LearnQuest. Introduction to Visual Basic Programming: LearnQuest. Excel/VBA for Creative Problem Solving, Part 1: University of Colorado Boulder.
  
  
  

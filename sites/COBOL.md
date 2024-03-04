@@ -16,9 +16,9 @@
  
  
  
-### [Cobol - Encyklopedia Zarządzania](https://mfiles.pl/pl/index.php/Cobol) 
+### [COBOL. Co trzeba o nim wiedzieć](https://nofluffjobs.com/pl/log/praca-w-it/cobol-jezyk-programistyczny/) 
  
- > Podgląd. Kod źródłowy. Historia. COBOL (ang. COmmon Business Oriented Language) - język programowania stworzony z głównym przeznaczeniem do prac programistycznych w dziedzinach ekonomii i biznesu. COBOL jest jednym z najpopularniejszych i najczęściej używanych języków programowania na świecie. Według szacunków Gartner Group z ...
+ > Tak w 1959 roku narodził się COBOL - pierwszy powszechnie używany język programowania wysokiego poziomu, który dzięki zaawansowanym możliwościom obsługi plików może obsługiwać ogromne ilości danych. Po poprawkach COBOL szybko stał się preferowanym językiem do tworzenia systemów biznesowych, utrzymując tę pozycję do dziś.
  
  
  
@@ -30,9 +30,9 @@
  
  
  
-### [Cobol - Ibm](https://www.ibm.com/docs/pl/i/7.1?topic=languages-cobol) 
+### [Cobol - Encyklopedia Zarządzania](https://mfiles.pl/pl/index.php/Cobol) 
  
- > COBOL. COBOL. Podręczniki te podają informacje dotyczące struktury programu w języku COBOL, instrukcji w Procedure Division i instrukcji sterujących kompilatora. Skorowidz języka ILE COBOL Skorowidz zawiera opis język programowania Integrated Language Environment COBOL (ILE COBOL). Zamieszczono w nim informacje dotyczące struktury ...
+ > Podgląd. Kod źródłowy. Historia. COBOL (ang. COmmon Business Oriented Language) - język programowania stworzony z głównym przeznaczeniem do prac programistycznych w dziedzinach ekonomii i biznesu. COBOL jest jednym z najpopularniejszych i najczęściej używanych języków programowania na świecie. Według szacunków Gartner Group z ...
  
  
  
@@ -57,9 +57,9 @@
  
  
  
-### [30+ COBOL Online Courses for 2024 - Class Central](https://www.classcentral.com/subject/cobol) 
+### [COBOL Programming with VSCode | Coursera](https://www.coursera.org/learn/cobol-programming-vscode) 
  
- > Master COBOL programming in just 1-2 hours! Learn from basics to advanced concepts like arrays, records, and linkage, making it ideal for beginners in software development. Add to list. YouTube. 1 hour 30 minutes. On-Demand. Free Online Course.
+ > This introductory COBOL course helps a novice learn the Structure of COBOL programs, Data types & Variable Handling, Intrinsic Functions, Branching logic and more. The goal of the course is to enable the participant to be able to write basic COBOL programs. This is a fantastic compliment to the IBM z/OS Practitioner path for the IBM Mainframe.
  
  
  

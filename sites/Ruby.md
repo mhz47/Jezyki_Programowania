@@ -30,9 +30,9 @@
  
  
  
-### [Ruby i Ruby on Rails: wprowadzenie w język i popularne praktyki](https://boringowl.io/blog/podroz-do-swiata-programowania-przewodnik-po-jezyku-ruby) 
+### [About Ruby - Ruby Programming Language](https://www.ruby-lang.org/en/about/) 
  
- > Język programowania Ruby jest nieodłącznym elementem wielu nowoczesnych aplikacji webowych. W tym kontekście, najlepsze praktyki i narzędzia to klucz do produkcji skutecznego, wydajnego oraz łatwego do utrzymania kodu. Zbiór gemów, takich jak Bundler czy Rake, umożliwia zarządzanie zależnościami i automatyzację zadań, co ...
+ > About Ruby's Growth. Since its public release in 1995, Ruby has drawn devoted coders worldwide. In 2006, Ruby achieved mass acceptance. With active user groups formed in the world's major cities and Ruby-related conferences filled to capacity. Ruby-Talk, the primary mailing list for discussion of the Ruby language, climbed to an average of ...
  
  
  
@@ -50,16 +50,16 @@
  
  
  
-### [Kurs Programowania: Ruby on Rails część 1 - YouTube](https://www.youtube.com/watch?v=Op4PH8Arj34) 
+### [Kursy programowania - Kodologia](https://kodologia.pl/kursy) 
  
- > Kurs programowania Ruby on Rails część 1 , zostały omówione takie zagadnienia programowania w Ruby on Rails jak scaffold, podstawy HTML, został omówiony ryne...
- 
- 
+ > Przeszłam kurs programowania w Ruby na Kodologii i dzięki temu dostałam się na warsztaty Rails Girls. Co jest fajnego w Kodologii? Praktyka! Jeszcze nigdy zdobywanie wiedzy nie było tak przyjemne. Z każdym rozwiązanym zadaniem chcesz wiedziec więcej i więcej".
  
  
-### [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby) 
  
- > About this course. Ruby is a general-purpose language that is still popular and in high demand in the marketplace, as it's more commonly used in Rails applications. Concise and readable, it is easy to pick up but also plenty powerful. Companies like Twitter, Soundcloud, Goodreads, and Kickstarter got their products off the ground with Ruby.
+ 
+### [Top Ruby Courses Online - Updated [February 2024] - Udemy](https://www.udemy.com/topic/ruby/) 
+ 
+ > There was a problem loading course recommendations. Learn Ruby from a top-rated web development instructor. Udemy offers basic to advanced Ruby courses to help you build programs in the Ruby language and land your dream web development gig as a professional Ruby developer.
  
  
  

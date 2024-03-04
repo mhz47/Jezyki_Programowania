@@ -4,7 +4,7 @@
  
 ### [Scratch - Imagine, Program, Share](https://scratch.mit.edu/) 
  
- > Scratch is a programming language and online platform where you can create your own stories, games, and animations. Learn how to use Scratch, share your projects with others, and explore featured projects and studios.
+ > Scratch is a free online platform where you can learn and share your own coding projects with others around the world. You can create stories, games, and animations using Scratch 4.0, a visual programming language and editor.
  
  
  
@@ -57,9 +57,9 @@
  
  
  
-### [Programowanie dla dzieci Scratch - lekcja 1 - pierwsze kroki](https://www.youtube.com/watch?v=T-l4n4p7g6I) 
+### [Kurs programowania w Scratch od 8 do 15 lat | Udemy](https://www.udemy.com/course/kurs-programowania-w-scratch-od-8-do-15-lat/) 
  
- > Darmowy kurs video Scratch - twórz własne gry ZAPISY ️ ️ ️ http://bit.ly/kurs-scratchKurs podstaw programowania dla dzieci w Scratch. W pierwszej lekcji d...
+ > Opis. Kurs, to prawie 6 godzin świetnej zabawy zarówno dla dziecka, jak i dla rodzica. A to dopiero początek …. Kurs Scratch pozwala zainteresować najmłodszych dziedziną programowania. Ucząc się wspólnie ze swoim dzieckiem, możecie razem poznawać tajniki programowania. Możesz także, przy pomocy kursu, zdobyć wiedzę potrzebną ...
  
  
  

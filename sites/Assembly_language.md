@@ -2,16 +2,16 @@
  
 ### Wyniki wyszukiwania: "Assembly language język programowania" 
  
-### [Assembly language - Wikipedia](https://en.wikipedia.org/wiki/Assembly_language) 
- 
- > Assembly language syntax. Assembly language uses a mnemonic to represent, e.g., each low-level machine instruction or opcode, each directive, typically also each architectural register, flag, etc.Some of the mnemonics may be built in and some user defined. Many operations require one or more operands in order to form a complete instruction. Most assemblers permit named constants, registers ...
- 
- 
- 
- 
 ### [Asembler - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Asembler) 
  
  > Asembler (z ang. assembler) - termin informatyczny związany z programowaniem i tworzeniem kodu maszynowego dla procesorów.W języku polskim oznacza on program tworzący kod maszynowy na podstawie kodu źródłowego (tzw. asemblacja) wykonanego w niskopoziomowym języku programowania bazującym na podstawowych operacjach procesora zwanym językiem asemblera, popularnie nazywanym również ...
+ 
+ 
+ 
+ 
+### [Assembly language - Wikipedia](https://en.wikipedia.org/wiki/Assembly_language) 
+ 
+ > Assembly language syntax. Assembly language uses a mnemonic to represent, e.g., each low-level machine instruction or opcode, each directive, typically also each architectural register, flag, etc.Some of the mnemonics may be built in and some user defined. Many operations require one or more operands in order to form a complete instruction. Most assemblers permit named constants, registers ...
  
  
  
@@ -30,9 +30,9 @@
  
  
  
-### [What Is Assembly Language? Working, Features, and Advantages - Spiceworks](https://www.spiceworks.com/tech/tech-general/articles/what-is-assembly-language/) 
+### [Assembly](https://assembly-lang.org/app/) 
  
- > 1. Display flexibility. Assembly language provides a high degree of flexibility in displaying data on the screen, thanks to its data-stream commands, wide screens, and cursor-dependent functions. Data-stream commands are used to write data to the screen in real-time.
+ > Link do Twojego programu: Zamknij ...
  
  
  
@@ -50,7 +50,7 @@
  
  
  
-### [Top Assembly Language Courses Online - Updated [March 2024] - Udemy](https://www.udemy.com/topic/assembly-language/) 
+### [Top Assembly Language Courses Online - Updated [February 2024] - Udemy](https://www.udemy.com/topic/assembly-language/) 
  
  > Top Assembly Language Courses Online - Updated [February 2024] Courses from $12.99 | Gain the skills to climb that career ladder. 2 days left!
  
