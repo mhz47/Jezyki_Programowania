@@ -1,6 +1,6 @@
-# Swift ![Swift image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Swift.png)
+# __Swift ![Swift image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Swift.png)__ 
  
-### Wyniki wyszukiwania: "Swift język programowania" 
+## Wyniki wyszukiwania: "Swift język programowania" 
  
 ### [Swift (język programowania LLVM) - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Swift_(język_programowania_LLVM)) 
  
@@ -41,7 +41,7 @@
  
 ---
  
-### Wyniki wyszukiwania: "Swift kurs programowania" 
+## Wyniki wyszukiwania: "Swift kurs programowania" 
  
 ### [Kurs programowania Swift - TWORZENIE APLIKACJI NA iOS, WatchOS i AppleTV](http://swiftlab.pl/) 
  
@@ -50,16 +50,16 @@
  
  
  
-### [Jak nauczyć się programowania w języku Swift: Przewodnik ... - AppMaster](https://appmaster.io/pl/blog/naucz-sie-swifta-krok-po-kroku) 
- 
- > Swift to najlepszy język programowania, którego powinieneś się nauczyć i w łatwy sposób stworzyć swoją wymarzoną aplikację. Programowanie Swift to potężny, a zarazem łatwy do nauczenia się język kodowania stworzony przez Apple. Jest często używany do tworzenia aplikacji iOS i macOS, a także aplikacji tvOS i watchOS.
- 
- 
- 
- 
 ### [Podstawy języka Swift | Udemy](https://www.udemy.com/course/podstawy-jezyka-swift/) 
  
  > Ten kurs jest właśnie dla Ciebie! Jeżeli chcesz programować aplikacje na iOS, znajomość języka Swift jest niezbędna. ... Gwarantujemy, że zdobędziesz podstawową wiedzę na temat programowania w języku Swift. Sumienna realizacja całego kursu odpowiednio przygotuje Cię do kolejnych szkoleń z zakresu tworzenia niesamowitych ...
+ 
+ 
+ 
+ 
+### [Kurs Swift - Lekcja 1: Podstawy języka - MyApple.pl](https://myapple.pl/posts/8600-kurs-swift-lekcja-1-podstawy-jezyka) 
+ 
+ > Kurs Swift - Lekcja 1: Podstawy języka. Naukę pisania aplikacji rozpoczniemy od przyswojenia podstawowych pojęć wstępujących w wybranym przez nas języku programowania. Poniższy wpis pozwoli nam przerobić elementarne zagadnienia związane z programowaniem w języku Swift. Na koniec lekcji spróbujemy wykorzystać zdobytą wiedzę w ...
  
  
  

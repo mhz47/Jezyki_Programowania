@@ -1,6 +1,6 @@
-# Assembly language ![Assembly language image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Assembly_language.png)
+# __Assembly language ![Assembly language image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Assembly_language.png)__ 
  
-### Wyniki wyszukiwania: "Assembly language język programowania" 
+## Wyniki wyszukiwania: "Assembly language język programowania" 
  
 ### [Asembler - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Asembler) 
  
@@ -41,7 +41,7 @@
  
 ---
  
-### Wyniki wyszukiwania: "Assembly language kurs programowania" 
+## Wyniki wyszukiwania: "Assembly language kurs programowania" 
  
 ### [Bare-Metal Programming: 10 Best Assembly Language Courses for 2024](https://www.classcentral.com/report/best-assembly-courses/) 
  

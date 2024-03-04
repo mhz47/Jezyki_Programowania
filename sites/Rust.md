@@ -1,6 +1,6 @@
-# Rust ![Rust image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Rust.png)
+# __Rust ![Rust image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Rust.png)__ 
  
-### Wyniki wyszukiwania: "Rust język programowania" 
+## Wyniki wyszukiwania: "Rust język programowania" 
  
 ### [Rust (język programowania) - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Rust_(język_programowania)) 
  
@@ -9,16 +9,16 @@
  
  
  
-### [Rust - zastosowanie, przyszłość, najlepsze, polecane kursy](https://jaki-jezyk-programowania.pl/technologie/rust/) 
- 
- > Według ankiety przeprowadzonej przez StackOverflow Rust był najbardziej polubionym językiem wśród programistów 3 lata z rzędu - w 2016, 2017 i 2018. Oznacza to, że ten język programowania ma naprawdę dobry potencjał. Dodatkowym plusem jest to, że jest rozwijany przez Mozillę.
- 
- 
- 
- 
 ### [Rust (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language)) 
  
  > Rust is a multi-paradigm, general-purpose programming language that emphasizes performance, type safety, and concurrency.It enforces memory safety—meaning that all references point to valid memory—without a garbage collector.To simultaneously enforce memory safety and prevent data races, its "borrow checker" tracks the object lifetime of all references in a program during compilation.
+ 
+ 
+ 
+ 
+### [Rust - zastosowanie, przyszłość, najlepsze, polecane kursy](https://jaki-jezyk-programowania.pl/technologie/rust/) 
+ 
+ > Według ankiety przeprowadzonej przez StackOverflow Rust był najbardziej polubionym językiem wśród programistów 3 lata z rzędu - w 2016, 2017 i 2018. Oznacza to, że ten język programowania ma naprawdę dobry potencjał. Dodatkowym plusem jest to, że jest rozwijany przez Mozillę.
  
  
  
@@ -41,7 +41,7 @@
  
 ---
  
-### Wyniki wyszukiwania: "Rust kurs programowania" 
+## Wyniki wyszukiwania: "Rust kurs programowania" 
  
 ### [Rust - kurs od podstaw | #01 | Instalacja, pierwszy program](https://www.youtube.com/watch?v=Mam6MOZzIE0) 
  
@@ -57,9 +57,9 @@
  
  
  
-### [Rust - zastosowanie, przyszłość, najlepsze, polecane kursy](https://jaki-jezyk-programowania.pl/technologie/rust/) 
+### [Rust Programming | Coursera](https://www.coursera.org/specializations/rust-programming) 
  
- > Zastosowanie. Rust jest relatywnie świeżym, wieloparadygmatowym językiem programowania obecnie rozwijanym przez Mozillę. Został zaprojektowany by być bezpiecznym, szczególnie pod względem współbieżności. Rust składniowo jest podobny do C++. Oferuje automatyczne zarządzanie pamięcią, jednak w odróżnieniu do typowych rozwiązań ...
+ > This comprehensive Rust Specialization from Coursera and Duke University, a top Data Science and AI program, provides software engineers, data scientists, and technical professionals with applied skills to leverage Rust's speed, safety, and versatility for robust systems programming. Over five courses spanning foundational syntax to advanced ...
  
  
  

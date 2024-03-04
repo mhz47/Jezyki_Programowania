@@ -1,6 +1,6 @@
-# COBOL ![COBOL image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/COBOL.png)
+# __COBOL ![COBOL image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/COBOL.png)__ 
  
-### Wyniki wyszukiwania: "COBOL język programowania" 
+## Wyniki wyszukiwania: "COBOL język programowania" 
  
 ### [COBOL - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/COBOL) 
  
@@ -23,16 +23,16 @@
  
  
  
+### [COBOL dla początkujących - Bulldogjob](https://bulldogjob.pl/readme/cobol-dla-poczatkujacych) 
+ 
+ > Common Business-Oriented Language, czyli COBOL, to kompilowany język programowania podobny do języka angielskiego, zaprojektowany do użycia w biznesie. Jest to język imperatywny, proceduralny i, od 2002, zorientowany obiektowo. Jest używany głównie w biznesie, finansach i systemach zarządzających dla dużych firm i rządów. ...
+ 
+ 
+ 
+ 
 ### [Cobol - co musisz wiedzieć o tym języku programowania?](https://aviary.pl/cobol-jezyk-programowania/) 
  
  > Cobol to jeden z najstarszych języków programowania, który pozostaje istotny w dzisiejszym świecie technologii. Jego nazwa pochodzi od skrótu "COmmon
- 
- 
- 
- 
-### [Cobol - Encyklopedia Zarządzania](https://mfiles.pl/pl/index.php/Cobol) 
- 
- > Podgląd. Kod źródłowy. Historia. COBOL (ang. COmmon Business Oriented Language) - język programowania stworzony z głównym przeznaczeniem do prac programistycznych w dziedzinach ekonomii i biznesu. COBOL jest jednym z najpopularniejszych i najczęściej używanych języków programowania na świecie. Według szacunków Gartner Group z ...
  
  
  
@@ -41,7 +41,7 @@
  
 ---
  
-### Wyniki wyszukiwania: "COBOL kurs programowania" 
+## Wyniki wyszukiwania: "COBOL kurs programowania" 
  
 ### [Free course: Announcing Learning COBOL Programming with VSCode](https://www.ibm.com/blogs/ibm-training/free-course-announcing-learning-cobol-programming-with-vscode/) 
  
@@ -57,9 +57,9 @@
  
  
  
-### [COBOL Programming with VSCode | Coursera](https://www.coursera.org/learn/cobol-programming-vscode) 
+### [IBM COBOL Core | Coursera](https://www.coursera.org/learn/ibm-cobol-core) 
  
- > This introductory COBOL course helps a novice learn the Structure of COBOL programs, Data types & Variable Handling, Intrinsic Functions, Branching logic and more. The goal of the course is to enable the participant to be able to write basic COBOL programs. This is a fantastic compliment to the IBM z/OS Practitioner path for the IBM Mainframe.
+ > There are 3 modules in this course. COBOL is a programming language that serves a wide range of businesses. Key aspects of COBOL are that it is scalable, mature, and self-documenting. In this COBOL CORE class you'll discover more features of the language, how to handle tables, edit, use switches, numeric usage, and structured COBOL.
  
  
  

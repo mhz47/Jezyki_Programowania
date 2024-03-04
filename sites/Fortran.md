@@ -1,6 +1,6 @@
-# Fortran ![Fortran image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Fortran.png)
+# __Fortran ![Fortran image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Fortran.png)__ 
  
-### Wyniki wyszukiwania: "Fortran język programowania" 
+## Wyniki wyszukiwania: "Fortran język programowania" 
  
 ### [Fortran - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Fortran) 
  
@@ -41,11 +41,11 @@
  
 ---
  
-### Wyniki wyszukiwania: "Fortran kurs programowania" 
+## Wyniki wyszukiwania: "Fortran kurs programowania" 
  
-### [Fortran Programming Complete Course | Udemy](https://www.udemy.com/course/fortran-course/) 
+### [The Fortran Programming Language](https://fortran-lang.org/en/index.html) 
  
- > You will learn to use Fortran professionally, starting from zero level! You will understand the logic of Programming step by step and from scratch, for beginners. You will become perfectly familiar with the Fortran interface and workspace to configure and prepare all aspects of the coding. You will discover how to program loops, decisions, or ...
+ > Natively parallel. Fortran is a natively parallel programming language with intuitive array-like syntax to communicate data between CPUs. You can run almost the same code on a single CPU, on a shared-memory multicore system, or on a distributed-memory HPC or cloud-based system. Coarrays, teams, events, and collective subroutines allow you to ...
  
  
  
@@ -57,9 +57,9 @@
  
  
  
-### [Fortran - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Fortran) 
+### [Quickstart tutorial — Fortran Programming Language](https://fortran-lang.org/en/learn/quickstart/index.html) 
  
- > Fortran (od wersji 90 do aktualnej) a dawniej FORTRAN (do wersji 77 włącznie) (od ang. formula translation) - język programowania pierwotnie zaprojektowany do zapisu programów obliczeniowych, był niegdyś językiem proceduralnym, obecnie jest nadal rozwijanym językiem ogólnego przeznaczenia.Umożliwia programowanie strukturalne, obiektowe (Fortran 90/95), modularne i równoległe ...
+ > This quickstart tutorial gives an overview of the Fortran programming language and its syntax for common structured programming concepts including: types, variables, arrays, control flow and functions. The contents of this tutorial are shown in the navigation bar on the left with the current page highlighted bold. Use the Next button at the ...
  
  
  

@@ -1,6 +1,6 @@
-# MATLAB ![MATLAB image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/MATLAB.png)
+# __MATLAB ![MATLAB image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/MATLAB.png)__ 
  
-### Wyniki wyszukiwania: "MATLAB język programowania" 
+## Wyniki wyszukiwania: "MATLAB język programowania" 
  
 ### [MATLAB - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/MATLAB) 
  
@@ -41,7 +41,7 @@
  
 ---
  
-### Wyniki wyszukiwania: "MATLAB kurs programowania" 
+## Wyniki wyszukiwania: "MATLAB kurs programowania" 
  
 ### [Matlab 2018 - Wprowadzenie - część 1 - Interfejs i system ... - YouTube](https://www.youtube.com/watch?v=3EsJA4e_UXk) 
  

@@ -1,6 +1,6 @@
-# C# ![C# image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C_.png)
+# __C# ![C# image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C_.png)__ 
  
-### Wyniki wyszukiwania: "C# język programowania" 
+## Wyniki wyszukiwania: "C# język programowania" 
  
 ### [C Sharp - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/C_Sharp) 
  
@@ -30,9 +30,9 @@
  
  
  
-### [C# - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/csharp/) 
+### [Język C# - Czym jest i gdzie się go używa? - blog.strefakursow.pl](https://blog.strefakursow.pl/jezyk-c-czym-jest-i-gdzie-sie-go-uzywa/) 
  
- > Jest to zatem wieloplatformowy język programowania wykorzystywany w wielu dziedzinach. C# napędza m.in. stronę StackOverflow czy gry takie jak Terraria, Magicka, Bastion. Top 10 projektów na Github wykorzystujących C#. Github to system kontroli wersji. Możesz znaleźć tam projekty open source w każdej technologii.
+ > Środowisko dla C# - Visual Studio. Najbardziej popularnym IDE dla C# jest Visual Studio, czyli kolejny produkt od Microsoft. Jest to rozbudowany program, funkcjonalnością ściśle dopasowany do potrzeb programistycznych. Z pomocą Visual Studio można edytować, kompilować i debugować kod, a narzędzie mocno wspiera programistę w tych ...
  
  
  
@@ -41,7 +41,7 @@
  
 ---
  
-### Wyniki wyszukiwania: "C# kurs programowania" 
+## Wyniki wyszukiwania: "C# kurs programowania" 
  
 ### [C# w 30 minut - szybki kurs programowania w csharp - YouTube](https://www.youtube.com/watch?v=EQGgmJLVn48) 
  

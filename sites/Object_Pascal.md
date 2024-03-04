@@ -1,6 +1,6 @@
-# Delphi/Object Pascal ![Delphi/Object Pascal image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png)
+# __Delphi/Object Pascal ![Delphi/Object Pascal image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png)__ 
  
-### Wyniki wyszukiwania: "Delphi/Object Pascal język programowania" 
+## Wyniki wyszukiwania: "Delphi/Object Pascal język programowania" 
  
 ### [Object Pascal - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Object_Pascal) 
  
@@ -12,13 +12,6 @@
 ### [Embarcadero Delphi - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Embarcadero_Delphi) 
  
  > Język programowania: Object Pascal Platforma sprzętowa x86, x86-64: System operacyjny Microsoft Windows: Rodzaj zintegrowane środowisko programistyczne: Licencja zamknięte oprogramowanie: ... Język programowania Object Pascal w Delphi Cechy języka Język Object Pascal stosowany w Delphi posiada wiele cech dodatkowych (przy okazji premiery ...
- 
- 
- 
- 
-### [Pascal (język programowania) - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Pascal_(język_programowania)) 
- 
- > Pascal - język programowania wysokiego poziomu opracowany przez Niklausa Wirtha w 1970 roku. Historia ... W chwili obecnej dość mocno rozpowszechnionym obiektowym dialektem języka Pascal jest Object Pascal, który stanowi podstawę dla takich języków jak Delphi, Delphi.NET, Oxygene.
  
  
  
@@ -37,18 +30,18 @@
  
  
  
+### [Comparison of Pascal and Delphi - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_Pascal_and_Delphi) 
+ 
+ > Devised by Niklaus Wirth in the late 1960s and early 1970s, Pascal is a programming language.Originally produced by Borland Software Corporation, Embarcadero Delphi is composed of an IDE, set of standard libraries, and a Pascal-based language commonly called either Object Pascal, Delphi Pascal, or simply 'Delphi' (Embarcadero's current documentation refers to it as 'the Delphi language (Object ...
+ 
+ 
+ 
+ 
 
  
 ---
  
-### Wyniki wyszukiwania: "Delphi/Object Pascal kurs programowania" 
- 
-### [Turbo Pascal - Kurs WARTO Zobaczyć!](http://www.pascal.kurs-programowania.pl/) 
- 
- > Kurs Turbo pascala. Kurs programowania jest przeznaczony dla studentów i uczniów szkół średnich. Przykłady i artykuły pomogą Ci przyswoić niezbędną wiedzę, by tworzyć profesjonalne programy. Nauczysz się tworzyć proste obliczenia matematyczne, budować własne bazy danych a także tworzyć gry komputerowe w Pascalu!
- 
- 
- 
+## Wyniki wyszukiwania: "Delphi/Object Pascal kurs programowania" 
  
 ### [Learn To Program with Delphi and Object Pascal | Udemy](https://www.udemy.com/course/learn-to-program-with-pascal/) 
  
@@ -57,9 +50,16 @@
  
  
  
-### [Delphi - Programowanie obiektowe - pascal.kurs-programowania.pl](http://pascal.kurs-programowania.pl/en/delphi,programowanie_obiektowe.html) 
+### [Turbo Pascal - Kurs WARTO Zobaczyć!](http://www.pascal.kurs-programowania.pl/) 
  
- > Delphi. Object Oriented Programing - intro; Disadvantages, Benefits, Download ... Databases; Kurs Delphi Delphi - Programowanie obiektowe. Home; Advanced; Basics; FAQ; Download ; Sources; Pascal Online! Run Clear Code Clear Console. Ver. 1.0 Beta, Don't have a compiler? ... (w zależności od języka programowania) na danym obiekcie i na ...
+ > Kurs Turbo pascala. Kurs programowania jest przeznaczony dla studentów i uczniów szkół średnich. Przykłady i artykuły pomogą Ci przyswoić niezbędną wiedzę, by tworzyć profesjonalne programy. Nauczysz się tworzyć proste obliczenia matematyczne, budować własne bazy danych a także tworzyć gry komputerowe w Pascalu!
+ 
+ 
+ 
+ 
+### [Learn To Program with Delphi and Object Pascal - Class Central](https://www.classcentral.com/course/udemy-learn-to-program-with-pascal-110674) 
+ 
+ > A 124-page eBook, The Little Book Of Pascal, explains all the topics in depth. Simply the fastest way to learn to program Object Pascal - either with the industry-standard Delphi system on Windows or with the multi-platform Lazarus and Free Pascal. Just drag-and-drop, click and code!
  
  
  

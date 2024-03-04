@@ -1,6 +1,6 @@
-# Visual Basic ![Visual Basic image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Visual_Basic.png)
+# __Visual Basic ![Visual Basic image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Visual_Basic.png)__ 
  
-### Wyniki wyszukiwania: "Visual Basic język programowania" 
+## Wyniki wyszukiwania: "Visual Basic język programowania" 
  
 ### [Visual Basic - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Visual_Basic) 
  
@@ -30,9 +30,9 @@
  
  
  
-### [Visual Basic .NET - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Visual_Basic_.NET) 
+### [Visual Basic for Applications - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Visual_Basic_for_Applications) 
  
- > Visual Basic .NET (VB.NET) - obiektowy język programowania zaprojektowany przez firmę Microsoft.Program napisany w tym języku kompilowany jest do kodu pośredniego wykonywanego w maszynie wirtualnej zgodnej z .NET.Oznacza to, że do uruchomienia programu napisanego w języku VB.Net w systemie Windows wymagana jest (zwykle bezpłatna) biblioteka uruchomieniowa taka jak .NET Framework lub Mono.
+ > Visual Basic for Applications. Visual Basic for Applications, VBA - język programowania oparty na Visual Basicu (VB) zaimplementowany w aplikacjach pakietu Microsoft Office oraz kilku innych, jak na przykład AutoCAD i WordPerfect. Ta uproszczona wersja Visual Basica służy przede wszystkim do automatyzacji pracy z dokumentami, na przykład ...
  
  
  
@@ -41,7 +41,7 @@
  
 ---
  
-### Wyniki wyszukiwania: "Visual Basic kurs programowania" 
+## Wyniki wyszukiwania: "Visual Basic kurs programowania" 
  
 ### [Dokumentacja języka Visual Basic — wprowadzenie, samouczki i ...](https://learn.microsoft.com/pl-pl/dotnet/visual-basic/) 
  

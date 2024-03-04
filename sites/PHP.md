@@ -1,6 +1,6 @@
-# PHP ![PHP image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/PHP.png)
+# __PHP ![PHP image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/PHP.png)__ 
  
-### Wyniki wyszukiwania: "PHP język programowania" 
+## Wyniki wyszukiwania: "PHP język programowania" 
  
 ### [PHP - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/PHP) 
  
@@ -23,16 +23,16 @@
  
  
  
-### [PHP - co oznacza i dlaczego jest ważne w programowaniu? Wprowadzenie do ...](https://kursar.pl/php-co-oznacza-i-dlaczego-jest-wazne-w-programowaniu-wprowadzenie-do-jezyka-php/) 
+### [PHP - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/php/) 
  
- > PHP, czyli „Hypertext Preprocessor", to język programowania, który umożliwia tworzenie dynamicznych stron internetowych i aplikacji webowych. Dzięki PHP, możesz zbudować interaktywne formularze, systemy logowania, sklepy internetowe i wiele więcej. Jest to narzędzie, które otwiera przed tobą wiele możliwości w świecie internetu.
- 
- 
+ > PHP jest łatwy do rozpoczęcia nauki. Jest to dynamiczny język programowania, więc jest całkiem elastyczny, jeśli chodzi o pisanie kodu oraz nie jest silnie typowany tzn. można zmieniać typ danych podczas wykonywania programu. Składnia PHP jest relatywnie prosta, lecz niektórzy uważają, że jest to brzydki język.
  
  
-### [Podstawy języka PHP: Wprowadzenie do programowania w PHP](https://netbe.pl/podstawy-jezyka-php-wprowadzenie-do-programowania-w-php/) 
  
- > PHP jest jednym z najpopularniejszych języków programowania używanych do tworzenia dynamicznych stron internetowych i aplikacji webowych. Jeśli dopiero zaczynasz przygodę z PHP, warto zrozumieć podstawy tego języka, aby móc pisać skuteczny i efektywny kod. W tym artykule omówimy podstawowe koncepcje i składnię języka PHP.
+ 
+### [Język PHP - do czego służy i dlaczego warto go poznać](https://blog.strefakursow.pl/jezyk-php-do-czego-sluzy-i-dlaczego-warto-go-poznac/) 
+ 
+ > Jest wiele powodów do rozpoczęcia nauki programowania z wykorzystaniem języka PHP. Oto kilka z nich: Popularność - PHP to najczęściej używany język programowania do tworzenia stron internetowych. Wykorzystuje go nawet przeszło 80 proc. stron WWW. Uniwersalność - PHP służy m.in. generowaniu kodu stron internetowych. Oprócz ...
  
  
  
@@ -41,7 +41,7 @@
  
 ---
  
-### Wyniki wyszukiwania: "PHP kurs programowania" 
+## Wyniki wyszukiwania: "PHP kurs programowania" 
  
 ### [Programowanie w PHP od podstaw - teoria i praktyka | Udemy](https://www.udemy.com/course/kurs-programowanie-w-php/) 
  
@@ -50,9 +50,9 @@
  
  
  
-### [Kurs PHP](https://phpkurs.pl/) 
+### [Kurs PHP - praktyczny, rzetelny, darmowy i w całości online](https://kursphp.com/) 
  
- > Kurs programowania w języku PHP. Kurs ten ma za zadanie zaznajomić osobę kompletnie nieobeznaną z tym językiem na tyle, aby sama była w stanie napisać skrypty tworzące dynamiczne strony WWW. Pomaga także osobom wcześniej nieprogramującym na zaznajomienie się z technikami programistycznymi. Kurs jest uniwersalny - można go stosować do dowolnej wersji PHP.
+ > Cześć! Odwiedzasz właśnie kurs programowania podzielony na kilka rozdziałów. W skład każdego rozdziału wchodzą lekcje poświęcone wybranej tematyce programowania w PHP. Podstawowy kurs PHP jest już dostępny w całości! Możesz uczyć się go online lub pobrać wszystkie lekcje w formie wygodnego i obszernego e-booka.
  
  
  

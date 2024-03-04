@@ -1,10 +1,10 @@
-# SQL ![SQL image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/SQL.png)
+# __SQL ![SQL image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/SQL.png)__ 
  
-### Wyniki wyszukiwania: "SQL język programowania" 
+## Wyniki wyszukiwania: "SQL język programowania" 
  
-### [Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań - Khan Academy](https://pl.khanacademy.org/computing/computer-programming/sql) 
+### [SQL - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/SQL) 
  
- > Podstawy SQL. Pokażemy ci podstawy tworzenia tabel, i wybierania danych na różne sposoby. Ucz się sam (a)! Witamy w SQL. Tworzenie tabel i dodawanie danych. Wyzwanie: Baza danych książek. Zapytania o dane do tabeli. Wyzwanie: Filmowe hity w bazie danych. Agregowanie danych.
+ > SQL (ang. Structured Query Language wym. /ɛskjuːˈɛl/) - strukturalny oraz deklaratywny język zapytań.Jest to język dziedzinowy używany do tworzenia, modyfikowania relacyjnych baz danych oraz do umieszczania i pobierania danych z tych baz.. Decyzję o sposobie przechowywania i pobrania danych pozostawia się systemowi zarządzania bazą danych (DBMS).
  
  
  
@@ -16,6 +16,13 @@
  
  
  
+### [Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań - Khan Academy](https://pl.khanacademy.org/computing/computer-programming/sql) 
+ 
+ > Podstawy SQL. Pokażemy ci podstawy tworzenia tabel, i wybierania danych na różne sposoby. Ucz się sam (a)! Witamy w SQL. Tworzenie tabel i dodawanie danych. Wyzwanie: Baza danych książek. Zapytania o dane do tabeli. Wyzwanie: Filmowe hity w bazie danych. Agregowanie danych.
+ 
+ 
+ 
+ 
 ### [SQL - Co To Jest i Do Czego Służy Ten Język Programowania? - Expose](https://expose.pl/sql-co-to-jest-i-do-czego-sluzy/) 
  
  > Podsumowanie. Pisanie zapytań w SQL jest bez wątpienia procesem, który oprócz znajomości podstaw teoretycznych wymaga również praktyki. Jeśli zależy Ci na praktycznym poznaniu języka SQL, zapisz się na kurs SQL.Sprawdź również inne kursy programowania oraz kursy MYSQL i takie szkolenia jak Microsoft SQL Server, Oracle SQL czy PostgreSQL ...
@@ -23,16 +30,9 @@
  
  
  
-### [SQL - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/SQL) 
+### [Język programowania - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Język_programowania) 
  
- > SQL (ang. Structured Query Language wym. /ɛskjuːˈɛl/) - strukturalny oraz deklaratywny język zapytań.Jest to język dziedzinowy używany do tworzenia, modyfikowania relacyjnych baz danych oraz do umieszczania i pobierania danych z tych baz.. Decyzję o sposobie przechowywania i pobrania danych pozostawia się systemowi zarządzania bazą danych (DBMS).
- 
- 
- 
- 
-### [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/) 
- 
- > SQL. Tutorial. SQL is a standard language for storing, manipulating and retrieving data in databases. Our SQL tutorial will teach you how to use SQL in: MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and other database systems.
+ > Język programowania może być zdefiniowany ze względu na kilka cech: funkcja: język programowania służy do tworzenia programów komputerowych, których zadaniem jest przetwarzanie danych, wykonywanie obliczeń i algorytmów oraz kontrolowanie/obsługa zewnętrznych urządzeń, np. drukarek, robotów itd. przeznaczenie: języki naturalne ...
  
  
  
@@ -41,7 +41,7 @@
  
 ---
  
-### Wyniki wyszukiwania: "SQL kurs programowania" 
+## Wyniki wyszukiwania: "SQL kurs programowania" 
  
 ### [Kurs SQL - Analiza Danych - Coders Lab](https://coderslab.pl/pl/sql-analiza-danych) 
  

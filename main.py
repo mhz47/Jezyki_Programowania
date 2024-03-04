@@ -17,7 +17,7 @@ if not os.path.exists("sites"):
 
 
 def write_search(file, query, count):
-    file.write(f"### Wyniki wyszukiwania: \"{query}\" \n \n")
+    file.write(f"## Wyniki wyszukiwania: \"{query}\" \n \n")
     results = [r for r in ddgs.text(query, max_results=count)]
     for r in results:
         site.write(f"### [{r['title']}]({r['href']}) \n \n > {r['body']}\n \n \n \n \n")
@@ -29,7 +29,7 @@ note = BeautifulSoup(response.text, "html.parser")
 note = note.find("p")
 note = note.text.replace("[1]", "")
 with open("index.md", "w") as f:
-    f.write(f"## Czym jest język programowania? \n \n{note} \n Źródło: [Wikipedia]({note_url})\n \n \n \n")
+    f.write(f"## __Czym jest język programowania?__ \n \n{note} \n Źródło: [Wikipedia]({note_url})\n \n \n \n")
     f.write(f"### [Top 20 języków programowania](top20.md)")
 
 # lista
@@ -38,7 +38,7 @@ top20 = BeautifulSoup(response.text, 'html.parser')
 top20 = top20.find("table", {"class": "table-top20"})
 top20 = top20.find_all("tr")
 with open('top20.md', 'w') as f:
-    f.write(f"## Top 20 języków programowania: \n \n")
+    f.write(f"## __Top 20 języków programowania:__ \n \n")
     for row in top20:
         cells = row.find_all("td")
         if len(cells) <= 5:
@@ -56,14 +56,14 @@ with open('top20.md', 'w') as f:
             img.write(requests.get(image).content)
 
         # element listy
-        f.write(f"## __{rank}. {language}__ \n\n")
+        f.write(f"## {rank}. {language} \n\n")
         f.write(f" ![{language} image]({image}) \n \nOcena: {rating}\n \n")
         subsite = os.path.join("sites", language_name + ".md")
         f.write(f" [Więcej informacji]({subsite})\n \n---\n \n")
 
         # tworzenie podstrony
         with open(subsite, "w") as site:
-            site.write(f"# {language} ![{language} image]({image})\n \n")
+            site.write(f"# __{language} ![{language} image]({image})__ \n \n")
             write_search(site, language + " język programowania", 5)
             site.write(f"\n \n---\n \n")
             write_search(site, language + " kurs programowania", 3)

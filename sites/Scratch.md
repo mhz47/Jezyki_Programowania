@@ -1,10 +1,10 @@
-# Scratch ![Scratch image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Scratch.png)
+# __Scratch ![Scratch image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Scratch.png)__ 
  
-### Wyniki wyszukiwania: "Scratch język programowania" 
+## Wyniki wyszukiwania: "Scratch język programowania" 
  
 ### [Scratch - Imagine, Program, Share](https://scratch.mit.edu/) 
  
- > Scratch is a free online platform where you can learn and share your own coding projects with others around the world. You can create stories, games, and animations using Scratch 4.0, a visual programming language and editor.
+ > Scratch is a programming language and online platform where you can create stories, games, and animations. Learn from featured projects, studios, and remixes, or share your own creations with others around the world.
  
  
  
@@ -12,6 +12,13 @@
 ### [Scratch - Scratch Offline Editor](https://scratch.mit.edu/download) 
  
  > To update Scratch for Windows from this page, download the latest version and install. To check which version you have, click the Scratch logo in the downloaded app. When will you have the Scratch app available for Linux? The Scratch app is currently not supported on Linux. We are working with partners and the open-source community to determine ...
+ 
+ 
+ 
+ 
+### [Scratch - Join Scratch](https://scratch.mit.edu/join) 
+ 
+ > Join Scratch. Create projects, share ideas, make friends. It's free! Create a username. Don't use your real name. Create a password. Show password. Next. Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.
  
  
  
@@ -30,18 +37,11 @@
  
  
  
-### [Wprowadzenie do środowiska Scratch - Zintegrowana Platforma Edukacyjna](https://zpe.gov.pl/a/wprowadzenie-do-srodowiska-scratch/DUVRjOY3C) 
- 
- > Opanujesz dodawanie nowych duszków, modyfikowanie ich wyglądu, wybieranie dźwięków, edytowanie tła sceny oraz tworzenie własnych animacji, symulacji, a nawet gier. Poniżej znajdziesz linki do materiałów, które pomogą Ci w zgłębieniu tych tematów: Materiał stanowi wprowadzenie do środowiska Scratch oraz zawiera ilustracje.
- 
- 
- 
- 
 
  
 ---
  
-### Wyniki wyszukiwania: "Scratch kurs programowania" 
+## Wyniki wyszukiwania: "Scratch kurs programowania" 
  
 ### [Scratch - Imagine, Program, Share](https://scratch.mit.edu/) 
  
@@ -57,9 +57,9 @@
  
  
  
-### [Kurs programowania w Scratch od 8 do 15 lat | Udemy](https://www.udemy.com/course/kurs-programowania-w-scratch-od-8-do-15-lat/) 
+### [Programowanie dla dzieci Scratch - lekcja 1 - pierwsze kroki](https://www.youtube.com/watch?v=T-l4n4p7g6I) 
  
- > Opis. Kurs, to prawie 6 godzin świetnej zabawy zarówno dla dziecka, jak i dla rodzica. A to dopiero początek …. Kurs Scratch pozwala zainteresować najmłodszych dziedziną programowania. Ucząc się wspólnie ze swoim dzieckiem, możecie razem poznawać tajniki programowania. Możesz także, przy pomocy kursu, zdobyć wiedzę potrzebną ...
+ > Darmowy kurs video Scratch - twórz własne gry ZAPISY ️ ️ ️ http://bit.ly/kurs-scratchKurs podstaw programowania dla dzieci w Scratch. W pierwszej lekcji d...
  
  
  

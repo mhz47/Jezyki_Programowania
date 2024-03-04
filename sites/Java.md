@@ -1,6 +1,6 @@
-# Java ![Java image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Java.png)
+# __Java ![Java image](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Java.png)__ 
  
-### Wyniki wyszukiwania: "Java język programowania" 
+## Wyniki wyszukiwania: "Java język programowania" 
  
 ### [Java - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Java) 
  
@@ -23,16 +23,16 @@
  
  
  
-### [Programowanie Java dla początkujących: co robić i od czego zacząć](https://codegym.cc/pl/groups/posts/pl.168.programowanie-java-dla-poczatkujacych-co-robic-i-od-czego-zaczac) 
- 
- > Jednak obawy pozostają nieporozumieniem. Java to prawie najlepszy język programowania, jaki możesz rozpocząć w swojej programistycznej podróży. Jednak niektórym uczniom trudno jest się uczyć. Powodem jest to, że przyjmują niewłaściwe metody nauki języka Java, które jeszcze bardziej komplikują zadanie.
- 
- 
- 
- 
 ### [Java - Podstawy Języka - JavaStart](https://javastart.pl/baza-wiedzy/java-podstawy-jezyka) 
  
  > Jeśli chcesz szybko i sprawnie nauczyć się programowania w języku Java to zapraszamy do zapoznania się z kompletnym kursem Java który przygotowaliśmy z myślą o początkujących. Poprowadzimy Cię w nim od zupełnych podstaw, aż do napisania kompletnych, większych aplikacji krok po kroku. Wpisy: Pierwszy program. Komentarze.
+ 
+ 
+ 
+ 
+### [Programowanie Java dla początkujących: co robić i od czego zacząć](https://codegym.cc/pl/groups/posts/pl.168.programowanie-java-dla-poczatkujacych-co-robic-i-od-czego-zaczac) 
+ 
+ > Jednak obawy pozostają nieporozumieniem. Java to prawie najlepszy język programowania, jaki możesz rozpocząć w swojej programistycznej podróży. Jednak niektórym uczniom trudno jest się uczyć. Powodem jest to, że przyjmują niewłaściwe metody nauki języka Java, które jeszcze bardziej komplikują zadanie.
  
  
  
@@ -41,7 +41,7 @@
  
 ---
  
-### Wyniki wyszukiwania: "Java kurs programowania" 
+## Wyniki wyszukiwania: "Java kurs programowania" 
  
 ### [Kurs JAVA od podstaw - stań się programistą +zadania | Udemy](https://www.udemy.com/course/bojarski-kurs-java/) 
  
@@ -57,9 +57,9 @@
  
  
  
-### [Samouczek online do nauki języka Java - CodeGym](https://codegym.cc/pl/) 
+### [Kurs Java Developer - Kurs i bootcamp online programowania od podstaw z ...](https://coderslab.pl/pl/java-developer) 
  
- > Ćwicz kodowanie już od pierwszej lekcji naszego kursu online Java. Aby nauczyć się programowania w Javie, musisz dużo kodować - i polubisz to! CodeGym to kurs online programowania w Java, składający się w 80% z praktyki i w 20% z istotnej teorii. Skorzystaj z naszego przydatnego narzędzia, aby płynnie rozpocząć kodowanie.
+ > Java to też bardzo uniwersalny język, więc, idąc na kurs Java Developer, od razu otwierasz sobie wiele dróg do drzwi potencjalnych pracodawców. Na naszym szkoleniu uczą sami eksperci Java. Podstawy tego języka programowania, a nawet znacznie więcej, opanujesz więc pod okiem praktyków, którzy nie tylko wiedzą, o czym mówią, ale ...
  
  
  
