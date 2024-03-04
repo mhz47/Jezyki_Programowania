@@ -4,7 +4,7 @@
 
 #### [C++ - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/C++) 
 
- Język C++ jest językiem wieloparadygmatowym [18]. Oznacza to, że można w nim stosować jednocześnie różne style programowania, w tym programowanie proceduralne, obiektowe, generyczne, jak również programować na poziomie asemblera. Język C++ zakłada statyczną kontrolę typów; posiada też elementy dynamicznej kontroli typów.
+ C++ - język programowania ogólnego przeznaczenia. Język został zaprojektowany przez Bjarne Stroustrupa jako rozszerzenie języka C o obiektowe mechanizmy abstrakcji danych i silną statyczną kontrolę typów. Zachowanie zgodności z językiem C na poziomie kodu źródłowego pozostaje jednym z podstawowych celów projektowych kolejnych standardów języka.
 
 
 
@@ -16,16 +16,16 @@
 
 
 
-#### [C++ - Wikipedia](https://en.wikipedia.org/wiki/C++) 
-
- C++ (/ ˈ s iː p l ʌ s p l ʌ s /, pronounced "C plus plus" and sometimes abbreviated as CPP) is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup.First released in 1985 as an extension of the C programming language, it has since expanded significantly over time; as of 1997, C++ has object-oriented, generic, and functional features, in ...
-
-
-
-
 #### [Wstęp do programowania | C++ Programming Language](https://cpp-lang.net/pl/learn/) 
 
  Aktualnie C++ nie jest najlepszym rozwiązaniem jeśli chcesz: tworzyć strony internetowe 🌐 (wtedy wybierz JavaScript) aplikacje mobilne 📱 i biurowe 🏢, które nie wymagają bardzo dużej wydajności; O czym warto pamiętać Nauka języka programowania to proces długotrwały, a język C++ jest bardzo obszerny i rozbudowany. Nie ...
+
+
+
+
+#### [C++ - Wikipedia](https://en.wikipedia.org/wiki/C++) 
+
+ C++ (/ ˈ s iː p l ʌ s p l ʌ s /, pronounced "C plus plus" and sometimes abbreviated as CPP) is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup.First released in 1985 as an extension of the C programming language, it has since expanded significantly over time; as of 1997, C++ has object-oriented, generic, and functional features, in ...
 
 
 
@@ -50,16 +50,16 @@
 
 
 
-#### [Kursy na temat C++ (język programowania) - Udemy](https://www.udemy.com/pl/topic/c-plus-plus/) 
-
- Ucz się języka C++ („C plus plus") u najlepiej ocenianych instruktorów. Znajdź najlepsze kursy C++, od podstaw programowania w tym języku po jego najbardziej zaawansowane zastosowania. C++ to zorientowana obiektowo, rozszerzona wersja języka C, pozwalająca na więcej zastosowań. Z C++ najczęściej korzystają programiści na platformie .NET firmy Microsoft i twórcy gier ...
-
-
-
-
 #### [Bezpłatne kursy i samouczki na temat C++ (język programowania) - Udemy](https://www.udemy.com/pl/topic/c-plus-plus/free/) 
 
  Ucz się języka C++ („C plus plus") u najlepiej ocenianych instruktorów. Znajdź najlepsze kursy C++, od podstaw programowania w tym języku po jego najbardziej zaawansowane zastosowania. C++ to zorientowana obiektowo, rozszerzona wersja języka C, pozwalająca na więcej zastosowań. Z C++ najczęściej korzystają programiści na platformie .NET firmy Microsoft i twórcy gier ...
+
+
+
+
+#### [Kursy C++ - Coders School](https://coders.school/) 
+
+ Ukończyłam kurs programowania C++. Był to zdecydowanie najlepiej zorganizowany kurs na jaki uczęszczałam. Przed zajęciami udostępniane były materiały z wiedzą teoretyczną, które w czasie spotkań były szczegółowo omawiane w połączeniu z zadaniami praktycznymi. Między zajęciami wykonywaliśmy zadania indywidualne i grupowe ...
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.md)
+ [Powrót do listy](top20.html)

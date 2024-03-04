@@ -23,16 +23,16 @@
 
 
 
-#### [JavaScript - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/javascript/) 
-
- Zastosowanie. JavaScript to dynamicznie typowany język wysokiego poziomu. Najczęściej jest używany przy tworzeniu stron WWW, zapewniając interaktywność stron oraz obsługę zdarzeń, walidacji formularzy czy budowanie elementów nawigacyjnych. Takie wykorzystanie języka JavaScript ułatwia zastosowanie biblioteki, takiej jak jQuery.
-
-
-
-
 #### [Introduction - JavaScript | MDN - MDN Web Docs](https://developer.mozilla.org/pl/docs/Web/JavaScript/Guide/Introduction) 
 
  The JavaScript documentation on MDN includes the following: Learn Web Development provides information for beginners and introduces basic concepts of programming and the Internet. JavaScript Guide (this guide) provides an overview about the JavaScript language and its objects. JavaScript Reference provides detailed reference material for ...
+
+
+
+
+#### [What is JavaScript? - Learn web development | MDN - MDN Web Docs](https://developer.mozilla.org/pl/docs/Learn/JavaScript/First_steps/What_is_JavaScript) 
+
+ JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.) The three layers build on top of one another nicely.
 
 
 
@@ -50,16 +50,16 @@
 
 
 
-#### [Kurs JavaScript - online, od podstaw, programowania, nauka - Kodilla](https://kodilla.com/pl/kurs-javascript) 
-
- Praca samodzielna W ciągu tygodnia uczysz się podstaw języka JavaScript co stanowi wstęp do nauki prawdziwego programowania. Język JavaScript 4 tygodnie 80 godzin. Nauka programowania w JavaScript, który jest obecnie jednym z popularniejszych języków do tworzenia aplikacji internetowych. Projekt samodzielny 2 tygodnie 40 godzin
-
-
-
-
 #### [[2024] Programowanie w JavaScript od Zera do Mastera | Udemy](https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera/) 
 
  Aplikacje w JavaScript od od podstaw: pogodową na bazie geolokalizacji, quiz, kursy walut, kalkulator, lista książek, Tic Tac Toe etc. Dynamicznie zmieniać oraz dodawać treści do witryny oraz zmieniać jej wygląd. Programowania po stronie serwera dzięki NodeJs, czyli JavaScript na backendzie generujący kod html, odczytujący formularze ...
+
+
+
+
+#### [Kurs JavaScript - online, od podstaw, programowania, nauka - Kodilla](https://kodilla.com/pl/kurs-javascript) 
+
+ Praca samodzielna W ciągu tygodnia uczysz się podstaw języka JavaScript co stanowi wstęp do nauki prawdziwego programowania. Język JavaScript 4 tygodnie 80 godzin. Nauka programowania w JavaScript, który jest obecnie jednym z popularniejszych języków do tworzenia aplikacji internetowych. Projekt samodzielny 2 tygodnie 40 godzin
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.md)
+ [Powrót do listy](top20.html)

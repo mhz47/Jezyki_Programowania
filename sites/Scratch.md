@@ -4,7 +4,7 @@
 
 #### [Scratch - Imagine, Program, Share](https://scratch.mit.edu/) 
 
- Scratch is a programming language and online platform where you can create your own stories, games, and animations. Learn how to use Scratch, share your projects with others, and explore featured projects and studios.
+ Scratch is a programming language and online platform where you can create stories, games, and animations. Learn from featured projects, studios, and remixes, or share your own creations with others around the world.
 
 
 
@@ -50,16 +50,16 @@
 
 
 
-#### [Scratch z Klubem Młodego Programisty - kursy programowania na ...](https://www.gov.pl/web/koduj/scratch-kmp) 
-
- Już dziś każdy nauczyciel może założyć konta swoim uczniom i wraz z nimi realizować kurs programowania, mając dodatkowo możliwość monitorowania ich postępów. ... programy w wizualnym języku programowania Scratch. Dowiedzą się jaką rolę w programowaniu mają konstrukcje warunkowe, pętle, funkcje oraz zmienne. Nauczą się ...
-
-
-
-
 #### [Programowanie dla dzieci Scratch - lekcja 1 - pierwsze kroki](https://www.youtube.com/watch?v=T-l4n4p7g6I) 
 
  Darmowy kurs video Scratch - twórz własne gry ZAPISY ️ ️ ️ http://bit.ly/kurs-scratchKurs podstaw programowania dla dzieci w Scratch. W pierwszej lekcji d...
+
+
+
+
+#### [Scratch z Klubem Młodego Programisty - kursy programowania na ...](https://www.gov.pl/web/koduj/scratch-kmp) 
+
+ Już dziś każdy nauczyciel może założyć konta swoim uczniom i wraz z nimi realizować kurs programowania, mając dodatkowo możliwość monitorowania ich postępów. ... programy w wizualnym języku programowania Scratch. Dowiedzą się jaką rolę w programowaniu mają konstrukcje warunkowe, pętle, funkcje oraz zmienne. Nauczą się ...
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.md)
+ [Powrót do listy](top20.html)

@@ -50,16 +50,16 @@
 
 
 
-#### [Szkolenia Go - Kursy Programowania w Języku Go](https://www.comarch.pl/szkolenia/programowanie/go/) 
-
- Go jest zaprojektowany od początku z myślą, że będzie działał w środowisku wielordzeniowym i współbieżnym - dzięki temu znakomicie skaluje się na współczesnym hardware. Go jest językiem kompilowanym, a więc szybkim i wydajnym. Program wynikowy Go to zwykle pojedynczy plik binarny, co oznacza, że przeniesienie na środowisko ...
-
-
-
-
 #### [Programowanie w GO dla początkujących - Programistki są super!](https://programistkisasuper.pl/programowanie-w-go-dla-poczatkujacych/) 
 
  Programowanie w GO dla początkujących - Programistki są super! Golang, czy też GO to stosunkowo młody (na rynku obecny około 10 lat) język programowania, który podbija serca inżynierów w Dolinie Krzemowej. Ja zawodowo piszę w GO od ponad 2 lat i bardzo szybko stał się on moim ulubionym językiem programowania!
+
+
+
+
+#### [Darmowe kursy programowania. Kursy IT online za darmo z certyfikatem ...](https://goit.global/pl/newcomers/) 
+
+ Darmowe kursy programowania: od czego zacząć w IT. Prawie każdy, kto marzy o zmianie zawodu i pracy w firmie IT, stara się znaleźć darmowe kursy programowania w Internecie. Aby mieć pewność, że otrzymasz certyfikat i możliwość zatrudnienia… Wierzymy, że nie warto pochopnie kupować nawet najtańszych kursów i marnować cennego ...
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.md)
+ [Powrót do listy](top20.html)

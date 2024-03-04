@@ -23,16 +23,16 @@
 
 
 
-#### [Assembly language - CodeDocs](https://codedocs.org/what-is/assembly-language) 
+#### [Kiedy i Jak Korzystać z Asemblera — Podstawy Asemblera - PELock](https://www.pelock.com/pl/artykuly/kiedy-i-jak-korzystac-z-asemblera-podstawy-programowania-w-asemblerze) 
 
- Assembly language syntax. Assembly language uses a mnemonic to represent each low-level machine instruction or opcode, typically also each architectural register, flag, etc.Many operations require one or more operands in order to form a complete instruction. Most assemblers permit named constants, registers, and labels for program and memory locations, and can calculate expressions for operands.
-
-
+ Podstawy programowania w asemblerze, budowa procesora, rejestry, pamięć, instrukcje, wykorzystanie asemblera w C++ oraz Delphi. 1. Wprowadzenie do asemblera. Asembler, czyli język programowania niskopoziomowego, umożliwiający wykorzystanie wszystkich możliwości procesora jest dziś już nieco zapomniany przez „nowożytnych ...
 
 
-#### [What Is Assembly Language? Working, Features, and Advantages - Spiceworks](https://www.spiceworks.com/tech/tech-general/articles/what-is-assembly-language/) 
 
- 1. Display flexibility. Assembly language provides a high degree of flexibility in displaying data on the screen, thanks to its data-stream commands, wide screens, and cursor-dependent functions. Data-stream commands are used to write data to the screen in real-time.
+
+#### [PDF Programowanie w asemblerze Asembler i jego jezyk](https://students.mimuw.edu.pl/~zbyszek/asm/pl/slides/asm.pdf) 
+
+ Zbigniew Jurkiewicz, Instytut Informatyki UW. Programowanie w asemblerze Asembler i jego j ̨ezyk. Asembler = program, przetwarzaj acy ̨ plik ́zródłowy z tekstem programu w symbolicznym j ̨ezyku wewn ̨etrznym na plik wynikowy, tzw. moduł (ang. object code). Moduł zawiera ten sam program w postaci przetłumaczonej na j ̨ezyk maszynowy.
 
 
 
@@ -50,16 +50,16 @@
 
 
 
-#### [Computer Architecture: Assembly Language | Codecademy](https://www.codecademy.com/learn/computer-architecture-assembly-language) 
+#### [Top Assembly Language Courses Online - Updated [February 2024] - Udemy](https://www.udemy.com/topic/assembly-language/) 
 
- About this course. Continue your Computer Architecture learning journey with Computer Architecture: Assembly Language. Learn about the Compilation Process and understand how your high-level code reaches your hardware. Write your own Assembly code and see how closely Assembly code maps to binary code.
-
-
+ Top Assembly Language Courses Online - Updated [February 2024] Courses from $12.99 | Gain the skills to climb that career ladder. 2 days left!
 
 
-#### [Assembly Language Adventures: Complete Course | Udemy](https://www.udemy.com/course/x86-asm-foundations/) 
 
- Learn Assembly Language . The x86 Adventures series teaches you your computer's language - x86 Assembly language, from scratch. No prior knowledge is assumed. [Complete Course] This is the full collection of x86 Assembly Adventures. It covers everything from the real basics to being an independent (and tough) x86 Assembly programmer.
+
+#### [Assembly Language Programming | Udemy](https://www.udemy.com/course/assembly-language-programming/) 
+
+ Our comprehensive course is designed for both beginners and intermediate programmers eager to delve into the realm of assembly language. Starting with the fundamentals, we guide you through the essential concepts like adding two numbers and basic arithmetic operations, gradually building a solid foundation for your programming prowess.
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.md)
+ [Powrót do listy](top20.html)

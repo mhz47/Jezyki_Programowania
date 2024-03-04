@@ -16,13 +16,6 @@
 
 
 
-#### [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/pl/) 
-
- learnpython.org is a free interactive Python tutorial for people who want to learn Python, fast. learnpython.org Home (current) About; Certify; ... kto chce nauczyć się języka programowania Python. Zapraszamy Cię do dołączenia do naszej grupy Facebooku, gdzie możesz zadać pytanie, dyskutować nad rozwojem strony i proponować ulepszenia.
-
-
-
-
 #### [Python Tutorial — Python 3.12.2 - dokumentacja](https://docs.python.org/pl/3/tutorial/) 
 
  Python jest łatwym do nauki, wszechstronnym językiem programowania. Ma wydajne wysoko-poziomowe struktury danych i proste ale efektywne podejście do programowania zorientowanego obiektowo. ... Python jest również odpowiedni jako język rozszerzeń dla konfigurowalnych aplikacji. Ten tutorial wprowadza nieformalnie czytelnika w podstawowe ...
@@ -30,9 +23,16 @@
 
 
 
-#### [Python Tutorial | Learn Python Programming - GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/) 
+#### [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/pl/) 
 
- This Python tutorial is well-suited for beginners as well as professionals, covering basic to advanced concepts of the Python programming language. This free Python tutorial includes various topics such as loops, strings, lists, dictionaries, and arrays, along with examples. #Python Tutorial, #Free Python Programming Tutorial.
+ learnpython.org is a free interactive Python tutorial for people who want to learn Python, fast. learnpython.org Home (current) About; Certify; ... kto chce nauczyć się języka programowania Python. Zapraszamy Cię do dołączenia do naszej grupy Facebooku, gdzie możesz zadać pytanie, dyskutować nad rozwojem strony i proponować ulepszenia.
+
+
+
+
+#### [Introduction to Python - W3Schools](https://www.w3schools.com/python/python_intro.asp) 
+
+ Python has a simple syntax similar to the English language. Python has syntax that allows developers to write programs with fewer lines than some other programming languages. Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
 
 
 
@@ -50,16 +50,16 @@
 
 
 
-#### [Kurs PythON: Academy - Najbardziej rozbudowany kurs online Pythona w Polsce](https://www.pythonacademy.pl/) 
-
- Ten Kurs Python, pomoże Ci przejść wszystkie etapy od zera do programisty. Zapisz się dzisiaj na Kurs Pythona online i zostań programistą! ... a także podstawy składni, semantyki i środowiska uruchomieniowego języka programowania Python. certyfikat pozwala wyróżnić się na tle innych kandydatów i ułatwia znalezienie pracy na ...
-
-
-
-
 #### [Python - podstawy w 2h - YouTube](https://www.youtube.com/watch?v=BBu6ZoAHIwI) 
 
  🔥 Dołącz do listy mailingowej Python od podstaw - https://pythonodpodstaw.pl/Nowy, lepszy, bardziej rozbudowany film o podstawach Pythona: https://www.youtu...
+
+
+
+
+#### [Kurs PythON: Academy - Najbardziej rozbudowany kurs online Pythona w Polsce](https://www.pythonacademy.pl/) 
+
+ Ten Kurs Python, pomoże Ci przejść wszystkie etapy od zera do programisty. Zapisz się dzisiaj na Kurs Pythona online i zostań programistą! ... a także podstawy składni, semantyki i środowiska uruchomieniowego języka programowania Python. certyfikat pozwala wyróżnić się na tle innych kandydatów i ułatwia znalezienie pracy na ...
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.md)
+ [Powrót do listy](top20.html)

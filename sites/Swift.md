@@ -9,16 +9,9 @@
 
 
 
-#### [Swift - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/swift/) 
+#### [Początki ze Swift - co musisz wiedzieć o tym języku programowania?](https://android.com.pl/programowanie/382514-poczatki-ze-swift-co-musisz-wiedziec-o-tym-jezyku-programowania/) 
 
- Zastosowanie. Swift jest językiem programowania ogólnego zastosowania stworzonym przez Apple w 2014 roku, więc jest całkiem świeży. Jest następcą Objective-C. Apple obniżyło barierę wejścia dla programistów. Nowy język jest tym, do czego przyzwyczajeni są młodsi programiści, z wysokopoziomowymi strukturami wbudowanymi w język ...
-
-
-
-
-#### [The Basics - Swift.org - Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/) 
-
- The Basics. Work with common kinds of data and write basic syntax. Swift provides many fundamental data types, including Int for integers, Double for floating-point values, Bool for Boolean values, and String for text. Swift also provides powerful versions of the three primary collection types, Array, Set, and Dictionary, as described in ...
+ Początki ze Swift nie powinny być trudne. Przede wszystkim jest to język dla zdeterminowanych. Musisz być określony w swoich postanowieniach, ponieważ Swift wykorzystuje się przede wszystkim do programowania aplikacji na sprzęty Apple'a. Dlatego musisz być pewny tego, że chcesz rozwijać się z myślą właśnie o systemie ...
 
 
 
@@ -30,9 +23,16 @@
 
 
 
-#### [The Swift Handbook - Learn Swift for Beginners - freeCodeCamp.org](https://www.freecodecamp.org/news/the-swift-handbook/) 
+#### [Swift - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/swift/) 
 
- Introduction to Swift. The Swift programming language was created by Apple in 2014. It's the official language that works with the whole Apple Operating Systems lineup: iOS, iPadOS, watchOS, macOS, and tvOS. Swift is an open source, general purpose, compiled programming language that's statically typed. Every value has a type assigned.
+ Zastosowanie. Swift jest językiem programowania ogólnego zastosowania stworzonym przez Apple w 2014 roku, więc jest całkiem świeży. Jest następcą Objective-C. Apple obniżyło barierę wejścia dla programistów. Nowy język jest tym, do czego przyzwyczajeni są młodsi programiści, z wysokopoziomowymi strukturami wbudowanymi w język ...
+
+
+
+
+#### [Swift (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Swift_(programming_language)) 
+
+ Swift is a high-level general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community.Swift compiles to machine code, as it is an LLVM-based compiler.Swift was first released in June 2014, and the Swift toolchain has shipped in Xcode since version 6, released in 2014. Apple intended Swift to support many core concepts associated with ...
 
 
 
@@ -50,16 +50,16 @@
 
 
 
+#### [Swift Programming Tutorial | FULL COURSE | Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw) 
+
+ Swift & iOS Development for Absolute Beginners - FULL COURSEWhen you've finished this course, try my SwiftUI Fundamentals course which is now free:https://ww...
+
+
+
+
 #### [Jak nauczyć się programowania w języku Swift: Przewodnik ... - AppMaster](https://appmaster.io/pl/blog/naucz-sie-swifta-krok-po-kroku) 
 
  Swift to najlepszy język programowania, którego powinieneś się nauczyć i w łatwy sposób stworzyć swoją wymarzoną aplikację. Programowanie Swift to potężny, a zarazem łatwy do nauczenia się język kodowania stworzony przez Apple. Jest często używany do tworzenia aplikacji iOS i macOS, a także aplikacji tvOS i watchOS.
-
-
-
-
-#### [Programowanie w języku Swift - jak zacząć, kursy, tutoriale](https://geek.justjoin.it/programowanie-w-jezyku-swift-jak-zaczac-kursy-tutoriale/) 
-
- Lekkie wprowadzenie do języka Swift. SWIFT to open sourcowy obiektowy język programowania firmy Apple Inc. Jego kompilator to: LLVM.Swift pojawił się w czerwcu 2014 roku na konferencji WWDC (W orld w ide D evelopers C onference). Na ten moment kompilowanie Swifta jest możliwie na Linuxie oraz komputerach firmy Apple Inc. Jest następcą leciwego już Objective-C, który liczy sobie ...
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.md)
+ [Powrót do listy](top20.html)

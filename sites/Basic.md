@@ -4,14 +4,7 @@
 
 #### [Visual Basic - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Visual_Basic) 
 
- Visual Basic - język programowania wysokiego poziomu i narzędzie programowania firmy Microsoft. Składnia jest oparta na języku BASIC, ale unowocześniona. Zawiera kilkadziesiąt instrukcji, funkcji i słów kluczowych. ... Język Visual Basic zastosowano również w wielu rozbudowanych aplikacjach jako język skryptowy do tworzenia ...
-
-
-
-
-#### [Funkcje językowe - Visual Basic | Microsoft Learn](https://learn.microsoft.com/pl-pl/dotnet/visual-basic/programming-guide/language-features/) 
-
- W tym artykule. W poniższych tematach opisano i omówiono podstawowe składniki Visual Basic, języka programowania obiektowego. Po utworzeniu interfejsu użytkownika dla aplikacji przy użyciu formularzy i kontrolek należy napisać kod definiujący zachowanie aplikacji. Podobnie jak w przypadku dowolnego nowoczesnego języka programowania ...
+ Visual Basic - język programowania wysokiego poziomu i narzędzie programowania firmy Microsoft.Składnia jest oparta na języku BASIC, ale unowocześniona.Zawiera kilkadziesiąt instrukcji, funkcji i słów kluczowych. Nie jest językiem w pełni obiektowym, gdyż nie udostępnia np. możliwości dziedziczenia, czy polimorfizmu.Wykorzystuje technologię ActiveX.
 
 
 
@@ -23,16 +16,23 @@
 
 
 
-#### [Samouczek: tworzenie prostych aplikacji konsolowych Visual Basic ...](https://learn.microsoft.com/pl-pl/visualstudio/get-started/visual-basic/tutorial-console?view=vs-2022) 
+#### [Funkcje językowe - Visual Basic | Microsoft Learn](https://learn.microsoft.com/pl-pl/dotnet/visual-basic/programming-guide/language-features/) 
 
- Visual Basic to bezpieczny dla typów język programowania, który jest przeznaczony do łatwego uczenia się. Aplikacja konsolowa pobiera dane wejściowe i wyświetla dane wyjściowe w oknie wiersza polecenia, znanym również jako konsola. ... W oknie Tworzenie nowego projektu wybierz pozycję Visual Basic z listy Język. Następnie wybierz ...
-
-
+ W tym artykule. W poniższych tematach opisano i omówiono podstawowe składniki Visual Basic, języka programowania obiektowego. Po utworzeniu interfejsu użytkownika dla aplikacji przy użyciu formularzy i kontrolek należy napisać kod definiujący zachowanie aplikacji. Podobnie jak w przypadku dowolnego nowoczesnego języka programowania ...
 
 
-#### [Zrozumienie języka Visual Basic: badanie definicji i zastosowań Test ...](https://techwatch.de/pl/blog/zrozumienie-podstaw-języka-wizualnego,-eksploracja-jego-definicji-i-zastosowań/) 
 
- Visual Basic to popularny język programowania powszechnie używany do tworzenia aplikacji Windows. Była z Microsoft opracowany i znany ze swojej prostoty i łatwości użytkowania. Visual Basic opiera się na języku programowania BASIC (Beginner's All-function Symbolic Manual Code), który został wprowadzony po raz pierwszy w latach sześćdziesiątych XX wieku.
+
+#### [Wprowadzenie do kodowania za pomocą języka Visual Basic (VB) - Visual ...](https://learn.microsoft.com/pl-pl/visualstudio/get-started/visual-basic/tutorial-editor?view=vs-2022) 
+
+ Program Visual Studio udostępnia przydatne fragmenty kodu, których można używać do szybkiego i łatwego generowania często używanych bloków kodu. Fragmenty kodu są dostępne dla różnych języków programowania, takich jak Visual Basic, C# i C++. Dodajmy fragment kodu sub języka Visual Basic do naszego pliku.
+
+
+
+
+#### [Język programowania - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Język_programowania) 
+
+ Język programowania może być zdefiniowany ze względu na kilka cech: funkcja: język programowania służy do tworzenia programów komputerowych, których zadaniem jest przetwarzanie danych, wykonywanie obliczeń i algorytmów oraz kontrolowanie/obsługa zewnętrznych urządzeń, np. drukarek, robotów itd. przeznaczenie: języki naturalne ...
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.md)
+ [Powrót do listy](top20.html)

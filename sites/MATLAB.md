@@ -9,13 +9,6 @@
 
 
 
-#### [Language Fundamentals - MATLAB & Simulink - MathWorks](https://www.mathworks.com/help/matlab/language-fundamentals.html) 
-
- Language Fundamentals. Syntax, array indexing and manipulation, data types, operators. MATLAB is an abbreviation for "matrix laboratory." While other programming languages usually work with numbers one at a time, MATLAB ® operates on whole matrices and arrays. Language fundamentals include basic operations, such as creating variables, array ...
-
-
-
-
 #### [PDF Podstawy Programowania W Języku Matlab](http://ftj.agh.edu.pl/~stegowski/rozne/m_skrypcik.pdf) 
 
  Niniejszy zeszyt przeznaczony jest dla studentów Wydziału Inżynierii Lądowej Politechniki Gdańskiej jako pomoc dydaktyczna do laboratorium z programowania w języku MATLAB, prowadzonego w ramach przedmiotu podstawy informatyki. W pierwszej części zeszytu omówiono podstawowe funkcje: operacje na macierzach, działania tablicowe ...
@@ -23,16 +16,23 @@
 
 
 
-#### [Czym jest MATLAB i czy warto się go uczyć? deep learning](https://www.deeptechnology.ai/czym-jest-matlab-i-czy-warto-sie-go-uczyc/) 
+#### [Language Fundamentals - MATLAB & Simulink - MathWorks](https://www.mathworks.com/help/matlab/language-fundamentals.html) 
 
- MATLAB (Matrix Laboratory) to środowisko obliczeniowe i język programowania, który jest szeroko stosowany w nauce, inżynierii i analizie danych. MATLAB oferuje narzędzia do tworzenia interaktywnych aplikacji, wizualizacji i analizy danych, a także do tworzenia algorytmów i aplikacji. Jest to jeden z najpopularniejszych języków ...
-
-
+ Language Fundamentals. Syntax, array indexing and manipulation, data types, operators. MATLAB is an abbreviation for "matrix laboratory." While other programming languages usually work with numbers one at a time, MATLAB ® operates on whole matrices and arrays. Language fundamentals include basic operations, such as creating variables, array ...
 
 
-#### [Using MATLAB with Other Programming Languages](https://www.mathworks.com/products/matlab/matlab-and-other-programming-languages.html) 
 
- The generated C code is readable and portable, with support for most of the MATLAB language and a wide range of toolboxes. For more details, explore MATLAB Coder, or watch the webinar MATLAB to C/C++ Made Easy (47:38). You can use Embedded Coder ® to extend the capabilities of MATLAB Coder, and use Simulink Coder™ to generate code from Simulink.
+
+#### [MATLAB - Szybki przewodnik - Stack](https://isolution.pro/pl/t/matlab/matlab-quick-guide/matlab-szybki-przewodnik) 
+
+ MATLAB (laboratorium macierzowe) to język programowania wysokiego poziomu czwartej generacji i interaktywne środowisko do obliczeń numerycznych, wizualizacji i programowania. MATLAB jest rozwijany przez MathWorks. Pozwala na manipulacje macierzą; wykreślanie funkcji i danych; implementacja algorytmów; tworzenie interfejsów użytkownika; współpraca z programami napisanymi w innych ...
+
+
+
+
+#### [Programming with MATLAB - MATLAB & Simulink - MathWorks](https://www.mathworks.com/products/matlab/programming-with-matlab.html) 
+
+ Programming with MATLAB. MATLAB is a high-level programming language designed for engineers and scientists that expresses matrix and array mathematics directly. You can use MATLAB for everything, from running simple interactive commands to developing large-scale applications.
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.md)
+ [Powrót do listy](top20.html)

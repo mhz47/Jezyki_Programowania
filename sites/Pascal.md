@@ -30,9 +30,9 @@
 
 
 
-#### [Pascal (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Pascal_(programming_language)) 
+#### [Delphi Coding Language: A Guide for Beginners](https://www.delphisource.com/delphi-coding-language/) 
 
- Pascal is an imperative and procedural programming language, designed by Niklaus Wirth as a small, efficient language intended to encourage good programming practices using structured programming and data structuring.It is named after French mathematician, philosopher and physicist Blaise Pascal.. Pascal was developed on the pattern of the ALGOL 60 language.
+ By Charles Allen 10/27/2023. Delphi incorporates the widely acclaimed Pascal programming language, recognized as one of the most versatile and widely used programming languages in the world. In this comprehensive guide, delve into the essential principles and foundations of Delphi, an environment that seamlessly integrates with Pascal.
 
 
 
@@ -50,16 +50,16 @@
 
 
 
-#### [Turbo Pascal - Kurs WARTO Zobaczyć!](http://www.pascal.kurs-programowania.pl/) 
-
- Kurs Turbo pascala. Kurs programowania jest przeznaczony dla studentów i uczniów szkół średnich. Przykłady i artykuły pomogą Ci przyswoić niezbędną wiedzę, by tworzyć profesjonalne programy. Nauczysz się tworzyć proste obliczenia matematyczne, budować własne bazy danych a także tworzyć gry komputerowe w Pascalu!
-
-
-
-
 #### [Delphi - Programowanie obiektowe - pascal.kurs-programowania.pl](http://pascal.kurs-programowania.pl/en/delphi,programowanie_obiektowe.html) 
 
  Delphi. Object Oriented Programing - intro; Disadvantages, Benefits, Download ... Databases; Kurs Delphi Delphi - Programowanie obiektowe. Home; Advanced; Basics; FAQ; Download ; Sources; Pascal Online! Run Clear Code Clear Console. Ver. 1.0 Beta, Don't have a compiler? ... (w zależności od języka programowania) na danym obiekcie i na ...
+
+
+
+
+#### [Turbo Pascal - Kurs WARTO Zobaczyć!](http://www.pascal.kurs-programowania.pl/) 
+
+ Kurs Turbo pascala. Kurs programowania jest przeznaczony dla studentów i uczniów szkół średnich. Przykłady i artykuły pomogą Ci przyswoić niezbędną wiedzę, by tworzyć profesjonalne programy. Nauczysz się tworzyć proste obliczenia matematyczne, budować własne bazy danych a także tworzyć gry komputerowe w Pascalu!
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.md)
+ [Powrót do listy](top20.html)
