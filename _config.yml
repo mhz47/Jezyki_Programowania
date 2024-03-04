@@ -18,6 +18,8 @@
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
 #plugins:
   #- jekyll-feed
 
