@@ -18,8 +18,8 @@
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hacker
-#github:
-  #is_project_page: false
+github:
+  is_project_page: false
 #plugins:
   #- jekyll-feed
 
