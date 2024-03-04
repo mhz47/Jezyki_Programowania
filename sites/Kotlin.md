@@ -2,29 +2,29 @@
 
 ### Wyniki wyszukiwania: "Kotlin język programowania" 
 
-##### [17 najlepszych kursów/zasobów do nauki programowania Kotlin - newsblog.pl](https://newsblog.pl/17-najlepszych-kursow-zasobow-do-nauki-programowania-kotlin/) 
+#### [Kotlin (język programowania) - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Kotlin_(język_programowania)) 
 
- Ten kurs Kotlin wprowadzi Cię w popularny język programowania. Ten kurs obejmuje podstawowe funkcje Kotlin, parametry funkcji, listy, mapy, tablice, metody klas, interfejsy, obiekty, klasy danych i standardową bibliotekę Kotlin. Samouczek Kotlina dla początkujących: Donn Felker. Jeśli jesteś początkującym i szukasz pełnego kursu do ...
-
-
-##### [1. Kurs Kotlin - Wstęp, instalacja, pierwszy program - YouTube](https://www.youtube.com/watch?v=RfiY8RKhV3U) 
-
- Wsparcie kanału - https://patronite.pl/KoWZapraszam do subskrybowania mojego kanału:https://www.youtube.com/user/KodeksOnline?sub_confirmation=1Cały kurs Kot...
+ Kotlin - statycznie typowany język programowania działający na maszynie wirtualnej Javy, który jest głównie rozwijany przez programistów JetBrains. Nazwa języka pochodzi od wyspy Kotlin niedaleko Petersburga [4]. Kotlin jest zaprojektowany z myślą o pełnej interoperacyjności z językami działającymi na maszynie wirtualnej Javy.
 
 
-##### [Najpopularniejsze kursy online na temat Kotlin - Udemy](https://www.udemy.com/pl/topic/kotlin/) 
+#### [Kotlin Programming Language](https://kotlinlang.org/) 
 
- Ucz się tworzenia aplikacji za pomocą języka programowania Kotlin u najwyżej ocenianych instruktorów Udemy. Udemy oferuje kursy od podstawowych po zaawansowane, które pomogą Ci szybko nauczyć się języka Kotlin i zacząć tworzyć osiągające sukcesy aplikacje na Androida.
-
-
-##### [Learn Kotlin | Codecademy](https://www.codecademy.com/learn/learn-kotlin) 
-
- Oct 5, 2021. Kotlin is a programming language that was released in 2011 by JetBrains, a company that sells integrated development environments (IDEs) for programming languages. Since then, it's become a favorite language for developers and replaced Java in many software projects. In this article, we'll look at why Kotlin became popular, its ...
+ The Kotlin Foundation has been accepted as a mentor organization for Google Summer of Code 2024! GSoC is a global online program focused on bringing new contributors into open-source software development. Contributors work on a 12-week programming project under the guidance of Kotlin Foundation mentors from Google, Gradle, and JetBrains.
 
 
-##### [Learn Kotlin With JetBrains Academy](https://www.jetbrains.com/pages/academy/kotlin/) 
+#### [Kotlin dla początkujących - czym jest i jak zacząć?](https://bykowski.pl/kotlin-dla-poczatkujacych-czym-jest-i-jak-zaczac/) 
 
- Understand the basics of Kotlin syntax and familiarize yourself with variables and different data storage types while helping a zoo look after the animals that live there. Start a project. Indigo card game. Develop a fun game that you can play with friends! Learn the fundamentals of object-oriented programming and error-handling methods.
+ Kotlin - jest to statycznie typowany język programowania ogólnego przeznaczenia, który stawia na wieloplatformowość. Język jest opracowywany przez firmę JetBrains, a nad znakiem handlowym Kotlina pieczę sprawuje Kotlin Foundation. Kotlin został zaprojektowany do współdziałania z Javą. Dlatego w ramach jednego projektu opartego na ...
+
+
+#### [Język Kotlin - do czego służy i czy warto go poznać?](https://blog.strefakursow.pl/jezyk-kotlin-do-czego-sluzy-i-czy-warto-go-poznac/) 
+
+ Kotlin to statycznie typowany i wieloplatformowy język programowania. Działa na maszynie wirtualnej Javy, z którą jest w pełni kompatybilny. Co ważne, za Kotlinem stoi jedna z najbardziej rozpoznawalnych marek w świecie IT, czyli JetBrains (twórcy m.in. IntelliJ IDEA, prawdopodobnie najpopularniejszego IDE dla Javy). Do jakich zastosowań Kotlin sprawdza się
+
+
+#### [Kotlin - zastosowanie, przyszłość, najlepsze, polecane kursy](https://jaki-jezyk-programowania.pl/technologie/kotlin/) 
+
+ Zastosowanie. Kotlin to wieloplatformowy, statycznie typowany język programowania działający na maszynie wirtualnej Javy, który jest głównie rozwijany przez programistów JetBrains - m.in. twórców popularnych IDE jak InteliJ. Kotlin jest zaprojektowany z myślą o pełnej interoperacyjności z językami działającymi na maszynie ...
 
 
 
@@ -33,17 +33,17 @@
 
 ### Wyniki wyszukiwania: "Kotlin kurs programowania" 
 
-##### [17 najlepszych kursów/zasobów do nauki programowania Kotlin - newsblog.pl](https://newsblog.pl/17-najlepszych-kursow-zasobow-do-nauki-programowania-kotlin/) 
+#### [17 najlepszych kursów/zasobów do nauki programowania Kotlin - newsblog.pl](https://newsblog.pl/17-najlepszych-kursow-zasobow-do-nauki-programowania-kotlin/) 
 
  Ten kurs Kotlin wprowadzi Cię w popularny język programowania. Ten kurs obejmuje podstawowe funkcje Kotlin, parametry funkcji, listy, mapy, tablice, metody klas, interfejsy, obiekty, klasy danych i standardową bibliotekę Kotlin. Samouczek Kotlina dla początkujących: Donn Felker. Jeśli jesteś początkującym i szukasz pełnego kursu do ...
 
 
-##### [1. Kurs Kotlin - Wstęp, instalacja, pierwszy program - YouTube](https://www.youtube.com/watch?v=RfiY8RKhV3U) 
+#### [1. Kurs Kotlin - Wstęp, instalacja, pierwszy program - YouTube](https://www.youtube.com/watch?v=RfiY8RKhV3U) 
 
  Wsparcie kanału - https://patronite.pl/KoWZapraszam do subskrybowania mojego kanału:https://www.youtube.com/user/KodeksOnline?sub_confirmation=1Cały kurs Kot...
 
 
-##### [Najpopularniejsze kursy online na temat Kotlin - Udemy](https://www.udemy.com/pl/topic/kotlin/) 
+#### [Najpopularniejsze kursy online na temat Kotlin - Udemy](https://www.udemy.com/pl/topic/kotlin/) 
 
  Ucz się tworzenia aplikacji za pomocą języka programowania Kotlin u najwyżej ocenianych instruktorów Udemy. Udemy oferuje kursy od podstawowych po zaawansowane, które pomogą Ci szybko nauczyć się języka Kotlin i zacząć tworzyć osiągające sukcesy aplikacje na Androida.
 

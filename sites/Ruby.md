@@ -2,29 +2,29 @@
 
 ### Wyniki wyszukiwania: "Ruby język programowania" 
 
-##### [Naucz się programować w RUBY | Udemy](https://www.udemy.com/course/programowanie-w-ruby/) 
+#### [Ruby (język programowania) - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Ruby_(język_programowania)) 
 
- Kurs obejmuje omówienie typów danych w Rubym i podstawy programowania obiektowego. Pokazuje, jak wykorzystać dynamiczne aspekty tego języka (niedostępne w większości innych języków), a dodatkowo przedstawia sposoby poprawnego wykonywania wielu czynności, takich jak instalacja bibliotek czy zarządzanie zależnościami.
-
-
-##### [Kursy programowania - Kodologia](https://kodologia.pl/kursy) 
-
- Przeszłam kurs programowania w Ruby na Kodologii i dzięki temu dostałam się na warsztaty Rails Girls. Co jest fajnego w Kodologii? Praktyka! Jeszcze nigdy zdobywanie wiedzy nie było tak przyjemne. Z każdym rozwiązanym zadaniem chcesz wiedziec więcej i więcej".
+ Ruby (wym. [ˈ r u: b i]) - interpretowany, w pełni obiektowy i dynamicznie typowany język programowania stworzony w 1995 roku przez Yukihiro Matsumoto (pseudonim Matz).W języku angielskim ruby oznacza rubin.. Ruby bazuje na wielu językach, takich jak CLU, Eiffel, Lisp, Perl, Python czy Smalltalk.Składnia jest zorientowana liniowo i oparta na składni CLU oraz, w mniejszym stopniu, Perla.
 
 
-##### [5 najlepszych darmowych kursów do nauki języka Ruby i Rails w 2021 roku ...](https://ichi.pro/pl/5-najlepszych-darmowych-kursow-do-nauki-jezyka-ruby-i-rails-w-2021-roku-best-of-lot-247707910523236) 
+#### [Język programowania Ruby](https://www.ruby-lang.org/pl/) 
 
- 1. Ruby dla początkujących! Jest to darmowy kurs dla początkujących, przygotowany przez Udemy, aby nauczyć się podstaw języka programowania Ruby. Jeśli nie znasz języka Ruby i samego programowania, jest to idealny kurs na początek. Przed nauczeniem się Railsów, frameworka Ruby do tworzenia aplikacji internetowych, ważne jest, aby ...
-
-
-##### [Top Ruby Courses Online - Updated [February 2024] - Udemy](https://www.udemy.com/topic/ruby/) 
-
- There was a problem loading course recommendations. Learn Ruby from a top-rated web development instructor. Udemy offers basic to advanced Ruby courses to help you build programs in the Ruby language and land your dream web development gig as a professional Ruby developer.
+ Dynamiczny język programowania skupiający się na prostocie i wydajności. Ma elegancką składnię, którą czyta się naturalnie i jest łatwa w zapisie. Pobierz Rubiego lub Czytaj więcej... This translation of www.ruby-lang.org is unmaintained and might contain obsolete information or even ...
 
 
-##### [Kurs Programowania: Ruby on Rails część 1 - YouTube](https://www.youtube.com/watch?v=Op4PH8Arj34) 
+#### [O języku Ruby - Ruby Programming Language](https://www.ruby-lang.org/pl/about/) 
 
- Kurs programowania Ruby on Rails część 1 , zostały omówione takie zagadnienia programowania w Ruby on Rails jak scaffold, podstawy HTML, został omówiony ryne...
+ Ruby jest językiem starannie dobranej równowagi. Jego twórca, Yukihiro "Matz" Matsumoto, połączył części jego ulubionych języków (Perla, Smalltalka, Eiffel, Ady i Lispa) by uformować nowy język, który zbalansował programowanie funkcjonalne wraz z programowanie imperatywnym. Matz często mówi, że chce uczynić ten język ...
+
+
+#### [About Ruby - Ruby Programming Language](https://www.ruby-lang.org/en/about/) 
+
+ About Ruby's Growth. Since its public release in 1995, Ruby has drawn devoted coders worldwide. In 2006, Ruby achieved mass acceptance. With active user groups formed in the world's major cities and Ruby-related conferences filled to capacity. Ruby-Talk, the primary mailing list for discussion of the Ruby language, climbed to an average of ...
+
+
+#### [Ruby Programming Language](https://www.ruby-lang.org/en/) 
+
+ Ruby 3.3.0-rc1 Released. We are pleased to announce the release of Ruby 3.3.0-rc1. Ruby 3.3 adds a new parser named Prism, uses Lrama as a parser generator, adds a new pure-Ruby JIT compiler named RJIT, and many performance improvements especially YJIT.
 
 
 
@@ -33,17 +33,17 @@
 
 ### Wyniki wyszukiwania: "Ruby kurs programowania" 
 
-##### [Naucz się programować w RUBY | Udemy](https://www.udemy.com/course/programowanie-w-ruby/) 
+#### [Naucz się programować w RUBY | Udemy](https://www.udemy.com/course/programowanie-w-ruby/) 
 
  Kurs obejmuje omówienie typów danych w Rubym i podstawy programowania obiektowego. Pokazuje, jak wykorzystać dynamiczne aspekty tego języka (niedostępne w większości innych języków), a dodatkowo przedstawia sposoby poprawnego wykonywania wielu czynności, takich jak instalacja bibliotek czy zarządzanie zależnościami.
 
 
-##### [Kursy programowania - Kodologia](https://kodologia.pl/kursy) 
+#### [Kursy programowania - Kodologia](https://kodologia.pl/kursy) 
 
  Przeszłam kurs programowania w Ruby na Kodologii i dzięki temu dostałam się na warsztaty Rails Girls. Co jest fajnego w Kodologii? Praktyka! Jeszcze nigdy zdobywanie wiedzy nie było tak przyjemne. Z każdym rozwiązanym zadaniem chcesz wiedziec więcej i więcej".
 
 
-##### [5 najlepszych darmowych kursów do nauki języka Ruby i Rails w 2021 roku ...](https://ichi.pro/pl/5-najlepszych-darmowych-kursow-do-nauki-jezyka-ruby-i-rails-w-2021-roku-best-of-lot-247707910523236) 
+#### [5 najlepszych darmowych kursów do nauki języka Ruby i Rails w 2021 roku ...](https://ichi.pro/pl/5-najlepszych-darmowych-kursow-do-nauki-jezyka-ruby-i-rails-w-2021-roku-best-of-lot-247707910523236) 
 
  1. Ruby dla początkujących! Jest to darmowy kurs dla początkujących, przygotowany przez Udemy, aby nauczyć się podstaw języka programowania Ruby. Jeśli nie znasz języka Ruby i samego programowania, jest to idealny kurs na początek. Przed nauczeniem się Railsów, frameworka Ruby do tworzenia aplikacji internetowych, ważne jest, aby ...
 
