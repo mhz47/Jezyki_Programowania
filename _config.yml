@@ -21,8 +21,8 @@
 #plugins:
   #- jekyll-feed
 
-title: <p color="green" align="center">Języki Programowania</p>
-
+title: <p align="center">Języki Programowania</p>
+auto_ids: false
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
