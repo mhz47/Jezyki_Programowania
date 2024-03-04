@@ -43,9 +43,9 @@
 
 ### Wyniki wyszukiwania: "JavaScript kurs programowania" 
 
-#### [Darmowy Kurs JavaScript — PodstawyJS?](https://podstawyjs.pl/) 
+#### [[2024] Programowanie w JavaScript od Zera do Mastera | Udemy](https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera/) 
 
- Witaj w darmowym kursie JavaScript dla początkujących! JavaScript to język programowania, który jest jednym z najpopularniejszych i najważniejszych języków na świecie. Jest on używany do tworzenia interaktywnych elementów stron internetowych, takich jak: animacje. gry. aplikacje internetowe.
+ Aplikacje w JavaScript od od podstaw: pogodową na bazie geolokalizacji, quiz, kursy walut, kalkulator, lista książek, Tic Tac Toe etc. Dynamicznie zmieniać oraz dodawać treści do witryny oraz zmieniać jej wygląd. Programowania po stronie serwera dzięki NodeJs, czyli JavaScript na backendzie generujący kod html, odczytujący formularze ...
 
 
 
@@ -57,9 +57,9 @@
 
 
 
-#### [[2024] Programowanie w JavaScript od Zera do Mastera | Udemy](https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera/) 
+#### [Darmowy Kurs JavaScript — PodstawyJS?](https://podstawyjs.pl/) 
 
- Aplikacje w JavaScript od od podstaw: pogodową na bazie geolokalizacji, quiz, kursy walut, kalkulator, lista książek, Tic Tac Toe etc. Dynamicznie zmieniać oraz dodawać treści do witryny oraz zmieniać jej wygląd. Programowania po stronie serwera dzięki NodeJs, czyli JavaScript na backendzie generujący kod html, odczytujący formularze ...
+ Witaj w darmowym kursie JavaScript dla początkujących! JavaScript to język programowania, który jest jednym z najpopularniejszych i najważniejszych języków na świecie. Jest on używany do tworzenia interaktywnych elementów stron internetowych, takich jak: animacje. gry. aplikacje internetowe.
 
 
 

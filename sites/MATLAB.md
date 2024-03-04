@@ -23,9 +23,9 @@
 
 
 
-#### [Czym jest MATLAB i czy warto się go uczyć? deep learning](https://www.deeptechnology.ai/czym-jest-matlab-i-czy-warto-sie-go-uczyc/) 
+#### [MATLAB - Szybki przewodnik - Stack](https://isolution.pro/pl/t/matlab/matlab-quick-guide/matlab-szybki-przewodnik) 
 
- MATLAB (Matrix Laboratory) to środowisko obliczeniowe i język programowania, który jest szeroko stosowany w nauce, inżynierii i analizie danych. MATLAB oferuje narzędzia do tworzenia interaktywnych aplikacji, wizualizacji i analizy danych, a także do tworzenia algorytmów i aplikacji. Jest to jeden z najpopularniejszych języków ...
+ MATLAB (laboratorium macierzowe) to język programowania wysokiego poziomu czwartej generacji i interaktywne środowisko do obliczeń numerycznych, wizualizacji i programowania. MATLAB jest rozwijany przez MathWorks. Pozwala na manipulacje macierzą; wykreślanie funkcji i danych; implementacja algorytmów; tworzenie interfejsów użytkownika; współpraca z programami napisanymi w innych ...
 
 
 

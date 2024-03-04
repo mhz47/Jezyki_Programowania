@@ -9,13 +9,6 @@
 
 
 
-#### [Co to jest język programowania C? Podstawy, wprowadzenie ... - Guru99](https://www.guru99.com/pl/c-programming-language.html) 
-
- Język programowania „C" zawiera wszystkie funkcje tych języków i wiele innych dodatkowych koncepcji, które czynią go wyjątkowym na tle innych języków. „C" to potężny język programowania, który jest silnie kojarzony z systemem operacyjnym UNIX. Nawet większość systemu operacyjnego UNIX jest kodowana w języku „C".
-
-
-
-
 #### [C (programming language) - Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language)) 
 
  C (pronounced / ˈ s iː / - like the letter c) is a general-purpose computer programming language.It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential.By design, C's features cleanly reflect the capabilities of the targeted CPUs. It has found lasting use in operating systems, device drivers, and protocol stacks, but its use in application software has ...
@@ -23,9 +16,16 @@
 
 
 
-#### [The C Programming Language - Wikipedia](https://en.wikipedia.org/wiki/The_C_Programming_Language) 
+#### [Introduction to C - W3Schools](https://www.w3schools.com/c/c_intro.php) 
 
- The C Programming Language (sometimes termed K&R, after its authors' initials) is a computer programming book written by Brian Kernighan and Dennis Ritchie, the latter of whom originally designed and implemented the C programming language, as well as co-designed the Unix operating system with which development of the language was closely intertwined. The book was central to the development and ...
+ C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972. It is a very popular language, despite being old. The main reason for its popularity is because it is a fundamental language in the field of computer science. C is strongly associated with UNIX, as it was developed to write the UNIX operating ...
+
+
+
+
+#### [Learn C Programming - Programiz: Learn to Code for Free](https://www.programiz.com/c-programming) 
+
+ Learn C Programming. C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners. Our C tutorials will guide you to learn C programming one step at a time.
 
 
 
@@ -57,9 +57,9 @@
 
 
 
-#### [Najpopularniejsze kursy online na temat C (język programowania ... - Udemy](https://www.udemy.com/pl/topic/c-programming/) 
+#### [1. Kurs Programowania w C - Pierwszy program - YouTube](https://www.youtube.com/watch?v=XmCmJ94kZUU) 
 
- Dowiedz się, jak używać języka programowania C dzięki wykładom prowadzonym przez najwyżej ocenianych instruktorów programowania. Niezależnie od tego, czy interesujesz się podstawami czy zaawansowanymi zastosowaniami języka programowania C, Udemy z pewnością ma kurs, który pomoże Ci stać się lepszym programistą.
+ Kolejna lekcja: http://www.youtube.com/watch?v=Ik6JDCy6-Tg&list=PL_k1YAvuKxVhkY2q5A-_a6niBWRR0_oz7Instalacja Code::Blocks http://www.youtube.com/watch?v=gXxe...
 
 
 

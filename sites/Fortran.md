@@ -23,16 +23,16 @@
 
 
 
-#### [Fortran - pierwszy język programowania, który zmienił informatykę](https://webdevpros.pl/4cJsz/post/Fortran---pierwszy-jezyk-programowania--ktory-zmienil-informatyke/) 
-
- Pierwszym językiem programowania był Fortran (od ang. Formula Translation). Został stworzony przez grupę naukowców z IBM na czele z Johnem Backusem. Fortran był pierwszym językiem programowania, który wykorzystywał składnię przypominającą język naturalny, co znacznie ułatwiało programowanie i znacznie zmniejszało ryzyko ...
-
-
-
-
 #### [Fortran - Wikipedia](https://en.wikipedia.org/wiki/Fortran) 
 
  Fortran (/ ˈ f ɔːr t r æ n /; formerly FORTRAN) is a third generation, compiled, imperative programming language that is especially suited to numeric computation and scientific computing.. Fortran was originally developed by IBM. It first compiled correctly in 1958. Fortran computer programs have been written to support scientific and engineering applications, such as numerical weather ...
+
+
+
+
+#### [Learn — Fortran Programming Language](https://fortran-lang.org/en/learn/) 
+
+ Fortran : High-performance parallel programming language. Fortran wiki A rich collection of Fortran articles and resources in an editable wiki format. Fortran 90 org Fortran Best Practices guide, Python/Fortran Rosetta Stone, Fortran FAQ. Fortran 2018 Standard Interpretation Document J3/18-007r1 F2018, specification of the base Fortran 2018 language. J3 Fortran Proposals a repository for ...
 
 
 
@@ -43,16 +43,16 @@
 
 ### Wyniki wyszukiwania: "Fortran kurs programowania" 
 
-#### [Fortran Programming Complete Course | Udemy](https://www.udemy.com/course/fortran-course/) 
-
- You will learn to use Fortran professionally, starting from zero level! You will understand the logic of Programming step by step and from scratch, for beginners. You will become perfectly familiar with the Fortran interface and workspace to configure and prepare all aspects of the coding. You will discover how to program loops, decisions, or ...
-
-
-
-
 #### [Learn — Fortran Programming Language](https://fortran-lang.org/en/learn/) 
 
  Fortran : High-performance parallel programming language. Fortran wiki A rich collection of Fortran articles and resources in an editable wiki format. Fortran 90 org Fortran Best Practices guide, Python/Fortran Rosetta Stone, Fortran FAQ. Fortran 2018 Standard Interpretation Document J3/18-007r1 F2018, specification of the base Fortran 2018 language. J3 Fortran Proposals a repository for ...
+
+
+
+
+#### [Fortran Programming Complete Course | Udemy](https://www.udemy.com/course/fortran-course/) 
+
+ You will learn to use Fortran professionally, starting from zero level! You will understand the logic of Programming step by step and from scratch, for beginners. You will become perfectly familiar with the Fortran interface and workspace to configure and prepare all aspects of the coding. You will discover how to program loops, decisions, or ...
 
 
 

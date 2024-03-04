@@ -2,16 +2,16 @@
 
 ### Wyniki wyszukiwania: "C# język programowania" 
 
-#### [C Sharp - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/C_Sharp) 
-
- C# (C Sharp; wym. [s i ː ˈ ʃ ɑ ː p]; dosłownie „cis", „c z krzyżykiem") - wieloparadygmatowy język programowania zaprojektowany w latach 1998-2001 przez zespół pod kierunkiem Andersa Hejlsberga dla firmy Microsoft.Program napisany w tym języku kompilowany jest do języka Common Intermediate Language (CIL), specjalnego kodu pośredniego wykonywanego w środowisku ...
-
-
-
-
 #### [Przewodnik po języku C# — omówienie | Microsoft Learn](https://learn.microsoft.com/pl-pl/dotnet/csharp/tour-of-csharp/) 
 
  Język C# umożliwia deweloperom tworzenie wielu typów bezpiecznych i niezawodnych aplikacji uruchamianych na .NET. Język C# ma swoje korzenie w rodzinie języków C i od razu będzie zaznajomiony z programistami języków C, C++, Java i JavaScript. Ten przewodnik zawiera omówienie głównych składników języka w języku C# 8 i starszych.
+
+
+
+
+#### [C Sharp - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/C_Sharp) 
+
+ C# (C Sharp; wym. [s i ː ˈ ʃ ɑ ː p]; dosłownie „cis", „c z krzyżykiem") - wieloparadygmatowy język programowania zaprojektowany w latach 1998-2001 przez zespół pod kierunkiem Andersa Hejlsberga dla firmy Microsoft.Program napisany w tym języku kompilowany jest do języka Common Intermediate Language (CIL), specjalnego kodu pośredniego wykonywanego w środowisku ...
 
 
 
@@ -30,9 +30,9 @@
 
 
 
-#### [C# - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/csharp/) 
+#### [Czym jest C#? Wszystko co powinieneś wiedzieć - coderarmour.com](https://coderarmour.com/czym-jest-c/) 
 
- Jest to zatem wieloplatformowy język programowania wykorzystywany w wielu dziedzinach. C# napędza m.in. stronę StackOverflow czy gry takie jak Terraria, Magicka, Bastion. Top 10 projektów na Github wykorzystujących C#. Github to system kontroli wersji. Możesz znaleźć tam projekty open source w każdej technologii.
+ C# to nowoczesny język programowania ogólnego przeznaczenia, którego można używać do wykonywania szerokiego zakresu zadań i celów obejmujących różne zawody. Język C# jest używany głównie w środowisku Windows .NET, chociaż można go zastosować na platformie typu open source. Ten wysoce wszechstronny język programowania jest ...
 
 
 
@@ -50,16 +50,16 @@
 
 
 
-#### [Dokumentacja języka C# — wprowadzenie, samouczki, informacje.](https://learn.microsoft.com/pl-pl/dotnet/csharp/) 
-
- Naucz się programowania w języku C# — dla początkujących deweloperów, nowych deweloperów w języku C# i doświadczonych deweloperów w języku C#/.NET. Przejdź do głównej zawartości. Ta przeglądarka nie jest już obsługiwana. Przejdź na przeglądarkę Microsoft Edge, aby korzystać z najnowszych funkcji, aktualizacji ...
-
-
-
-
 #### [Kursy na temat C# (język programowania) - Udemy](https://www.udemy.com/pl/topic/c-sharp/) 
 
  Ucz się języka C# („C Sharp") u najwyżej ocenianych instruktorów. Znajdź kursy programowania w tym języku dopasowane do Twoich potrzeb i umiejętności. C# to zorientowany obiektowo język programowania zaprojektowany do tworzenia aplikacji na platformie firmy Microsoft i często wykorzystywany do tworzenia gier korzystających z silnika Unity
+
+
+
+
+#### [Dokumentacja języka C# — wprowadzenie, samouczki, informacje.](https://learn.microsoft.com/pl-pl/dotnet/csharp/) 
+
+ Naucz się programowania w języku C# — dla początkujących deweloperów, nowych deweloperów w języku C# i doświadczonych deweloperów w języku C#/.NET. Przejdź do głównej zawartości. Ta przeglądarka nie jest już obsługiwana. Przejdź na przeglądarkę Microsoft Edge, aby korzystać z najnowszych funkcji, aktualizacji ...
 
 
 

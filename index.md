@@ -1,4 +1,4 @@
-# Czym jest język programowania? 
+## Czym jest język programowania? 
 
 Język programowania – zbiór zasad określających, kiedy ciąg symboli tworzy program komputerowy oraz jakie obliczenia opisuje. Teorią języków programowania w informatyce zajmuje się teoria języków formalnych.
  

@@ -57,9 +57,9 @@
 
 
 
-#### [Jak nauczyć się programowania w języku Swift: Przewodnik ... - AppMaster](https://appmaster.io/pl/blog/naucz-sie-swifta-krok-po-kroku) 
+#### [Podstawy języka Swift | Udemy](https://www.udemy.com/course/podstawy-jezyka-swift/) 
 
- Swift to najlepszy język programowania, którego powinieneś się nauczyć i w łatwy sposób stworzyć swoją wymarzoną aplikację. Programowanie Swift to potężny, a zarazem łatwy do nauczenia się język kodowania stworzony przez Apple. Jest często używany do tworzenia aplikacji iOS i macOS, a także aplikacji tvOS i watchOS.
+ Ten kurs jest właśnie dla Ciebie! Jeżeli chcesz programować aplikacje na iOS, znajomość języka Swift jest niezbędna. ... Gwarantujemy, że zdobędziesz podstawową wiedzę na temat programowania w języku Swift. Sumienna realizacja całego kursu odpowiednio przygotuje Cię do kolejnych szkoleń z zakresu tworzenia niesamowitych ...
 
 
 

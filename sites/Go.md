@@ -30,9 +30,9 @@
 
 
 
-#### [Samouczek Golang: Naucz się języka programowania Go dla ... - Guru99](https://www.guru99.com/pl/google-go-tutorial.html) 
+#### [Programowanie w GO dla początkujących - Programistki są super!](https://programistkisasuper.pl/programowanie-w-go-dla-poczatkujacych/) 
 
- Język programowania Go pozwala nam organizować kod w różnych pakietach. Zwiększa to czytelność kodu i możliwość jego ponownego użycia. Wykonywalny program Go powinien zawierać pakiet o nazwie main, a wykonywanie programu rozpoczyna się od funkcji o nazwie main. Możesz zaimportować inne pakiety w naszym programie za pomocą składni
+ GO - co go wyróżnia? Golang to open-sourcowy język programowania, który charakteryzuje się prostotą składni (co mocno ułatwia jego naukę), ale też dużą wydajnością (dzięki czemu programy pisane w GO mają szerokie zastosowanie na tzw. 'backendzie'). Jego wersja 1.0 miała swoją publiczną premierę w 2012.
 
 
 

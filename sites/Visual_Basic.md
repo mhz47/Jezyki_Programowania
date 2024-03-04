@@ -4,7 +4,7 @@
 
 #### [Visual Basic - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Visual_Basic) 
 
- Visual Basic - język programowania wysokiego poziomu i narzędzie programowania firmy Microsoft. Składnia jest oparta na języku BASIC, ale unowocześniona. Zawiera kilkadziesiąt instrukcji, funkcji i słów kluczowych. ... Język Visual Basic zastosowano również w wielu rozbudowanych aplikacjach jako język skryptowy do tworzenia ...
+ Visual Basic - język programowania wysokiego poziomu i narzędzie programowania firmy Microsoft.Składnia jest oparta na języku BASIC, ale unowocześniona.Zawiera kilkadziesiąt instrukcji, funkcji i słów kluczowych. Nie jest językiem w pełni obiektowym, gdyż nie udostępnia np. możliwości dziedziczenia, czy polimorfizmu.Wykorzystuje technologię ActiveX.
 
 
 
@@ -30,9 +30,9 @@
 
 
 
-#### [Visual Basic for Applications - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Visual_Basic_for_Applications) 
+#### [Język programowania - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Język_programowania) 
 
- Visual Basic for Applications, VBA - język programowania oparty na Visual Basicu (VB) zaimplementowany w aplikacjach pakietu Microsoft Office oraz kilku innych, jak na przykład AutoCAD i WordPerfect.Ta uproszczona wersja Visual Basica służy przede wszystkim do automatyzacji pracy z dokumentami, na przykład poprzez makropolecenia.. Podstawową różnicą między VBA a VB jest to, że VBA ...
+ Język programowania może być zdefiniowany ze względu na kilka cech: funkcja: język programowania służy do tworzenia programów komputerowych, których zadaniem jest przetwarzanie danych, wykonywanie obliczeń i algorytmów oraz kontrolowanie/obsługa zewnętrznych urządzeń, np. drukarek, robotów itd. przeznaczenie: języki naturalne ...
 
 
 

@@ -18,14 +18,14 @@
 
 #### [Python Tutorial — Python 3.12.2 - dokumentacja](https://docs.python.org/pl/3/tutorial/) 
 
- Learn the basic concepts and features of Python, a powerful and easy to learn programming language. The tutorial covers topics such as data structures, modules, classes, exceptions, input and output, and more.
+ Python jest łatwym do nauki, wszechstronnym językiem programowania. Ma wydajne wysoko-poziomowe struktury danych i proste ale efektywne podejście do programowania zorientowanego obiektowo. ... Python jest również odpowiedni jako język rozszerzeń dla konfigurowalnych aplikacji. Ten tutorial wprowadza nieformalnie czytelnika w podstawowe ...
 
 
 
 
 #### [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/pl/) 
 
- Naucz się języka programowania Python na stronie learnpython.org, która oferuje interaktywne ćwiczenia i przykłady. Znajdziesz tu podstawy, zaawansowane tematy i linki do grupy Facebooku.
+ learnpython.org is a free interactive Python tutorial for people who want to learn Python, fast. learnpython.org Home (current) About; Certify; ... kto chce nauczyć się języka programowania Python. Zapraszamy Cię do dołączenia do naszej grupy Facebooku, gdzie możesz zadać pytanie, dyskutować nad rozwojem strony i proponować ulepszenia.
 
 
 

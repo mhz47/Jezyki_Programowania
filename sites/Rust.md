@@ -9,16 +9,16 @@
 
 
 
-#### [Rust - zastosowanie, przyszłość, najlepsze, polecane kursy](https://jaki-jezyk-programowania.pl/technologie/rust/) 
-
- Według ankiety przeprowadzonej przez StackOverflow Rust był najbardziej polubionym językiem wśród programistów 3 lata z rzędu - w 2016, 2017 i 2018. Oznacza to, że ten język programowania ma naprawdę dobry potencjał. Dodatkowym plusem jest to, że jest rozwijany przez Mozillę.
-
-
-
-
 #### [Rust (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language)) 
 
  Rust is a multi-paradigm, general-purpose programming language that emphasizes performance, type safety, and concurrency.It enforces memory safety—meaning that all references point to valid memory—without a garbage collector.To simultaneously enforce memory safety and prevent data races, its "borrow checker" tracks the object lifetime of all references in a program during compilation.
+
+
+
+
+#### [Rust - zastosowanie, przyszłość, najlepsze, polecane kursy](https://jaki-jezyk-programowania.pl/technologie/rust/) 
+
+ Według ankiety przeprowadzonej przez StackOverflow Rust był najbardziej polubionym językiem wśród programistów 3 lata z rzędu - w 2016, 2017 i 2018. Oznacza to, że ten język programowania ma naprawdę dobry potencjał. Dodatkowym plusem jest to, że jest rozwijany przez Mozillę.
 
 
 
@@ -32,7 +32,7 @@
 
 #### [Język programowania Rust](https://prev.rust-lang.org/pl-PL/) 
 
- Język programowania Rust. Rust to systemowy język programowania, który jest niesamowicie szybki, zapobiega naruszeniom pamięci oraz gwarantuje bezpieczeństwo wątków. Zobacz, kto używa Rusta. Zainstaluj Rust 1.31.0.
+ Rust to systemowy język programowania, który jest niesamowicie szybki, zapobiega naruszeniom pamięci oraz gwarantuje bezpieczeństwo wątków. Zobacz, kto używa Rusta, zainstaluj go i sprawdź przykłady kodu.
 
 
 

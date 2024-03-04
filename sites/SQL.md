@@ -9,16 +9,16 @@
 
 
 
-#### [Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań - Khan Academy](https://pl.khanacademy.org/computing/computer-programming/sql) 
-
- Podstawy SQL. Pokażemy ci podstawy tworzenia tabel, i wybierania danych na różne sposoby. Ucz się sam (a)! Witamy w SQL. Tworzenie tabel i dodawanie danych. Wyzwanie: Baza danych książek. Zapytania o dane do tabeli. Wyzwanie: Filmowe hity w bazie danych. Agregowanie danych.
-
-
-
-
 #### [SQL - na czym polega ten język programowania - Business Insider Polska](https://businessinsider.com.pl/technologie/nauka/sql-na-czym-polega-ten-jezyk-programowania/84hgpn8) 
 
  SQL, skrót od „Structured Query Language" (strukturalny język zapytań), to język programowania specjalnego przeznaczenia, służący do zarządzania dużymi ilościami danych i ich analizowania.Firmy, które zbierają duże ilości danych dotyczących klientów, ich aktywów oraz związków między nimi, wykorzystują język SQL do interpretowania nowych informacji w oparciu o ...
+
+
+
+
+#### [Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań - Khan Academy](https://pl.khanacademy.org/computing/computer-programming/sql) 
+
+ Podstawy SQL. Pokażemy ci podstawy tworzenia tabel, i wybierania danych na różne sposoby. Ucz się sam (a)! Witamy w SQL. Tworzenie tabel i dodawanie danych. Wyzwanie: Baza danych książek. Zapytania o dane do tabeli. Wyzwanie: Filmowe hity w bazie danych. Agregowanie danych.
 
 
 
@@ -30,9 +30,9 @@
 
 
 
-#### [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/) 
+#### [Język programowania - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Język_programowania) 
 
- SQL. Tutorial. SQL is a standard language for storing, manipulating and retrieving data in databases. Our SQL tutorial will teach you how to use SQL in: MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and other database systems.
+ Język programowania może być zdefiniowany ze względu na kilka cech: funkcja: język programowania służy do tworzenia programów komputerowych, których zadaniem jest przetwarzanie danych, wykonywanie obliczeń i algorytmów oraz kontrolowanie/obsługa zewnętrznych urządzeń, np. drukarek, robotów itd. przeznaczenie: języki naturalne ...
 
 
 
@@ -43,9 +43,9 @@
 
 ### Wyniki wyszukiwania: "SQL kurs programowania" 
 
-#### [Kurs SQL - Analiza Danych - Coders Lab](https://coderslab.pl/pl/sql-analiza-danych) 
+#### [Najpopularniejsze kursy online na temat SQL - Zaktualizowano ... - Udemy](https://www.udemy.com/pl/topic/sql/) 
 
- Skoro masz za sobą zakończony sukcesem kurs Python - Analiza Danych, to wiesz, że w jego programie umieściliśmy podstawy języka SQL.To Twoja baza informacji. Z kolei kurs SQL - Analiza Danych jest naturalną kontynuacją nauki tego języka programowania.. Rozbudowujesz zdobytą wcześniej wiedzę i - co dla nas bardzo ważne - wykorzystujesz ją od razu w praktyce!
+ 17 min wideo. Wyświetl kursy typu free na temat SQL. Naucz się języka SQL od najwyżej ocenianych instruktorów. Znajdź najlepsze kursy SQL dopasowane do Twoich potrzeb i umiejętności, od najczęstszych zapytań SQL do analizy danych i nie tylko. Podnieś swój zestaw umiejętności SQL i przenieś umiejętności analizy danych na wyższy ...
 
 
 
@@ -57,9 +57,9 @@
 
 
 
-#### [Najpopularniejsze kursy online na temat SQL - Zaktualizowano ... - Udemy](https://www.udemy.com/pl/topic/sql/) 
+#### [Kurs SQL - Analiza Danych - Coders Lab](https://coderslab.pl/pl/sql-analiza-danych) 
 
- 17 min wideo. Wyświetl kursy typu free na temat SQL. Naucz się języka SQL od najwyżej ocenianych instruktorów. Znajdź najlepsze kursy SQL dopasowane do Twoich potrzeb i umiejętności, od najczęstszych zapytań SQL do analizy danych i nie tylko. Podnieś swój zestaw umiejętności SQL i przenieś umiejętności analizy danych na wyższy ...
+ Skoro masz za sobą zakończony sukcesem kurs Python - Analiza Danych, to wiesz, że w jego programie umieściliśmy podstawy języka SQL.To Twoja baza informacji. Z kolei kurs SQL - Analiza Danych jest naturalną kontynuacją nauki tego języka programowania.. Rozbudowujesz zdobytą wcześniej wiedzę i - co dla nas bardzo ważne - wykorzystujesz ją od razu w praktyce!
 
 
 

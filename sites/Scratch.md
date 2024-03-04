@@ -16,13 +16,6 @@
 
 
 
-#### [Scratch - Join Scratch](https://scratch.mit.edu/join) 
-
- Join Scratch. Create projects, share ideas, make friends. It's free! Create a username. Don't use your real name. Create a password. Show password. Next. Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.
-
-
-
-
 #### [Scratch (język programowania) - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Scratch_(język_programowania)) 
 
  O Scratchu. Scratch to edukacyjny język obiektowy, stworzony jako środek do nauczania dzieci i młodzieży (od 8 lat wzwyż) podstaw programowania komputerów oraz środowisko programistyczne służące do tworzenia i uruchamiania programów w tym języku. Scratch umożliwia tworzenie interaktywnych historyjek, animacji, gier, muzyki.
@@ -33,6 +26,13 @@
 #### [Scratch (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Scratch_(programming_language)) 
 
  Scratch is a high-level block-based visual programming language and website aimed primarily at children as an educational tool, with a target audience of ages 8 to 16. Users on the site can create projects on the website using a block-like interface. Scratch was conceived and designed through collaborative National Science Foundation grants awarded to Mitchel Resnick and Yasmin Kafai.
+
+
+
+
+#### [Scratch - programowanie dla dzieci i początkujących - Cyber Plac](https://cyberplac.pl/2020/09/15/scratch-programowanie-dla-dzieci-i-poczatkujacych/) 
+
+ Scratch to język programowania, który uczy dzieci i początkujących poprzez zabawę, korzystając z wizualnych fragmentów kodu i kolorowych puzzli. Dowiedz się, co to jest Scratch, jak zacząć, co można stworzyć i co oznacza słowo Scratch.
 
 
 
