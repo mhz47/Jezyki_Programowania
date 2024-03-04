@@ -18,21 +18,21 @@
 
 #### [Python Tutorial — Python 3.12.2 - dokumentacja](https://docs.python.org/pl/3/tutorial/) 
 
- Python jest łatwym do nauki, wszechstronnym językiem programowania. Ma wydajne wysoko-poziomowe struktury danych i proste ale efektywne podejście do programowania zorientowanego obiektowo. ... Python jest również odpowiedni jako język rozszerzeń dla konfigurowalnych aplikacji. Ten tutorial wprowadza nieformalnie czytelnika w podstawowe ...
-
-
-
-
-#### [Introduction to Python - W3Schools](https://www.w3schools.com/python/python_intro.asp) 
-
- Python has a simple syntax similar to the English language. Python has syntax that allows developers to write programs with fewer lines than some other programming languages. Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
+ Learn the basic concepts and features of Python, a powerful and easy to learn programming language. The tutorial covers topics such as data structures, modules, classes, exceptions, input and output, and more.
 
 
 
 
 #### [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/pl/) 
 
- learnpython.org is a free interactive Python tutorial for people who want to learn Python, fast. learnpython.org Home (current) About; Certify; ... kto chce nauczyć się języka programowania Python. Zapraszamy Cię do dołączenia do naszej grupy Facebooku, gdzie możesz zadać pytanie, dyskutować nad rozwojem strony i proponować ulepszenia.
+ Naucz się języka programowania Python na stronie learnpython.org, która oferuje interaktywne ćwiczenia i przykłady. Znajdziesz tu podstawy, zaawansowane tematy i linki do grupy Facebooku.
+
+
+
+
+#### [Python Tutorial | Learn Python Programming - GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/) 
+
+ This Python tutorial is well-suited for beginners as well as professionals, covering basic to advanced concepts of the Python programming language. This free Python tutorial includes various topics such as loops, strings, lists, dictionaries, and arrays, along with examples. #Python Tutorial, #Free Python Programming Tutorial.
 
 
 

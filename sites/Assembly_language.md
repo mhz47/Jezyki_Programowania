@@ -23,16 +23,16 @@
 
 
 
-#### [Kiedy i Jak Korzystać z Asemblera — Podstawy Asemblera - PELock](https://www.pelock.com/pl/artykuly/kiedy-i-jak-korzystac-z-asemblera-podstawy-programowania-w-asemblerze) 
+#### [Assembly language - CodeDocs](https://codedocs.org/what-is/assembly-language) 
 
- Podstawy programowania w asemblerze, budowa procesora, rejestry, pamięć, instrukcje, wykorzystanie asemblera w C++ oraz Delphi. 1. Wprowadzenie do asemblera. Asembler, czyli język programowania niskopoziomowego, umożliwiający wykorzystanie wszystkich możliwości procesora jest dziś już nieco zapomniany przez „nowożytnych ...
-
-
+ Assembly language syntax. Assembly language uses a mnemonic to represent each low-level machine instruction or opcode, typically also each architectural register, flag, etc.Many operations require one or more operands in order to form a complete instruction. Most assemblers permit named constants, registers, and labels for program and memory locations, and can calculate expressions for operands.
 
 
-#### [PDF Programowanie w asemblerze Asembler i jego jezyk](https://students.mimuw.edu.pl/~zbyszek/asm/pl/slides/asm.pdf) 
 
- Zbigniew Jurkiewicz, Instytut Informatyki UW. Programowanie w asemblerze Asembler i jego j ̨ezyk. Asembler = program, przetwarzaj acy ̨ plik ́zródłowy z tekstem programu w symbolicznym j ̨ezyku wewn ̨etrznym na plik wynikowy, tzw. moduł (ang. object code). Moduł zawiera ten sam program w postaci przetłumaczonej na j ̨ezyk maszynowy.
+
+#### [What Is Assembly Language? Working, Features, and Advantages - Spiceworks](https://www.spiceworks.com/tech/tech-general/articles/what-is-assembly-language/) 
+
+ 1. Display flexibility. Assembly language provides a high degree of flexibility in displaying data on the screen, thanks to its data-stream commands, wide screens, and cursor-dependent functions. Data-stream commands are used to write data to the screen in real-time.
 
 
 

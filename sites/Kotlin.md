@@ -16,13 +16,6 @@
 
 
 
-#### [Kotlin: przewodnik krok po kroku dla początkujących twórców aplikacji](https://appmaster.io/pl/blog/kotlin-przewodnik-krok-po-kroku) 
-
- Kotlin służy głównie do tworzenia aplikacji na Androida. Jest to język programowania o typie statycznym, którego można używać do tworzenia natywnych aplikacji na Androida, a także można go kompilować do kodu JavaScript na potrzeby tworzenia stron internetowych lub kodu bajtowego JVM do aplikacji po stronie serwera.
-
-
-
-
 #### [Kotlin dla początkujących - czym jest i jak zacząć?](https://bykowski.pl/kotlin-dla-poczatkujacych-czym-jest-i-jak-zaczac/) 
 
  Kotlin - jest to statycznie typowany język programowania ogólnego przeznaczenia, który stawia na wieloplatformowość. Język jest opracowywany przez firmę JetBrains, a nad znakiem handlowym Kotlina pieczę sprawuje Kotlin Foundation. Kotlin został zaprojektowany do współdziałania z Javą. Dlatego w ramach jednego projektu opartego na ...
@@ -33,6 +26,13 @@
 #### [Język Kotlin - do czego służy i czy warto go poznać?](https://blog.strefakursow.pl/jezyk-kotlin-do-czego-sluzy-i-czy-warto-go-poznac/) 
 
  Kotlin to statycznie typowany i wieloplatformowy język programowania. Działa na maszynie wirtualnej Javy, z którą jest w pełni kompatybilny. Co ważne, za Kotlinem stoi jedna z najbardziej rozpoznawalnych marek w świecie IT, czyli JetBrains (twórcy m.in. IntelliJ IDEA, prawdopodobnie najpopularniejszego IDE dla Javy). Do jakich zastosowań Kotlin sprawdza się
+
+
+
+
+#### [Kotlin - zastosowanie, przyszłość, najlepsze, polecane kursy](https://jaki-jezyk-programowania.pl/technologie/kotlin/) 
+
+ Zastosowanie. Kotlin to wieloplatformowy, statycznie typowany język programowania działający na maszynie wirtualnej Javy, który jest głównie rozwijany przez programistów JetBrains - m.in. twórców popularnych IDE jak InteliJ. Kotlin jest zaprojektowany z myślą o pełnej interoperacyjności z językami działającymi na maszynie ...
 
 
 

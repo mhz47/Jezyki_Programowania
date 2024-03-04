@@ -30,9 +30,9 @@
 
 
 
-#### [Język programowania - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Język_programowania) 
+#### [Visual Basic for Applications - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Visual_Basic_for_Applications) 
 
- Język programowania może być zdefiniowany ze względu na kilka cech: funkcja: język programowania służy do tworzenia programów komputerowych, których zadaniem jest przetwarzanie danych, wykonywanie obliczeń i algorytmów oraz kontrolowanie/obsługa zewnętrznych urządzeń, np. drukarek, robotów itd. przeznaczenie: języki naturalne ...
+ Visual Basic for Applications, VBA - język programowania oparty na Visual Basicu (VB) zaimplementowany w aplikacjach pakietu Microsoft Office oraz kilku innych, jak na przykład AutoCAD i WordPerfect.Ta uproszczona wersja Visual Basica służy przede wszystkim do automatyzacji pracy z dokumentami, na przykład poprzez makropolecenia.. Podstawową różnicą między VBA a VB jest to, że VBA ...
 
 
 

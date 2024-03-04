@@ -50,16 +50,16 @@
 
 
 
-#### [Kursy na temat C# (język programowania) - Udemy](https://www.udemy.com/pl/topic/c-sharp/) 
-
- Ucz się języka C# („C Sharp") u najwyżej ocenianych instruktorów. Znajdź kursy programowania w tym języku dopasowane do Twoich potrzeb i umiejętności. C# to zorientowany obiektowo język programowania zaprojektowany do tworzenia aplikacji na platformie firmy Microsoft i często wykorzystywany do tworzenia gier korzystających z silnika Unity
-
-
-
-
 #### [Dokumentacja języka C# — wprowadzenie, samouczki, informacje.](https://learn.microsoft.com/pl-pl/dotnet/csharp/) 
 
  Naucz się programowania w języku C# — dla początkujących deweloperów, nowych deweloperów w języku C# i doświadczonych deweloperów w języku C#/.NET. Przejdź do głównej zawartości. Ta przeglądarka nie jest już obsługiwana. Przejdź na przeglądarkę Microsoft Edge, aby korzystać z najnowszych funkcji, aktualizacji ...
+
+
+
+
+#### [Kursy na temat C# (język programowania) - Udemy](https://www.udemy.com/pl/topic/c-sharp/) 
+
+ Ucz się języka C# („C Sharp") u najwyżej ocenianych instruktorów. Znajdź kursy programowania w tym języku dopasowane do Twoich potrzeb i umiejętności. C# to zorientowany obiektowo język programowania zaprojektowany do tworzenia aplikacji na platformie firmy Microsoft i często wykorzystywany do tworzenia gier korzystających z silnika Unity
 
 
 

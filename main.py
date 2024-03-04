@@ -30,7 +30,7 @@ note = BeautifulSoup(response.text, "html.parser")
 note = note.find("p")
 note = note.text.replace("[1]", "")
 with open("index.md", "w") as f:
-    f.write(f"# Języki Programowania \n\n{note} \n Źródło: [Wikipedia]({note_url})\n\n \n\n")
+    f.write(f"# Czym jest język programowania? \n\n{note} \n Źródło: [Wikipedia]({note_url})\n\n \n\n")
     f.write(f"### [Top 20 języków programowania](top20.md)")
 
 # lista

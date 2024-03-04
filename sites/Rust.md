@@ -9,16 +9,16 @@
 
 
 
-#### [Rust (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language)) 
-
- Rust is a multi-paradigm, general-purpose programming language that emphasizes performance, type safety, and concurrency.It enforces memory safety—meaning that all references point to valid memory—without a garbage collector.To simultaneously enforce memory safety and prevent data races, its "borrow checker" tracks the object lifetime of all references in a program during compilation.
-
-
-
-
 #### [Rust - zastosowanie, przyszłość, najlepsze, polecane kursy](https://jaki-jezyk-programowania.pl/technologie/rust/) 
 
  Według ankiety przeprowadzonej przez StackOverflow Rust był najbardziej polubionym językiem wśród programistów 3 lata z rzędu - w 2016, 2017 i 2018. Oznacza to, że ten język programowania ma naprawdę dobry potencjał. Dodatkowym plusem jest to, że jest rozwijany przez Mozillę.
+
+
+
+
+#### [Rust (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language)) 
+
+ Rust is a multi-paradigm, general-purpose programming language that emphasizes performance, type safety, and concurrency.It enforces memory safety—meaning that all references point to valid memory—without a garbage collector.To simultaneously enforce memory safety and prevent data races, its "borrow checker" tracks the object lifetime of all references in a program during compilation.
 
 
 
@@ -30,9 +30,9 @@
 
 
 
-#### [Learn Rust Programming - For Beginners](https://www.programiz.com/rust) 
+#### [Język programowania Rust](https://prev.rust-lang.org/pl-PL/) 
 
- Learn Rust Programming. Tutorials Online Compiler. Rust is an open-source programming language that is extensively used to build kernels for operating systems, game engines for video games, browser engines for web browsers like Chrome, Firefox, and command-line tools. It is one of the fastest programming languages and requires less memory.
+ Język programowania Rust. Rust to systemowy język programowania, który jest niesamowicie szybki, zapobiega naruszeniom pamięci oraz gwarantuje bezpieczeństwo wątków. Zobacz, kto używa Rusta. Zainstaluj Rust 1.31.0.
 
 
 
@@ -50,16 +50,16 @@
 
 
 
-#### [Learn Rust Programming - For Beginners](https://www.programiz.com/rust) 
+#### [Wykonaj pierwsze kroki za pomocą języka Rust - Training](https://learn.microsoft.com/pl-pl/training/paths/rust-first-steps/) 
 
- Learn Rust Programming. Tutorials Online Compiler. Rust is an open-source programming language that is extensively used to build kernels for operating systems, game engines for video games, browser engines for web browsers like Chrome, Firefox, and command-line tools. It is one of the fastest programming languages and requires less memory.
-
-
+ Podstawy wiedzy potrzebnej do tworzenia szybkich i skutecznych programów w Rust. Zawartość tej ścieżki szkoleniowej: Zainstaluj narzędzia potrzebne do pisania pierwszych wierszy kodu Rust. Poznaj podstawowe pojęcia w języku Rust. Dowiedz się, jak obsługiwać błędy. Zarządzanie pamięcią w języku Rust. Użyj typów ogólnych i cech.
 
 
-#### [Learn Rust - Rust Programming Language](https://www.rust-lang.org/learn) 
 
- Get started with Rust. Affectionately nicknamed "the book," The Rust Programming Language will give you an overview of the language from first principles. You'll build a few projects along the way, and by the end, you'll have a solid grasp of the language. Read the Book!
+
+#### [Rust Programming | Coursera](https://www.coursera.org/specializations/rust-programming) 
+
+ This comprehensive Rust Specialization from Coursera and Duke University, a top Data Science and AI program, provides software engineers, data scientists, and technical professionals with applied skills to leverage Rust's speed, safety, and versatility for robust systems programming. Over five courses spanning foundational syntax to advanced ...
 
 
 

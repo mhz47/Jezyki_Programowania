@@ -23,16 +23,16 @@
 
 
 
+#### [Czym jest MATLAB i czy warto się go uczyć? deep learning](https://www.deeptechnology.ai/czym-jest-matlab-i-czy-warto-sie-go-uczyc/) 
+
+ MATLAB (Matrix Laboratory) to środowisko obliczeniowe i język programowania, który jest szeroko stosowany w nauce, inżynierii i analizie danych. MATLAB oferuje narzędzia do tworzenia interaktywnych aplikacji, wizualizacji i analizy danych, a także do tworzenia algorytmów i aplikacji. Jest to jeden z najpopularniejszych języków ...
+
+
+
+
 #### [Programming with MATLAB - MATLAB & Simulink - MathWorks](https://www.mathworks.com/products/matlab/programming-with-matlab.html) 
 
  Programming with MATLAB. MATLAB is a high-level programming language designed for engineers and scientists that expresses matrix and array mathematics directly. You can use MATLAB for everything, from running simple interactive commands to developing large-scale applications.
-
-
-
-
-#### [Matlab Tutorial #6 - Matlablog](https://matlablog.ont.com.pl/matlab-tutorial-6/) 
-
- Choć MATLAB może być traktowany jako język programowania, na pewno może zaskoczyć nietypowymi, dla "rasowego" programisty rozwiązaniami. Idea jest w zasadzie taka, by użytkownik środowiska MATLAB analizując dane nie musiał uciekać się na każdym kroku do tworzenia funkcji pomocniczych i wykorzystywania konstrukcji programistycznych takich jak pętle i instrukcje warunkowe.
 
 
 
@@ -57,9 +57,9 @@
 
 
 
-#### [Wprowadzenie do programowania w matlab - macierze funkcje wykresy](https://www.youtube.com/watch?v=YitneTjiWzA) 
+#### [Training - Courses in MATLAB, Simulink, and Stateflow](https://www.mathworks.com/learn/training.html) 
 
- W filmie przedstawione zostało przejrzyste wprowadzenie do programowania w matlab, omówiono tworzenie macierzy, funkcji typu @function_handle i wykresów. Inf...
+ Our training covers the basics of working with MATLAB and Simulink as well as intermediate and advanced techniques that address complex workflows and niche applications. Learn more about partnering with MathWorks. 2:40 Video length is 2:40. Download course catalog Contact Training.
 
 
 

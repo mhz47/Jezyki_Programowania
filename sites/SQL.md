@@ -9,13 +9,6 @@
 
 
 
-#### [SQL - na czym polega ten język programowania - Business Insider Polska](https://businessinsider.com.pl/technologie/nauka/sql-na-czym-polega-ten-jezyk-programowania/84hgpn8) 
-
- SQL, skrót od „Structured Query Language" (strukturalny język zapytań), to język programowania specjalnego przeznaczenia, służący do zarządzania dużymi ilościami danych i ich analizowania.Firmy, które zbierają duże ilości danych dotyczących klientów, ich aktywów oraz związków między nimi, wykorzystują język SQL do interpretowania nowych informacji w oparciu o ...
-
-
-
-
 #### [Wstęp do SQL: Zarządzanie danymi i tworzenie zapytań - Khan Academy](https://pl.khanacademy.org/computing/computer-programming/sql) 
 
  Podstawy SQL. Pokażemy ci podstawy tworzenia tabel, i wybierania danych na różne sposoby. Ucz się sam (a)! Witamy w SQL. Tworzenie tabel i dodawanie danych. Wyzwanie: Baza danych książek. Zapytania o dane do tabeli. Wyzwanie: Filmowe hity w bazie danych. Agregowanie danych.
@@ -23,16 +16,23 @@
 
 
 
+#### [SQL - na czym polega ten język programowania - Business Insider Polska](https://businessinsider.com.pl/technologie/nauka/sql-na-czym-polega-ten-jezyk-programowania/84hgpn8) 
+
+ SQL, skrót od „Structured Query Language" (strukturalny język zapytań), to język programowania specjalnego przeznaczenia, służący do zarządzania dużymi ilościami danych i ich analizowania.Firmy, które zbierają duże ilości danych dotyczących klientów, ich aktywów oraz związków między nimi, wykorzystują język SQL do interpretowania nowych informacji w oparciu o ...
+
+
+
+
 #### [SQL - Co To Jest i Do Czego Służy Ten Język Programowania? - Expose](https://expose.pl/sql-co-to-jest-i-do-czego-sluzy/) 
 
- SQL (ang. Structured Query Language) jest językiem zapytań, przy pomocy którego komunikujemy się z bazą danych (wydajemy polecenia, które pozwalają zarządzać znajdującymi się tam danymi). Do operacji, które wykonujemy na bazach danych (i które w prosty sposób możemy sobie zwizualizować) zaliczymy wyświetlanie interesujących ...
+ Podsumowanie. Pisanie zapytań w SQL jest bez wątpienia procesem, który oprócz znajomości podstaw teoretycznych wymaga również praktyki. Jeśli zależy Ci na praktycznym poznaniu języka SQL, zapisz się na kurs SQL.Sprawdź również inne kursy programowania oraz kursy MYSQL i takie szkolenia jak Microsoft SQL Server, Oracle SQL czy PostgreSQL ...
 
 
 
 
-#### [SQL - co to jest? Czym jest SQL i do czego służy - Szkoła IT Coders Lab](https://coderslab.pl/pl/blog/czym-jest-sql-i-do-czego-sluzy) 
+#### [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/) 
 
- SQL (Structured Query Language) to język programowania w postaci strukturalnego języka zapytań opartego o cztery polecenia SQL - Data Manipulation, Data Query, Data Control oraz SQL Data Definition. Język ten służy do tworzenia baz danych oraz ich modyfikacji i manipulacji danymi, które się w nich znajdują.
+ SQL. Tutorial. SQL is a standard language for storing, manipulating and retrieving data in databases. Our SQL tutorial will teach you how to use SQL in: MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and other database systems.
 
 
 
