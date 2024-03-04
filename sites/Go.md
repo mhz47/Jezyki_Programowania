@@ -16,6 +16,13 @@
 
 
 
+#### [Go Programming Language](https://go-language.org/) 
+
+ Performance: Go is a statically typed, compiled programming language. Built-in concurrency and a robust standard library. Build fast, reliable, and efficient software at scale. Go Language Release Notes go1.18 (released 2022-03-15) ===== Go 1.18 is a major release of Go. Minor revisions go1.18.1 (released 2022-04-12) includes security fixes to ...
+
+
+
+
 #### [Go (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language)) 
 
  Go (programming language) Go is a statically typed, compiled high-level programming language designed at Google [12] by Robert Griesemer, Rob Pike, and Ken Thompson. [13] It is syntactically similar to C, but also has memory safety, garbage collection, structural typing, [7] and CSP -style concurrency. [14]
@@ -26,13 +33,6 @@
 #### [Język Go - dlaczego warto go poznać | Codenga](https://codenga.pl/artykuly/poradniki/jezyk_go_dlaczego_wart_go_poznac) 
 
  Moglibyśmy powiedzieć, że Go usuwa istotne wady swoich poprzedników wprowadzając na ich miejsce nowoczesne rozwiązania. Jest po prostu językiem programowania na miarę XXI wieku. Szybkość. Go to język kompilowany a to oznacza szybkość w porównaniu do języków interpretowanych. Oczywiście to samo można powiedzieć o Java czy C#.
-
-
-
-
-#### [Programowanie w GO dla początkujących - Programistki są super!](https://programistkisasuper.pl/programowanie-w-go-dla-poczatkujacych/) 
-
- GO - co go wyróżnia? Golang to open-sourcowy język programowania, który charakteryzuje się prostotą składni (co mocno ułatwia jego naukę), ale też dużą wydajnością (dzięki czemu programy pisane w GO mają szerokie zastosowanie na tzw. 'backendzie'). Jego wersja 1.0 miała swoją publiczną premierę w 2012.
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.html)
+ [Powrót do listy](../top20.md)

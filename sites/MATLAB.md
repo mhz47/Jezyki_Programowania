@@ -23,16 +23,16 @@
 
 
 
-#### [MATLAB - Szybki przewodnik - Stack](https://isolution.pro/pl/t/matlab/matlab-quick-guide/matlab-szybki-przewodnik) 
-
- MATLAB (laboratorium macierzowe) to język programowania wysokiego poziomu czwartej generacji i interaktywne środowisko do obliczeń numerycznych, wizualizacji i programowania. MATLAB jest rozwijany przez MathWorks. Pozwala na manipulacje macierzą; wykreślanie funkcji i danych; implementacja algorytmów; tworzenie interfejsów użytkownika; współpraca z programami napisanymi w innych ...
-
-
-
-
 #### [Programming with MATLAB - MATLAB & Simulink - MathWorks](https://www.mathworks.com/products/matlab/programming-with-matlab.html) 
 
  Programming with MATLAB. MATLAB is a high-level programming language designed for engineers and scientists that expresses matrix and array mathematics directly. You can use MATLAB for everything, from running simple interactive commands to developing large-scale applications.
+
+
+
+
+#### [Matlab Tutorial #6 - Matlablog](https://matlablog.ont.com.pl/matlab-tutorial-6/) 
+
+ Choć MATLAB może być traktowany jako język programowania, na pewno może zaskoczyć nietypowymi, dla "rasowego" programisty rozwiązaniami. Idea jest w zasadzie taka, by użytkownik środowiska MATLAB analizując dane nie musiał uciekać się na każdym kroku do tworzenia funkcji pomocniczych i wykorzystywania konstrukcji programistycznych takich jak pętle i instrukcje warunkowe.
 
 
 
@@ -57,9 +57,9 @@
 
 
 
-#### [Training - Courses in MATLAB, Simulink, and Stateflow](https://www.mathworks.com/learn/training.html) 
+#### [Wprowadzenie do programowania w matlab - macierze funkcje wykresy](https://www.youtube.com/watch?v=YitneTjiWzA) 
 
- Our training covers the basics of working with MATLAB and Simulink as well as intermediate and advanced techniques that address complex workflows and niche applications. Learn more about partnering with MathWorks. 2:40 Video length is 2:40. Download course catalog Contact Training.
+ W filmie przedstawione zostało przejrzyste wprowadzenie do programowania w matlab, omówiono tworzenie macierzy, funkcji typu @function_handle i wykresów. Inf...
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.html)
+ [Powrót do listy](../top20.md)

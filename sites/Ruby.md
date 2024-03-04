@@ -50,16 +50,16 @@
 
 
 
-#### [Kurs Programowania: Ruby on Rails część 1 - YouTube](https://www.youtube.com/watch?v=Op4PH8Arj34) 
-
- Kurs programowania Ruby on Rails część 1 , zostały omówione takie zagadnienia programowania w Ruby on Rails jak scaffold, podstawy HTML, został omówiony ryne...
-
-
-
-
 #### [Kursy programowania - Kodologia](https://kodologia.pl/kursy) 
 
  Przeszłam kurs programowania w Ruby na Kodologii i dzięki temu dostałam się na warsztaty Rails Girls. Co jest fajnego w Kodologii? Praktyka! Jeszcze nigdy zdobywanie wiedzy nie było tak przyjemne. Z każdym rozwiązanym zadaniem chcesz wiedziec więcej i więcej".
+
+
+
+
+#### [5 najlepszych darmowych kursów do nauki języka Ruby i Rails w 2021 roku ...](https://ichi.pro/pl/5-najlepszych-darmowych-kursow-do-nauki-jezyka-ruby-i-rails-w-2021-roku-best-of-lot-247707910523236) 
+
+ 1. Ruby dla początkujących! Jest to darmowy kurs dla początkujących, przygotowany przez Udemy, aby nauczyć się podstaw języka programowania Ruby. Jeśli nie znasz języka Ruby i samego programowania, jest to idealny kurs na początek. Przed nauczeniem się Railsów, frameworka Ruby do tworzenia aplikacji internetowych, ważne jest, aby ...
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.html)
+ [Powrót do listy](../top20.md)

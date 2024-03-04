@@ -30,9 +30,9 @@
 
 
 
-#### [Swift (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Swift_(programming_language)) 
+#### [Czym jest język Swift? - progromcy.pl](https://progromcy.pl/czym-jest-jezyk-swift/) 
 
- Swift is a high-level general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community.Swift compiles to machine code, as it is an LLVM-based compiler.Swift was first released in June 2014, and the Swift toolchain has shipped in Xcode since version 6, released in 2014. Apple intended Swift to support many core concepts associated with ...
+ Język ten został zaprojektowany przez zespół programistów pod kierownictwem Chrisa Lattnera. Celem Swift było zastąpienie Objective-C jako głównego języka programowania używanego do tworzenia aplikacji na platformy Apple. Objective-C, choć mocny i elastyczny, miał swoje ograniczenia i wymagał od programistów nauki skomplikowanej ...
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.html)
+ [Powrót do listy](../top20.md)

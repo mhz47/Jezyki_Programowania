@@ -23,16 +23,16 @@
 
 
 
-#### [Podstawy języka PHP: Wprowadzenie do programowania w PHP](https://netbe.pl/podstawy-jezyka-php-wprowadzenie-do-programowania-w-php/) 
+#### [Język PHP - do czego służy i dlaczego warto go poznać](https://blog.strefakursow.pl/jezyk-php-do-czego-sluzy-i-dlaczego-warto-go-poznac/) 
 
- PHP jest jednym z najpopularniejszych języków programowania używanych do tworzenia dynamicznych stron internetowych i aplikacji webowych. Jeśli dopiero zaczynasz przygodę z PHP, warto zrozumieć podstawy tego języka, aby móc pisać skuteczny i efektywny kod. W tym artykule omówimy podstawowe koncepcje i składnię języka PHP.
-
-
+ Jest wiele powodów do rozpoczęcia nauki programowania z wykorzystaniem języka PHP. Oto kilka z nich: Popularność - PHP to najczęściej używany język programowania do tworzenia stron internetowych. Wykorzystuje go nawet przeszło 80 proc. stron WWW. Uniwersalność - PHP służy m.in. generowaniu kodu stron internetowych. Oprócz ...
 
 
-#### [PHP - co oznacza i dlaczego jest ważne w programowaniu? Wprowadzenie do ...](https://kursar.pl/php-co-oznacza-i-dlaczego-jest-wazne-w-programowaniu-wprowadzenie-do-jezyka-php/) 
 
- PHP, czyli „Hypertext Preprocessor", to język programowania, który umożliwia tworzenie dynamicznych stron internetowych i aplikacji webowych. Dzięki PHP, możesz zbudować interaktywne formularze, systemy logowania, sklepy internetowe i wiele więcej. Jest to narzędzie, które otwiera przed tobą wiele możliwości w świecie internetu.
+
+#### [Czym jest język programowania PHP i do czego jest używany? - SMART Agency](https://www.smart-agency.pl/czym-jest-php/) 
+
+ Interpretowany skryptowy język programowania - inaczej nazywany PHP, jest specjalnie stworzonym narzędziem do generowania stron internetowych oraz tworzenia aplikacji webowych w czasie rzeczywistym. Obok HTML jest to jeden z najpopularniejszych i najczęściej wykorzystywanych języków m.in. do tworzenia kompleksowych stron internetowych ...
 
 
 
@@ -57,9 +57,9 @@
 
 
 
-#### [Kurs PHP od podstaw | Udemy](https://www.udemy.com/course/php-od-podstaw/) 
+#### [Kurs PHP - praktyczny, rzetelny, darmowy i w całości online](https://kursphp.com/) 
 
- Krok po kroku zostaniesz wprowadzony w świat programowania w języku PHP i nauczysz się między innymi: - obsługi ciasteczek i mechanizmu sesji - dowiesz się przy okazji, gdzie i po co strony przechowują Twoje dane. - poznasz podstawowe aspekty bezpieczeństwa aplikacji - jak nie dać się hakerom! - dowiesz się gdzie szukać bibliotek ...
+ Cześć! Odwiedzasz właśnie kurs programowania podzielony na kilka rozdziałów. W skład każdego rozdziału wchodzą lekcje poświęcone wybranej tematyce programowania w PHP. Podstawowy kurs PHP jest już dostępny w całości! Możesz uczyć się go online lub pobrać wszystkie lekcje w formie wygodnego i obszernego e-booka.
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.html)
+ [Powrót do listy](../top20.md)

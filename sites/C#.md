@@ -30,9 +30,9 @@
 
 
 
-#### [Język C# - Czym jest i gdzie się go używa? - blog.strefakursow.pl](https://blog.strefakursow.pl/jezyk-c-czym-jest-i-gdzie-sie-go-uzywa/) 
+#### [C# - zastosowanie, przyszłość, najlepsze kursy i polecane książki](https://jaki-jezyk-programowania.pl/technologie/csharp/) 
 
- Środowisko dla C# - Visual Studio. Najbardziej popularnym IDE dla C# jest Visual Studio, czyli kolejny produkt od Microsoft. Jest to rozbudowany program, funkcjonalnością ściśle dopasowany do potrzeb programistycznych. Z pomocą Visual Studio można edytować, kompilować i debugować kod, a narzędzie mocno wspiera programistę w tych ...
+ Jest to zatem wieloplatformowy język programowania wykorzystywany w wielu dziedzinach. C# napędza m.in. stronę StackOverflow czy gry takie jak Terraria, Magicka, Bastion. Top 10 projektów na Github wykorzystujących C#. Github to system kontroli wersji. Możesz znaleźć tam projekty open source w każdej technologii.
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.html)
+ [Powrót do listy](../top20.md)

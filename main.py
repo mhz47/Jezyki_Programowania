@@ -48,7 +48,7 @@ with open('top20.md', 'w') as f:
         # zbieranie danych z tabeli
         rank = cells[0].text.strip()
         language = cells[4].text.strip()
-        language_name = language.split(" ")[-1]
+        language_name = language.split("/")[-1].replace(" ", "_")
         rating = cells[5].text.strip()
         image = img_url + cells[3].find("img")["src"]
 
@@ -67,6 +67,6 @@ with open('top20.md', 'w') as f:
             write_search(site, language + " język programowania", 5)
             site.write(f"\n\n---\n\n")
             write_search(site, language + " kurs programowania", 3)
-            site.write(f"\n\n---\n\n [Powrót do listy](top20.html)")
+            site.write(f"\n\n---\n\n [Powrót do listy](../top20.md)")
 
     f.write(f"\n\n---\n\n [Powrót do strony głównej](index.md)")

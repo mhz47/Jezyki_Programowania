@@ -4,7 +4,7 @@
 
 #### [Visual Basic - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Visual_Basic) 
 
- Visual Basic - język programowania wysokiego poziomu i narzędzie programowania firmy Microsoft.Składnia jest oparta na języku BASIC, ale unowocześniona.Zawiera kilkadziesiąt instrukcji, funkcji i słów kluczowych. Nie jest językiem w pełni obiektowym, gdyż nie udostępnia np. możliwości dziedziczenia, czy polimorfizmu.Wykorzystuje technologię ActiveX.
+ Visual Basic - język programowania wysokiego poziomu i narzędzie programowania firmy Microsoft. Składnia jest oparta na języku BASIC, ale unowocześniona. Zawiera kilkadziesiąt instrukcji, funkcji i słów kluczowych. ... Język Visual Basic zastosowano również w wielu rozbudowanych aplikacjach jako język skryptowy do tworzenia ...
 
 
 
@@ -57,9 +57,9 @@
 
 
 
-#### [Best Visual Basic Courses & Certificates Online [2024] | Coursera](https://www.coursera.org/courses?query=visual basic) 
+#### [Szkolenia VBA - Kursy Programowania VBA - Comarch](https://www.comarch.pl/szkolenia/aplikacje-biurowe/vba/) 
 
- In summary, here are 10 of our most popular visual basic courses. Excel/VBA for Creative Problem Solving: University of Colorado Boulder. Introduction to Computer Programming with Visual Basic: LearnQuest. Introduction to Visual Basic Programming: LearnQuest. Excel/VBA for Creative Problem Solving, Part 1: University of Colorado Boulder.
+ Szkolenia z Visual Basic for Aplication w MS Excel są dedykowane właśnie dla Ciebie. VBA kursy i szkolenia - sprawdź i zautomatyzuj swoją pracę! Kurs VBA dla początkujących, szkolenia VBA online, kursy zaawansowane VBA - wybierz coś dla siebie! ... Stworzyliśmy 80-godzinny inensywny kurs programowania, ...
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](.. /top20.md)
+ [Powrót do listy](../top20.md)

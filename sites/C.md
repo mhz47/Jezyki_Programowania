@@ -16,6 +16,13 @@
 
 
 
+#### [C Tutorial - Learn C Programming Language - GeeksforGeeks](https://www.geeksforgeeks.org/c-programming-language/) 
+
+ C is a general-purpose, procedural, high-level programming language used in the development of computer software and applications, system programming, games, web development, and more. C language was developed by Dennis M. Ritchie at the Bell Telephone Laboratories in 1972. It is a powerful and flexible language which was first developed for ...
+
+
+
+
 #### [Introduction to C - W3Schools](https://www.w3schools.com/c/c_intro.php) 
 
  C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972. It is a very popular language, despite being old. The main reason for its popularity is because it is a fundamental language in the field of computer science. C is strongly associated with UNIX, as it was developed to write the UNIX operating ...
@@ -26,13 +33,6 @@
 #### [Learn C Programming - Programiz: Learn to Code for Free](https://www.programiz.com/c-programming) 
 
  Learn C Programming. C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners. Our C tutorials will guide you to learn C programming one step at a time.
-
-
-
-
-#### [1. Kurs języka C - Wstęp do programowania, instalacja środowiska IDE](https://www.youtube.com/watch?v=o9zn6XQKjgU) 
-
- Wsparcie kanału - https://patronite.pl/KoWCały kurs C - https://www.youtube.com/watch?v=o9zn6XQKjgU&list=PL6aekdNhY7DBvSnK0HUUBb-OH4y41HoZw--- Chcesz wiedzie...
 
 
 
@@ -50,16 +50,16 @@
 
 
 
-#### [Programowanie w języku C - od A do Z | Udemy](https://www.udemy.com/course/programowanie-w-jezyku-c/) 
-
- OPIS KURSU. - - - - - - - - - -. Zacznij przygodę z programowaniem w języku C już dziś. Dzięki wiedzy zdobytej na tym kursie nauczysz się pisać i kompilować swoje programy komputerowe. Umiejętności związane z językiem C są bardzo dobrze postrzegane na rynku, dlatego warto dołączyć taką umiejętność do swojego CV.
-
-
-
-
 #### [Najpopularniejsze kursy online na temat C (język programowania ... - Udemy](https://www.udemy.com/pl/topic/c-programming/) 
 
  Dowiedz się, jak używać języka programowania C dzięki wykładom prowadzonym przez najwyżej ocenianych instruktorów programowania. Niezależnie od tego, czy interesujesz się podstawami czy zaawansowanymi zastosowaniami języka programowania C, Udemy z pewnością ma kurs, który pomoże Ci stać się lepszym programistą.
+
+
+
+
+#### [Programowanie w języku C - od A do Z | Udemy](https://www.udemy.com/course/programowanie-w-jezyku-c/) 
+
+ OPIS KURSU. - - - - - - - - - -. Zacznij przygodę z programowaniem w języku C już dziś. Dzięki wiedzy zdobytej na tym kursie nauczysz się pisać i kompilować swoje programy komputerowe. Umiejętności związane z językiem C są bardzo dobrze postrzegane na rynku, dlatego warto dołączyć taką umiejętność do swojego CV.
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.html)
+ [Powrót do listy](../top20.md)

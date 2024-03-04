@@ -4,7 +4,7 @@
 
 #### [C++ - Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/C++) 
 
- C++ - język programowania ogólnego przeznaczenia. Język został zaprojektowany przez Bjarne Stroustrupa jako rozszerzenie języka C o obiektowe mechanizmy abstrakcji danych i silną statyczną kontrolę typów. Zachowanie zgodności z językiem C na poziomie kodu źródłowego pozostaje jednym z podstawowych celów projektowych kolejnych standardów języka.
+ Język C++ jest językiem wieloparadygmatowym [18]. Oznacza to, że można w nim stosować jednocześnie różne style programowania, w tym programowanie proceduralne, obiektowe, generyczne, jak również programować na poziomie asemblera. Język C++ zakłada statyczną kontrolę typów; posiada też elementy dynamicznej kontroli typów.
 
 
 
@@ -50,16 +50,16 @@
 
 
 
-#### [Bezpłatne kursy i samouczki na temat C++ (język programowania) - Udemy](https://www.udemy.com/pl/topic/c-plus-plus/free/) 
+#### [Kursy na temat C++ (język programowania) - Udemy](https://www.udemy.com/pl/topic/c-plus-plus/) 
 
  Ucz się języka C++ („C plus plus") u najlepiej ocenianych instruktorów. Znajdź najlepsze kursy C++, od podstaw programowania w tym języku po jego najbardziej zaawansowane zastosowania. C++ to zorientowana obiektowo, rozszerzona wersja języka C, pozwalająca na więcej zastosowań. Z C++ najczęściej korzystają programiści na platformie .NET firmy Microsoft i twórcy gier ...
 
 
 
 
-#### [Kursy C++ - Coders School](https://coders.school/) 
+#### [Bezpłatne kursy i samouczki na temat C++ (język programowania) - Udemy](https://www.udemy.com/pl/topic/c-plus-plus/free/) 
 
- Ukończyłam kurs programowania C++. Był to zdecydowanie najlepiej zorganizowany kurs na jaki uczęszczałam. Przed zajęciami udostępniane były materiały z wiedzą teoretyczną, które w czasie spotkań były szczegółowo omawiane w połączeniu z zadaniami praktycznymi. Między zajęciami wykonywaliśmy zadania indywidualne i grupowe ...
+ Ucz się języka C++ („C plus plus") u najlepiej ocenianych instruktorów. Znajdź najlepsze kursy C++, od podstaw programowania w tym języku po jego najbardziej zaawansowane zastosowania. C++ to zorientowana obiektowo, rozszerzona wersja języka C, pozwalająca na więcej zastosowań. Z C++ najczęściej korzystają programiści na platformie .NET firmy Microsoft i twórcy gier ...
 
 
 
@@ -68,4 +68,4 @@
 
 ---
 
- [Powrót do listy](top20.html)
+ [Powrót do listy](../top20.md)

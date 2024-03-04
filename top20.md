@@ -86,7 +86,7 @@ Ocena: 1.73%
 
 Ocena: 1.52%
 
- [Więcej informacji](sites/Basic.md)
+ [Więcej informacji](sites/Visual_Basic.md)
 
 ---
 
@@ -116,7 +116,7 @@ Ocena: 1.40%
 
 Ocena: 1.40%
 
- [Więcej informacji](sites/Pascal.md)
+ [Więcej informacji](sites/Object_Pascal.md)
 
 ---
 
@@ -136,7 +136,7 @@ Ocena: 1.26%
 
 Ocena: 1.19%
 
- [Więcej informacji](sites/language.md)
+ [Więcej informacji](sites/Assembly_language.md)
 
 ---
 
