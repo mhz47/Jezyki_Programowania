@@ -23,7 +23,7 @@ github:
 #plugins:
   #- jekyll-feed
 
-title: <p align="center">Języki Programowania</p>
+title: Języki Programowania
 auto_ids: false
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
